@@ -26,7 +26,7 @@ class TalentSort(object):
     def popularity(self, hero, num=False):
         sortedBuild = []
         for level,talents in hero.talents.iteritems():
-            sortedTeir=sorted(talents, key=lambda tup: tup[5])[0]
+            sortedTeir=sorted(talents, key=lambda tup: tup[5], reverse=True)[0]
             if num:
                 sortedBuild.append(sortedTeir.number)
             else:
@@ -58,7 +58,7 @@ class HeroParser(object):
 
 
     def parse_talent_list(self):
-        Talent = namedtuple('Talent', 'number, talent, description, gamesPlayed, popularity, winPercent')
+        Talent = namedtuple('Talent', 'number, talentName, description, gamesPlayed, popularity, winPercent, imgName')
         talents = {}
         rawTalents = self.html.find(id='ctl00_MainContent_RadGridHeroTalentStatistics_ctl00').tbody
         level = 0
@@ -70,22 +70,28 @@ class HeroParser(object):
                     level = int(m.group(1))
                     talents[level] = []
             else:
-                talent=row.td.next_sibling.next_sibling.next_sibling
-                description=talent.next_sibling
+                talentImgRow=row.td.next_sibling.next_sibling
+                talentName=talentImgRow.next_sibling
+                description=talentName.next_sibling
                 gamesPlayed=description.next_sibling
                 popularity=gamesPlayed.next_sibling
                 winPercent=popularity.next_sibling
+                talentImg=re.match('/(.*)\.png$', talentImgRow.img['src']).group(1)
                 talents[level].append(
-                    Talent(i, talent.string,
+                    Talent(i, talentName.string,
                            description.string, gamesPlayed.string,
-                           popularity.string, winPercent.string) )
+                           popularity.string,
+                           float(winPercent.string.strip(' %')),
+                           talentImg
+                    )
+                )
                 i = i + 1
         return talents
 
     def parse_top_builds(self):
         ''' todo update the builds to include talent number ? '''
         rawBuilds = []
-        for i in range(0, 9):
+        for i in range(0, 10):
             search = 'ctl00_MainContent_RadGridPopularTalentBuilds_ctl00__' + str(i)
             rawBuilds.append(self.html.find(id=search))
 
@@ -95,7 +101,8 @@ class HeroParser(object):
             m = None
             if i not in builds: builds[i] = []
             for column in row.find_all('img',):
-                m = re.match('([^:]*):(.*)', column.attrs['alt'])
+                #m = re.match('([^:]*):(.*)', column.attrs['alt'])
+                m = re.match('/(.*)\.png$', column.attrs['src'])
                 if m:
                     builds[i].append(m.group(1))
             i = i+1

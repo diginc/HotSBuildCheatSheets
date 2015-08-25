@@ -12,36 +12,67 @@ class HotSLogsLog(object):
             self.popularBuild[hero] = TalentSort().popularity(curHero)
             self.popularBuildByNum[hero] = TalentSort().popularity(curHero, num=True)
 
+    def write_shorthand_header(self, fh):
+        fh.write('{:<4} | {:<9} | {}\n'.format('Rank', 'Build', 'Note'))
+        fh.write('{:<4} | {:<9} | {}\n'.format('----', '-----', '----'))
+
     def update_flatfiles(self):
         ''' Human readable/consumable data '''
-        with open('wiki/Home.md', 'w') as wiki:
-            wiki.write(doclib.INDEX[0] + '\n\n')
-            wiki.write('Hero | Shorthand Talents\n--- | ---\n')
-            for name in HEROES:
-                wiki.write(name +' | '+ self.format_talents_shorthand(name)+'\n')
-            wiki.write('\n\n')
-            wiki.write('\n\n'.join(doclib.INDEX[1:len(doclib.INDEX)]))
+        wikiFile = open('wiki/Home.md', 'w')
+        wikiFile.write(doclib.INDEX[0])
 
-    def format_talents_shorthand(self, name):
+        for name in HEROES:
+            heroFile = open('wiki/'+ name +'.md', 'w')
+            heroFile.write('# '+ name +' Builds\n\n')
+            wikiFile.write('\n\n# '+ name +' Builds Shorthand\n\n')
+            self.write_shorthand_header(wikiFile)
+            self.write_shorthand_header(heroFile)
+
+            topTalentBuild = self.popularBuild[name]
+            topTalentBuildNums = self.popularBuildByNum[name]
+            foundTopTalentBuild = False
+
+            #heroFile.write(self.format_talents_verbose())
+            for i in range(1, 11):
+                rankedBuild = self.heroes[name].topBuildNums[i]
+                rankedBuildStr = self.format_talents_shorthand(rankedBuild)
+                note = ''
+                if rankedBuild == topTalentBuildNums:
+                    note = '* Highest ranked popularity talents'
+                    foundTopTalentBuild = True
+                line = '  {:<2d} | {:<9} | {}\n'.format(i, rankedBuildStr, note)
+                wikiFile.write(line)
+                heroFile.write(line)
+            if not foundTopTalentBuild:
+                note = '* Highest ranked popularity talents'
+                topTalentBuildStr = self.format_talents_shorthand(topTalentBuildNums)
+                line = '  {:<2} | {:<9} | {}\n'.format('NR', topTalentBuildStr, note)
+                wikiFile.write(line)
+                heroFile.write(line)
+
+        wikiFile.write('\n\n')
+        wikiFile.write('\n\n'.join(doclib.INDEX[1:len(doclib.INDEX)]))
+
+    def format_talents_shorthand(self, build):
         buildStr = ''
-        for teir,talentNum in enumerate(self.popularBuildByNum[name]):
+        for teir,talentNum in enumerate(build):
             if teir == 3:
                 buildStr = buildStr +'-'+ str(talentNum) +'-'
             else:
                 buildStr = buildStr + str(talentNum)
         return buildStr
 
-    def format_talents_verbose(self, name):
+    def format_talents_verbose(self, build):
         buildStr = ''
-        for teir,talent in enumerate(self.popularBuild[name]):
+        for teir,talent in enumerate(build):
             talentNum = str(talent.number)
             buildStr = buildStr + talentNum +', '+ talent.talent +'\n'
         return buildStr
 
-    def write_verbose_builds(self, writeTo, heroNames):
+    def write_verbose_builds(self, fh, heroNames, build):
         for name in heroNames:
-            print name +': '+ self.format_talents_shorthand(self.popularBuildByNum[name])
-            print self.format_talents_verbose(self.popularBuild[name])
+            fh.write(name +': '+ self.format_talents_shorthand(build))
+            fh.write(self.format_talents_verbose(build))
 
 
 if __name__ == "__main__":
@@ -49,4 +80,5 @@ if __name__ == "__main__":
     latestData.update_flatfiles()
 
     #print latestData.heroes['Zagara'].topBuilds
-    #print latestData.heroes['Zagara'].topBuildNums latestData.write_verbose_builds(None, HEROES)
+    #print latestData.heroes['Zagara'].topBuildNums 
+    #latestData.write_verbose_builds(None, HEROES)
