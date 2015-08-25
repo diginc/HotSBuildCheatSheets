@@ -1,11 +1,11 @@
 INDEX = [
     '''# HOTS Logs Build Cheatsheets
-Here are the most popular Hero of the Storm Heros' builds from [https://www.hotslogs.com/Default](HOTS Logs) in a **shorthand format**.
+Here are the most popular Hero of the Storm Heros' builds from [HOTS Logs](https://www.hotslogs.com/Default) in a **shorthand format**.
 
-* [[Shorthand Explained|#shorthand-explained]]
-* [[Shorthand Example|#shorthand-example]]
-* [[Why?|#why]]
-* [[How?|#how]]
+* [[Shorthand Explained|Home#shorthand-explained]]
+* [[Shorthand Example|Home#shorthand-example]]
+* [[Why?|Home#why]]
+* [[How?|Home#how]]
 
 The wiki sidebar is also searchable to make it easier to find a hero quickly.
 ''',
