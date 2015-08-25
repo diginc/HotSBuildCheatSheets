@@ -1,6 +1,6 @@
 INDEX = [
-    '''# HOTS Logs Build Cheatsheets
-Here are the most popular Hero of the Storm Heros' builds from [HOTS Logs](https://www.hotslogs.com/Default) in a **shorthand format**.
+    '''# HOTS Build Cheatsheets
+Here are the most popular Hero of the Storm Heros' builds from [HOTS Logs](https://www.hotslogs.com/Default) in a **shorthand format**.  All credit goes to HOTS Logs for the data, I am merely reformatting it.
 
 * [[Shorthand Explained|Home#shorthand-explained]]
 * [[Shorthand Example|Home#shorthand-example]]
