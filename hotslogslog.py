@@ -12,10 +12,6 @@ class HotSLogsLog(object):
             self.popularBuild[hero] = TalentSort().popularity(curHero)
             self.popularBuildByNum[hero] = TalentSort().popularity(curHero, num=True)
 
-    def write_shorthand_header(self, fh):
-        fh.write('{:<4} | {:<9} | {}\n'.format('Rank', 'Build', 'Note'))
-        fh.write('{:<4} | {:<9} | {}\n'.format('----', '-----', '----'))
-
     def update_flatfiles(self):
         ''' Human readable/consumable data '''
         wikiFile = open('wiki/Home.md', 'w')
@@ -32,7 +28,6 @@ class HotSLogsLog(object):
             topTalentBuildNums = self.popularBuildByNum[name]
             foundTopTalentBuild = False
 
-            #heroFile.write(self.format_talents_verbose())
             for i in range(1, 11):
                 rankedBuild = self.heroes[name].topBuildNums[i]
                 rankedBuildStr = self.format_talents_shorthand(rankedBuild)
@@ -55,8 +50,8 @@ class HotSLogsLog(object):
 
     def format_talents_shorthand(self, build):
         buildStr = ''
-        for teir,talentNum in enumerate(build):
-            if teir == 3:
+        for tier,talentNum in enumerate(build):
+            if tier == 3:
                 buildStr = buildStr +'-'+ str(talentNum) +'-'
             else:
                 buildStr = buildStr + str(talentNum)
@@ -64,21 +59,16 @@ class HotSLogsLog(object):
 
     def format_talents_verbose(self, build):
         buildStr = ''
-        for teir,talent in enumerate(build):
+        for tier,talent in enumerate(build):
             talentNum = str(talent.number)
             buildStr = buildStr + talentNum +', '+ talent.talent +'\n'
         return buildStr
 
-    def write_verbose_builds(self, fh, heroNames, build):
-        for name in heroNames:
-            fh.write(name +': '+ self.format_talents_shorthand(build))
-            fh.write(self.format_talents_verbose(build))
+    def write_shorthand_header(self, fh):
+        fh.write('{:<4} | {:<9} | {}\n'.format('Rank', 'Build', 'Note'))
+        fh.write('{:<4} | {:<9} | {}\n'.format('----', '-----', '----'))
 
 
 if __name__ == "__main__":
     latestData = HotSLogsLog()
     latestData.update_flatfiles()
-
-    #print latestData.heroes['Zagara'].topBuilds
-    #print latestData.heroes['Zagara'].topBuildNums 
-    #latestData.write_verbose_builds(None, HEROES)

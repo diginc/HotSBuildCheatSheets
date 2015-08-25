@@ -20,7 +20,7 @@ HEROES = [
 
 if DEBUG: HEROES = [ "Zagara" ]
 
-TEIRTOLEVEL=[ 1,4,7,10,13,16,20 ]
+TIERTOLEVEL=[ 1,4,7,10,13,16,20 ]
 
 class TalentSort(object):
     def popularity(self, hero, num=False):
@@ -32,6 +32,7 @@ class TalentSort(object):
             else:
                 sortedBuild.append(sortedTeir)
         return sortedBuild
+
 
 class HeroParser(object):
     def __init__(self, hero):
@@ -49,21 +50,22 @@ class HeroParser(object):
             if rank not in topBuildNums:
                 topBuildNums[rank] = []
 
-            for k,v in enumerate(build):
-                for talent in talents[TEIRTOLEVEL[k]]:
-                    if v in talent:
+            for k,imgName in enumerate(build):
+                for talentTuple in talents[TEIRTOLEVEL[k]]:
+                    if imgName in talentTuple:
                         topBuildNums[rank].append(talent.number)
 
         return topBuildNums
 
 
     def parse_talent_list(self):
+        ''' Scape any useful data out of the full talent list table '''
         Talent = namedtuple('Talent', 'number, talentName, description, gamesPlayed, popularity, winPercent, imgName')
         talents = {}
         rawTalents = self.html.find(id='ctl00_MainContent_RadGridHeroTalentStatistics_ctl00').tbody
         level = 0
         for row in rawTalents.find_all('tr'):
-            if row.attrs['class'][0] == 'rgGroupHeader':
+            if self.row_is_start_of_new_tier(row):
                 i = 1
                 m = re.match('Level: (\d+)', row.find('span', attrs={'class': 'rgGroupHeaderText'}).string)
                 if m and m.group(1) not in talents:
@@ -76,6 +78,7 @@ class HeroParser(object):
                 gamesPlayed=description.next_sibling
                 popularity=gamesPlayed.next_sibling
                 winPercent=popularity.next_sibling
+                # Image name is for linking to the top winning builds
                 talentImg=re.match('/(.*)\.png$', talentImgRow.img['src']).group(1)
                 talents[level].append(
                     Talent(i, talentName.string,
@@ -88,8 +91,11 @@ class HeroParser(object):
                 i = i + 1
         return talents
 
+    def row_is_start_of_new_tier(self, row):
+        return row.attrs['class'][0] == 'rgGroupHeader'
+
     def parse_top_builds(self):
-        ''' todo update the builds to include talent number ? '''
+        ''' Scrape the top winning build table '''
         rawBuilds = []
         for i in range(0, 10):
             search = 'ctl00_MainContent_RadGridPopularTalentBuilds_ctl00__' + str(i)
@@ -101,7 +107,8 @@ class HeroParser(object):
             m = None
             if i not in builds: builds[i] = []
             for column in row.find_all('img',):
-                #m = re.match('([^:]*):(.*)', column.attrs['alt'])
+                ''' imgName as a key works better than alt text
+                        because of colons in talent names '''
                 m = re.match('/(.*)\.png$', column.attrs['src'])
                 if m:
                     builds[i].append(m.group(1))
