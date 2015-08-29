@@ -1,6 +1,8 @@
 from herolib import HEROES, HeroParser, TalentSort
 import doclib
 
+HEROTABLE = '{:<6} | {:<6} | {:<9} | {}\n'
+
 class HotSLogsLog(object):
     def __init__(self):
         self.heroes = {}
@@ -28,20 +30,28 @@ class HotSLogsLog(object):
             topTalentBuildNums = self.popularBuildByNum[name]
             foundTopTalentBuild = False
 
-            for i in range(1, 11):
-                rankedBuild = self.heroes[name].topBuildNums[i]
-                rankedBuildStr = self.format_talents_shorthand(rankedBuild)
+            for i in range(len(self.heroes[name].topBuilds)):
+                rankedBuild = self.heroes[name].topBuilds[i]
+                rankedBuildStr = self.format_talents_shorthand(rankedBuild.buildByNum)
                 note = ''
-                if rankedBuild == topTalentBuildNums:
+                if rankedBuild.buildByNum == topTalentBuildNums:
                     note = '* Highest ranked popularity talents'
                     foundTopTalentBuild = True
-                line = '  {:<2d} | {:<9} | {}\n'.format(i, rankedBuildStr, note)
+                line = HEROTABLE.format(
+                    rankedBuild.gamesPlayed,
+                    rankedBuild.winPercent,
+                    rankedBuildStr, note
+                )
                 wikiFile.write(line)
                 heroFile.write(line)
             if not foundTopTalentBuild:
                 note = '* Highest ranked popularity talents'
                 topTalentBuildStr = self.format_talents_shorthand(topTalentBuildNums)
-                line = '  {:<2} | {:<9} | {}\n'.format('NR', topTalentBuildStr, note)
+                line = HEROTABLE.format(
+                    'N/A',
+                    'N/A',
+                    topTalentBuildStr, note
+                )
                 wikiFile.write(line)
                 heroFile.write(line)
 
@@ -65,8 +75,8 @@ class HotSLogsLog(object):
         return buildStr
 
     def write_shorthand_header(self, fh):
-        fh.write('{:<4} | {:<9} | {}\n'.format('Rank', 'Build', 'Note'))
-        fh.write('{:<4} | {:<9} | {}\n'.format('----', '-----', '----'))
+        fh.write(HEROTABLE.format('Games', 'Win %', 'Build', 'Note'))
+        fh.write(HEROTABLE.format('-----', '-----', '-----', '----'))
 
 
 if __name__ == "__main__":

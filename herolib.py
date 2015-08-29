@@ -40,23 +40,7 @@ class HeroParser(object):
         if DEBUG: source = 'http://diginc.us/HeroDetails.html?Hero=' + hero
         self.html = BeautifulSoup(requests.get(source, verify=False).text, 'lxml')
         self.talents = self.parse_talent_list()
-        self.topBuilds = self.parse_top_builds()
-        self.topBuildNums = self.talent_names_to_numbers(self.topBuilds,
-                                                         self.talents)
-
-    def talent_names_to_numbers(self, topBuilds, talents):
-        topBuildNums = {}
-        for rank, build in topBuilds.iteritems():
-            if rank not in topBuildNums:
-                topBuildNums[rank] = []
-
-            for k,imgName in enumerate(build):
-                for talentTuple in talents[TEIRTOLEVEL[k]]:
-                    if imgName in talentTuple:
-                        topBuildNums[rank].append(talent.number)
-
-        return topBuildNums
-
+        self.topBuilds = self.parse_top_builds(self.talents)
 
     def parse_talent_list(self):
         ''' Scape any useful data out of the full talent list table '''
@@ -94,23 +78,41 @@ class HeroParser(object):
     def row_is_start_of_new_tier(self, row):
         return row.attrs['class'][0] == 'rgGroupHeader'
 
-    def parse_top_builds(self):
-        ''' Scrape the top winning build table '''
+    def parse_top_builds(self, talents):
+        ''' Scrape the top winning build table and 
+        return a usable set of data by combining it with the talent table '''
         rawBuilds = []
         for i in range(0, 10):
             search = 'ctl00_MainContent_RadGridPopularTalentBuilds_ctl00__' + str(i)
             rawBuilds.append(self.html.find(id=search))
 
+
+        TopBuild = namedtuple('TopBuild', 'gamesPlayed, winPercent, buildByNum, buildByImgName')
         builds = {}
-        i = 1
+        i = 0
+
         for row in rawBuilds:
+            #print i, ':', row
             m = None
-            if i not in builds: builds[i] = []
+            buildNums = []
+            buildImgs = []
+            gamesPlayed = row.td
+            winPercent = gamesPlayed.next_sibling
+
             for column in row.find_all('img',):
+                buildImg = None
                 ''' imgName as a key works better than alt text
                         because of colons in talent names '''
                 m = re.match('/(.*)\.png$', column.attrs['src'])
                 if m:
-                    builds[i].append(m.group(1))
+                    buildImg = m.group(1)
+                    buildImgs.append(buildImg)
+                    #print(TIERTOLEVEL[len(buildNums)], '\n')
+                    for talent in talents[TIERTOLEVEL[len(buildNums)]]:
+                        if buildImg == talent.imgName:
+                            buildNums.append(talent.number)
+            builds[i] = TopBuild(gamesPlayed.string, winPercent.string,
+                         buildNums, buildImgs)
             i = i+1
+
         return builds
