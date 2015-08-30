@@ -1,4 +1,6 @@
-# Malfurion Builds
+# Malfurion
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Malfurion) | [HotS Counters](http://hotscounters.com/#/hero/Malfurion)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----

@@ -1,4 +1,6 @@
-# Muradin Builds
+# Muradin
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Muradin) | [HotS Counters](http://hotscounters.com/#/hero/Muradin)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----

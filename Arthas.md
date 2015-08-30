@@ -1,4 +1,6 @@
-# Arthas Builds
+# Arthas
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Arthas) | [HotS Counters](http://hotscounters.com/#/hero/Arthas)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----

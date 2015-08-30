@@ -1,4 +1,6 @@
-# The Butcher Builds
+# The Butcher
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=The Butcher) | [HotS Counters](http://hotscounters.com/#/hero/The Butcher)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----

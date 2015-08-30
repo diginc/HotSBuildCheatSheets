@@ -1,4 +1,6 @@
-# Illidan Builds
+# Illidan
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Illidan) | [HotS Counters](http://hotscounters.com/#/hero/Illidan)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----

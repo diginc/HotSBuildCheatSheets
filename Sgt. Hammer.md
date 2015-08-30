@@ -1,4 +1,6 @@
-# Sgt. Hammer Builds
+# Sgt. Hammer
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Sgt. Hammer) | [HotS Counters](http://hotscounters.com/#/hero/Sgt. Hammer)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----

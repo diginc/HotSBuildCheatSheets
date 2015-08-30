@@ -1,4 +1,6 @@
-# Tassadar Builds
+# Tassadar
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Tassadar) | [HotS Counters](http://hotscounters.com/#/hero/Tassadar)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----

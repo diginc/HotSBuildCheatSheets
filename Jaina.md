@@ -1,4 +1,6 @@
-# Jaina Builds
+# Jaina
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Jaina) | [HotS Counters](http://hotscounters.com/#/hero/Jaina)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----

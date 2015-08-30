@@ -1,4 +1,6 @@
-# Tychus Builds
+# Tychus
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Tychus) | [HotS Counters](http://hotscounters.com/#/hero/Tychus)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----

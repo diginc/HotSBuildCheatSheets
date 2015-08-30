@@ -1,4 +1,6 @@
-# Tyrael Builds
+# Tyrael
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Tyrael) | [HotS Counters](http://hotscounters.com/#/hero/Tyrael)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----

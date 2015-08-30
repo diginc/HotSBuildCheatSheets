@@ -1,4 +1,6 @@
-# Sylvanas Builds
+# Sylvanas
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Sylvanas) | [HotS Counters](http://hotscounters.com/#/hero/Sylvanas)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----

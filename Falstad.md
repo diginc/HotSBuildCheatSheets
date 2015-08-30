@@ -1,4 +1,6 @@
-# Falstad Builds
+# Falstad
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Falstad) | [HotS Counters](http://hotscounters.com/#/hero/Falstad)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----

@@ -1,4 +1,6 @@
-# Gazlowe Builds
+# Gazlowe
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Gazlowe) | [HotS Counters](http://hotscounters.com/#/hero/Gazlowe)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----

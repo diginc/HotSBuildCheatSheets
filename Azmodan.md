@@ -1,4 +1,6 @@
-# Azmodan Builds
+# Azmodan
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Azmodan) | [HotS Counters](http://hotscounters.com/#/hero/Azmodan)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
