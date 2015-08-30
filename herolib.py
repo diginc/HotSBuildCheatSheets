@@ -22,7 +22,7 @@ if DEBUG: HEROES = [ "Zagara" ]
 
 TIERTOLEVEL=[ 1,4,7,10,13,16,20 ]
 
-class TalentSort(object):
+class TalentSorter(object):
     def popularity(self, hero, num=False):
         sortedBuild = []
         for level,talents in hero.talents.iteritems():
@@ -62,7 +62,7 @@ class HeroParser(object):
                 gamesPlayed=description.next_sibling
                 popularity=gamesPlayed.next_sibling
                 winPercent=popularity.next_sibling
-                # Image name is for linking to the top winning builds
+                ''' Image name is for linking to the top winning builds '''
                 talentImg=re.match('/(.*)\.png$', talentImgRow.img['src']).group(1)
                 talents[level].append(
                     Talent(i, talentName.string,
@@ -92,7 +92,6 @@ class HeroParser(object):
         i = 0
 
         for row in rawBuilds:
-            #print i, ':', row
             m = None
             buildNums = []
             buildImgs = []
@@ -107,7 +106,6 @@ class HeroParser(object):
                 if m:
                     buildImg = m.group(1)
                     buildImgs.append(buildImg)
-                    #print(TIERTOLEVEL[len(buildNums)], '\n')
                     for talent in talents[TIERTOLEVEL[len(buildNums)]]:
                         if buildImg == talent.imgName:
                             buildNums.append(talent.number)

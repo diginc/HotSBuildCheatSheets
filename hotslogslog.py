@@ -1,7 +1,7 @@
-from herolib import HEROES, HeroParser, TalentSort
+from herolib import HEROES, HeroParser, TalentSorter
 import doclib
 
-HEROTABLE = '{:<6} | {:<6} | {:<9} | {}\n'
+TALENTTABLE = '{:<6} | {:<6} | {:<9} | {}\n'
 
 class HotSLogsLog(object):
     def __init__(self):
@@ -11,8 +11,8 @@ class HotSLogsLog(object):
         for hero in HEROES:
             curHero = HeroParser(hero=hero)
             self.heroes[hero] = curHero
-            self.popularBuild[hero] = TalentSort().popularity(curHero)
-            self.popularBuildByNum[hero] = TalentSort().popularity(curHero, num=True)
+            self.popularBuild[hero] = TalentSorter().popularity(curHero)
+            self.popularBuildByNum[hero] = TalentSorter().popularity(curHero, num=True)
 
     def update_flatfiles(self):
         ''' Human readable/consumable data '''
@@ -21,12 +21,11 @@ class HotSLogsLog(object):
 
         for name in HEROES:
             heroFile = open('wiki/'+ name +'.md', 'w')
-            heroFile.write('# '+ name +' Builds\n\n')
-            wikiFile.write('\n\n# '+ name +' Builds Shorthand\n\n')
-            self.write_shorthand_header(wikiFile)
-            self.write_shorthand_header(heroFile)
+            heroFile.write('# '+ name +'\n\n')
+            wikiFile.write('\n\n# '+ name +'\n\n')
+            self.write_talent_table_header(wikiFile, name)
+            self.write_talent_table_header(heroFile, name)
 
-            topTalentBuild = self.popularBuild[name]
             topTalentBuildNums = self.popularBuildByNum[name]
             foundTopTalentBuild = False
 
@@ -37,7 +36,7 @@ class HotSLogsLog(object):
                 if rankedBuild.buildByNum == topTalentBuildNums:
                     note = '* Highest ranked popularity talents'
                     foundTopTalentBuild = True
-                line = HEROTABLE.format(
+                line = TALENTTABLE.format(
                     rankedBuild.gamesPlayed,
                     rankedBuild.winPercent,
                     rankedBuildStr, note
@@ -47,7 +46,7 @@ class HotSLogsLog(object):
             if not foundTopTalentBuild:
                 note = '* Highest ranked popularity talents'
                 topTalentBuildStr = self.format_talents_shorthand(topTalentBuildNums)
-                line = HEROTABLE.format(
+                line = TALENTTABLE.format(
                     'N/A',
                     'N/A',
                     topTalentBuildStr, note
@@ -74,9 +73,16 @@ class HotSLogsLog(object):
             buildStr = buildStr + talentNum +', '+ talent.talent +'\n'
         return buildStr
 
-    def write_shorthand_header(self, fh):
-        fh.write(HEROTABLE.format('Games', 'Win %', 'Build', 'Note'))
-        fh.write(HEROTABLE.format('-----', '-----', '-----', '----'))
+    def write_talent_table_header(self, fh, heroName):
+        hotsUrl = 'https://www.hotslogs.com/Sitewide/HeroDetails?Hero=' + heroName
+        counterUrl = 'http://hotscounters.com/#/hero/' + heroName
+        fh.write('Links: [{}]({}) | [{}]({})\n\n'.format(
+                'HOTS Logs Source', hotsUrl,
+                'HotS Counters', counterUrl 
+            )
+        )
+        fh.write(TALENTTABLE.format('Games', 'Win %', 'Build', 'Note'))
+        fh.write(TALENTTABLE.format('-----', '-----', '-----', '----'))
 
 
 if __name__ == "__main__":

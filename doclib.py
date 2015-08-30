@@ -12,7 +12,8 @@ The wiki sidebar is also searchable to make it easier to find a hero quickly.
     '''## Shorthand Explained
 * The actual number is the number of talents down from the top of that tier's talent list.
 * Left to right are level tiers, in order, with the Heroic between dashes (Levels 1,4,7, dash, 10, dash, 13, 16, 20)
-    My shorthand format is each talent tier gets represent by a number, that number is the number of choices down from the first talent for that tier.  I group the tier talent numbers symmetrically with the first 3 levels and last 3 bunched up, and level 10 with dashes around it.  See the example at the bottom if this is confusing or click through to the hero pages.
+
+This shorthand format is each talent tier gets represent by a number, that number is the number of choices down from the first talent for that tier.  I group the tier talent numbers symmetrically with the first 3 levels and last 3 bunched up, and level 10 with dashes around it.  See the example at the bottom if this is confusing or click through to the hero pages.
 ''',
 
     '''## Shorthand Example
