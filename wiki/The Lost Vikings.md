@@ -1,4 +1,6 @@
-# The Lost Vikings Builds
+# The Lost Vikings
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=The Lost Vikings) | [HotS Counters](http://hotscounters.com/#/hero/The Lost Vikings)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----

@@ -1,4 +1,6 @@
-# Johanna Builds
+# Johanna
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Johanna) | [HotS Counters](http://hotscounters.com/#/hero/Johanna)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----

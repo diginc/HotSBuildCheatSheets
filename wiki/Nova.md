@@ -1,4 +1,6 @@
-# Nova Builds
+# Nova
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Nova) | [HotS Counters](http://hotscounters.com/#/hero/Nova)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----

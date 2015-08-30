@@ -1,4 +1,6 @@
-# Valla Builds
+# Valla
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Valla) | [HotS Counters](http://hotscounters.com/#/hero/Valla)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----

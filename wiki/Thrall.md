@@ -1,4 +1,6 @@
-# Thrall Builds
+# Thrall
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Thrall) | [HotS Counters](http://hotscounters.com/#/hero/Thrall)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----

@@ -1,4 +1,6 @@
-# Raynor Builds
+# Raynor
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Raynor) | [HotS Counters](http://hotscounters.com/#/hero/Raynor)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----

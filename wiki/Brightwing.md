@@ -1,4 +1,6 @@
-# Brightwing Builds
+# Brightwing
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Brightwing) | [HotS Counters](http://hotscounters.com/#/hero/Brightwing)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----

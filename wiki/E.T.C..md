@@ -1,4 +1,6 @@
-# E.T.C. Builds
+# E.T.C.
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=E.T.C.) | [HotS Counters](http://hotscounters.com/#/hero/E.T.C.)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----

@@ -9,7 +9,9 @@ Here are the most popular Hero of the Storm Heros' builds from [HOTS Logs](https
 The wiki sidebar is also searchable to make it easier to find a hero quickly.
 
 
-# Abathur Builds Shorthand
+# Abathur
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Abathur) | [HotS Counters](http://hotscounters.com/#/hero/Abathur)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -26,7 +28,9 @@ Games  | Win %  | Build     | Note
 N/A    | N/A    | 112-1-413 | * Highest ranked popularity talents
 
 
-# Anub'arak Builds Shorthand
+# Anub'arak
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Anub'arak) | [HotS Counters](http://hotscounters.com/#/hero/Anub'arak)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -43,7 +47,9 @@ Games  | Win %  | Build     | Note
 N/A    | N/A    | 443-1-111 | * Highest ranked popularity talents
 
 
-# Arthas Builds Shorthand
+# Arthas
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Arthas) | [HotS Counters](http://hotscounters.com/#/hero/Arthas)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -59,7 +65,9 @@ Games  | Win %  | Build     | Note
 49     | 55.1 % | 421-2-143 | 
 
 
-# Azmodan Builds Shorthand
+# Azmodan
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Azmodan) | [HotS Counters](http://hotscounters.com/#/hero/Azmodan)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -76,7 +84,9 @@ Games  | Win %  | Build     | Note
 N/A    | N/A    | 421-1-412 | * Highest ranked popularity talents
 
 
-# Brightwing Builds Shorthand
+# Brightwing
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Brightwing) | [HotS Counters](http://hotscounters.com/#/hero/Brightwing)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -93,7 +103,9 @@ Games  | Win %  | Build     | Note
 N/A    | N/A    | 214-1-331 | * Highest ranked popularity talents
 
 
-# Chen Builds Shorthand
+# Chen
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Chen) | [HotS Counters](http://hotscounters.com/#/hero/Chen)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -109,7 +121,9 @@ Games  | Win %  | Build     | Note
 29     | 48.3 % | 434-2-433 | 
 
 
-# Diablo Builds Shorthand
+# Diablo
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Diablo) | [HotS Counters](http://hotscounters.com/#/hero/Diablo)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -126,7 +140,9 @@ Games  | Win %  | Build     | Note
 N/A    | N/A    | 231-2-214 | * Highest ranked popularity talents
 
 
-# E.T.C. Builds Shorthand
+# E.T.C.
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=E.T.C.) | [HotS Counters](http://hotscounters.com/#/hero/E.T.C.)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -143,7 +159,9 @@ Games  | Win %  | Build     | Note
 N/A    | N/A    | 114-1-225 | * Highest ranked popularity talents
 
 
-# Falstad Builds Shorthand
+# Falstad
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Falstad) | [HotS Counters](http://hotscounters.com/#/hero/Falstad)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -160,7 +178,9 @@ Games  | Win %  | Build     | Note
 N/A    | N/A    | 325-1-113 | * Highest ranked popularity talents
 
 
-# Gazlowe Builds Shorthand
+# Gazlowe
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Gazlowe) | [HotS Counters](http://hotscounters.com/#/hero/Gazlowe)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -177,7 +197,9 @@ Games  | Win %  | Build     | Note
 N/A    | N/A    | 122-1-242 | * Highest ranked popularity talents
 
 
-# Illidan Builds Shorthand
+# Illidan
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Illidan) | [HotS Counters](http://hotscounters.com/#/hero/Illidan)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -194,7 +216,9 @@ Games  | Win %  | Build     | Note
 N/A    | N/A    | 335-2-133 | * Highest ranked popularity talents
 
 
-# Jaina Builds Shorthand
+# Jaina
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Jaina) | [HotS Counters](http://hotscounters.com/#/hero/Jaina)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -211,7 +235,9 @@ Games  | Win %  | Build     | Note
 N/A    | N/A    | 313-2-323 | * Highest ranked popularity talents
 
 
-# Johanna Builds Shorthand
+# Johanna
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Johanna) | [HotS Counters](http://hotscounters.com/#/hero/Johanna)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -228,7 +254,9 @@ Games  | Win %  | Build     | Note
 N/A    | N/A    | 441-2-124 | * Highest ranked popularity talents
 
 
-# Kael'thas Builds Shorthand
+# Kael'thas
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Kael'thas) | [HotS Counters](http://hotscounters.com/#/hero/Kael'thas)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -245,7 +273,9 @@ Games  | Win %  | Build     | Note
 N/A    | N/A    | 211-1-223 | * Highest ranked popularity talents
 
 
-# Kerrigan Builds Shorthand
+# Kerrigan
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Kerrigan) | [HotS Counters](http://hotscounters.com/#/hero/Kerrigan)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -262,7 +292,9 @@ Games  | Win %  | Build     | Note
 N/A    | N/A    | 434-2-313 | * Highest ranked popularity talents
 
 
-# Leoric Builds Shorthand
+# Leoric
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Leoric) | [HotS Counters](http://hotscounters.com/#/hero/Leoric)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -279,7 +311,9 @@ Games  | Win %  | Build     | Note
 N/A    | N/A    | 413-2-123 | * Highest ranked popularity talents
 
 
-# Li Li Builds Shorthand
+# Li Li
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Li Li) | [HotS Counters](http://hotscounters.com/#/hero/Li Li)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -296,7 +330,9 @@ Games  | Win %  | Build     | Note
 N/A    | N/A    | 324-2-243 | * Highest ranked popularity talents
 
 
-# Malfurion Builds Shorthand
+# Malfurion
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Malfurion) | [HotS Counters](http://hotscounters.com/#/hero/Malfurion)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -313,7 +349,9 @@ Games  | Win %  | Build     | Note
 N/A    | N/A    | 341-1-244 | * Highest ranked popularity talents
 
 
-# Muradin Builds Shorthand
+# Muradin
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Muradin) | [HotS Counters](http://hotscounters.com/#/hero/Muradin)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -330,7 +368,9 @@ Games  | Win %  | Build     | Note
 N/A    | N/A    | 444-1-134 | * Highest ranked popularity talents
 
 
-# Murky Builds Shorthand
+# Murky
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Murky) | [HotS Counters](http://hotscounters.com/#/hero/Murky)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -347,7 +387,9 @@ Games  | Win %  | Build     | Note
 N/A    | N/A    | 131-2-422 | * Highest ranked popularity talents
 
 
-# Nazeebo Builds Shorthand
+# Nazeebo
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Nazeebo) | [HotS Counters](http://hotscounters.com/#/hero/Nazeebo)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -363,7 +405,9 @@ Games  | Win %  | Build     | Note
 793    | 60.5 % | 211-2-324 | 
 
 
-# Nova Builds Shorthand
+# Nova
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Nova) | [HotS Counters](http://hotscounters.com/#/hero/Nova)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -380,7 +424,9 @@ Games  | Win %  | Build     | Note
 N/A    | N/A    | 133-2-133 | * Highest ranked popularity talents
 
 
-# Raynor Builds Shorthand
+# Raynor
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Raynor) | [HotS Counters](http://hotscounters.com/#/hero/Raynor)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -396,7 +442,9 @@ Games  | Win %  | Build     | Note
 355    | 63.7 % | 112-2-134 | 
 
 
-# Rehgar Builds Shorthand
+# Rehgar
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Rehgar) | [HotS Counters](http://hotscounters.com/#/hero/Rehgar)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -413,7 +461,9 @@ Games  | Win %  | Build     | Note
 N/A    | N/A    | 432-1-334 | * Highest ranked popularity talents
 
 
-# Sgt. Hammer Builds Shorthand
+# Sgt. Hammer
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Sgt. Hammer) | [HotS Counters](http://hotscounters.com/#/hero/Sgt. Hammer)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -430,7 +480,9 @@ Games  | Win %  | Build     | Note
 N/A    | N/A    | 533-2-244 | * Highest ranked popularity talents
 
 
-# Sonya Builds Shorthand
+# Sonya
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Sonya) | [HotS Counters](http://hotscounters.com/#/hero/Sonya)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -447,7 +499,9 @@ Games  | Win %  | Build     | Note
 N/A    | N/A    | 241-2-322 | * Highest ranked popularity talents
 
 
-# Stitches Builds Shorthand
+# Stitches
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Stitches) | [HotS Counters](http://hotscounters.com/#/hero/Stitches)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -464,7 +518,9 @@ Games  | Win %  | Build     | Note
 N/A    | N/A    | 413-1-331 | * Highest ranked popularity talents
 
 
-# Sylvanas Builds Shorthand
+# Sylvanas
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Sylvanas) | [HotS Counters](http://hotscounters.com/#/hero/Sylvanas)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -481,7 +537,9 @@ Games  | Win %  | Build     | Note
 N/A    | N/A    | 341-1-243 | * Highest ranked popularity talents
 
 
-# Tassadar Builds Shorthand
+# Tassadar
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Tassadar) | [HotS Counters](http://hotscounters.com/#/hero/Tassadar)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -498,7 +556,9 @@ Games  | Win %  | Build     | Note
 N/A    | N/A    | 312-1-241 | * Highest ranked popularity talents
 
 
-# The Butcher Builds Shorthand
+# The Butcher
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=The Butcher) | [HotS Counters](http://hotscounters.com/#/hero/The Butcher)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -515,7 +575,9 @@ Games  | Win %  | Build     | Note
 N/A    | N/A    | 231-2-333 | * Highest ranked popularity talents
 
 
-# The Lost Vikings Builds Shorthand
+# The Lost Vikings
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=The Lost Vikings) | [HotS Counters](http://hotscounters.com/#/hero/The Lost Vikings)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -532,7 +594,9 @@ Games  | Win %  | Build     | Note
 N/A    | N/A    | 312-2-241 | * Highest ranked popularity talents
 
 
-# Thrall Builds Shorthand
+# Thrall
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Thrall) | [HotS Counters](http://hotscounters.com/#/hero/Thrall)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -549,7 +613,9 @@ Games  | Win %  | Build     | Note
 N/A    | N/A    | 143-1-323 | * Highest ranked popularity talents
 
 
-# Tychus Builds Shorthand
+# Tychus
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Tychus) | [HotS Counters](http://hotscounters.com/#/hero/Tychus)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -566,7 +632,9 @@ Games  | Win %  | Build     | Note
 N/A    | N/A    | 433-1-241 | * Highest ranked popularity talents
 
 
-# Tyrael Builds Shorthand
+# Tyrael
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Tyrael) | [HotS Counters](http://hotscounters.com/#/hero/Tyrael)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -583,7 +651,9 @@ Games  | Win %  | Build     | Note
 N/A    | N/A    | 411-1-144 | * Highest ranked popularity talents
 
 
-# Tyrande Builds Shorthand
+# Tyrande
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Tyrande) | [HotS Counters](http://hotscounters.com/#/hero/Tyrande)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -600,7 +670,9 @@ Games  | Win %  | Build     | Note
 N/A    | N/A    | 443-1-113 | * Highest ranked popularity talents
 
 
-# Uther Builds Shorthand
+# Uther
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Uther) | [HotS Counters](http://hotscounters.com/#/hero/Uther)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -617,7 +689,9 @@ Games  | Win %  | Build     | Note
 N/A    | N/A    | 413-1-144 | * Highest ranked popularity talents
 
 
-# Valla Builds Shorthand
+# Valla
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Valla) | [HotS Counters](http://hotscounters.com/#/hero/Valla)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -634,7 +708,9 @@ Games  | Win %  | Build     | Note
 N/A    | N/A    | 343-1-233 | * Highest ranked popularity talents
 
 
-# Zagara Builds Shorthand
+# Zagara
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Zagara) | [HotS Counters](http://hotscounters.com/#/hero/Zagara)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -650,7 +726,9 @@ Games  | Win %  | Build     | Note
 486    | 60.3 % | 315-1-221 | 
 
 
-# Zeratul Builds Shorthand
+# Zeratul
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Zeratul) | [HotS Counters](http://hotscounters.com/#/hero/Zeratul)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
@@ -669,7 +747,8 @@ Games  | Win %  | Build     | Note
 ## Shorthand Explained
 * The actual number is the number of talents down from the top of that tier's talent list.
 * Left to right are level tiers, in order, with the Heroic between dashes (Levels 1,4,7, dash, 10, dash, 13, 16, 20)
-    My shorthand format is each talent tier gets represent by a number, that number is the number of choices down from the first talent for that tier.  I group the tier talent numbers symmetrically with the first 3 levels and last 3 bunched up, and level 10 with dashes around it.  See the example at the bottom if this is confusing or click through to the hero pages.
+
+This shorthand format is each talent tier gets represent by a number, that number is the number of choices down from the first talent for that tier.  I group the tier talent numbers symmetrically with the first 3 levels and last 3 bunched up, and level 10 with dashes around it.  See the example at the bottom if this is confusing or click through to the hero pages.
 
 
 ## Shorthand Example

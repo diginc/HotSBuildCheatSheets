@@ -1,4 +1,6 @@
-# Uther Builds
+# Uther
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Uther) | [HotS Counters](http://hotscounters.com/#/hero/Uther)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----

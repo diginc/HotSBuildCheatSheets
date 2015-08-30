@@ -1,4 +1,6 @@
-# Tyrande Builds
+# Tyrande
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Tyrande) | [HotS Counters](http://hotscounters.com/#/hero/Tyrande)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----

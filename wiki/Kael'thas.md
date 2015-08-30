@@ -1,4 +1,6 @@
-# Kael'thas Builds
+# Kael'thas
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Kael'thas) | [HotS Counters](http://hotscounters.com/#/hero/Kael'thas)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----

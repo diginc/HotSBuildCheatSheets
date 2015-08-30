@@ -1,4 +1,6 @@
-# Sonya Builds
+# Sonya
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Sonya) | [HotS Counters](http://hotscounters.com/#/hero/Sonya)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----

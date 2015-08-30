@@ -1,4 +1,6 @@
-# Rehgar Builds
+# Rehgar
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Rehgar) | [HotS Counters](http://hotscounters.com/#/hero/Rehgar)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----

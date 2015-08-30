@@ -1,4 +1,6 @@
-# Anub'arak Builds
+# Anub'arak
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Anub'arak) | [HotS Counters](http://hotscounters.com/#/hero/Anub'arak)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----

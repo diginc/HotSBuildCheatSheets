@@ -1,4 +1,6 @@
-# Leoric Builds
+# Leoric
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Leoric) | [HotS Counters](http://hotscounters.com/#/hero/Leoric)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----

@@ -1,4 +1,6 @@
-# Abathur Builds
+# Abathur
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Abathur) | [HotS Counters](http://hotscounters.com/#/hero/Abathur)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----

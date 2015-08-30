@@ -1,4 +1,6 @@
-# Stitches Builds
+# Stitches
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Stitches) | [HotS Counters](http://hotscounters.com/#/hero/Stitches)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----

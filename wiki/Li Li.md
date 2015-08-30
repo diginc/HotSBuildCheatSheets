@@ -1,4 +1,6 @@
-# Li Li Builds
+# Li Li
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Li Li) | [HotS Counters](http://hotscounters.com/#/hero/Li Li)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----

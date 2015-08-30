@@ -1,4 +1,6 @@
-# Zeratul Builds
+# Zeratul
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Zeratul) | [HotS Counters](http://hotscounters.com/#/hero/Zeratul)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----

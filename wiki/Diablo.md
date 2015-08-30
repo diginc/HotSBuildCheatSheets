@@ -1,4 +1,6 @@
-# Diablo Builds
+# Diablo
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Diablo) | [HotS Counters](http://hotscounters.com/#/hero/Diablo)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----

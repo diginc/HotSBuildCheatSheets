@@ -1,4 +1,6 @@
-# Zagara Builds
+# Zagara
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Zagara) | [HotS Counters](http://hotscounters.com/#/hero/Zagara)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----

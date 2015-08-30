@@ -1,4 +1,6 @@
-# Kerrigan Builds
+# Kerrigan
+
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Kerrigan) | [HotS Counters](http://hotscounters.com/#/hero/Kerrigan)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
