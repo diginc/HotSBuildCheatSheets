@@ -26,7 +26,7 @@ class TalentSorter(object):
     def popularity(self, hero, num=False):
         sortedBuild = []
         for level,talents in hero.talents.iteritems():
-            sortedTeir=sorted(talents, key=lambda tup: tup[5], reverse=True)[0]
+            sortedTeir=sorted(talents, key=lambda tup: tup.popularity, reverse=True)[0]
             if num:
                 sortedBuild.append(sortedTeir.number)
             else:
