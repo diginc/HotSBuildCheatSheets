@@ -31,8 +31,6 @@ class TalentSorter(object):
                 sortedBuild.append(sortedTeir.number)
             else:
                 sortedBuild.append(sortedTeir)
-        print("Sorted: ", sort)
-        print sortedBuild
         return sortedBuild
 
 
