@@ -23,14 +23,16 @@ if DEBUG: HEROES = [ "Zagara" ]
 TIERTOLEVEL=[ 1,4,7,10,13,16,20 ]
 
 class TalentSorter(object):
-    def popularity(self, hero, num=False):
+    def sortTalentsBy(self, talents, sort, num=False):
         sortedBuild = []
-        for level,talents in hero.talents.iteritems():
-            sortedTeir=sorted(talents, key=lambda tup: tup.popularity, reverse=True)[0]
+        for level,lvlTalents in talents.iteritems():
+            sortedTeir=sorted(lvlTalents, key=lambda tup: getattr(tup, sort), reverse=True)[0]
             if num:
                 sortedBuild.append(sortedTeir.number)
             else:
                 sortedBuild.append(sortedTeir)
+        print("Sorted: ", sort)
+        print sortedBuild
         return sortedBuild
 
 
@@ -67,7 +69,7 @@ class HeroParser(object):
                 talents[level].append(
                     Talent(i, talentName.string,
                            description.string, gamesPlayed.string,
-                           popularity.string,
+                           float(popularity.string.strip(' %')),
                            float(winPercent.string.strip(' %')),
                            talentImg
                     )

@@ -6,13 +6,15 @@ TALENTTABLE = '{:<6} | {:<6} | {:<9} | {}\n'
 class HotSLogsLog(object):
     def __init__(self):
         self.heroes = {}
-        self.popularBuild = {}
-        self.popularBuildByNum = {}
+        self.topPopularityTalents = {}
+        self.topPopularityTalentsByNum = {}
+        self.topWinningTalentsByNum = {}
         for hero in HEROES:
             curHero = HeroParser(hero=hero)
             self.heroes[hero] = curHero
-            self.popularBuild[hero] = TalentSorter().popularity(curHero)
-            self.popularBuildByNum[hero] = TalentSorter().popularity(curHero, num=True)
+            self.topPopularityTalents[hero] = TalentSorter().sortTalentsBy(curHero.talents, sort='popularity')
+            self.topPopularityTalentsByNum[hero] = TalentSorter().sortTalentsBy(curHero.talents, sort='popularity', num=True)
+            self.topWinningTalentsByNum[hero] = TalentSorter().sortTalentsBy(curHero.talents, sort='winPercent', num=True)
 
     def update_flatfiles(self):
         ''' Human readable/consumable data '''
@@ -26,16 +28,24 @@ class HotSLogsLog(object):
             self.write_talent_table_header(wikiFile, name)
             self.write_talent_table_header(heroFile, name)
 
-            topTalentBuildNums = self.popularBuildByNum[name]
+            topTalentTalentNums = self.topPopularityTalentsByNum[name]
+            topWinningTalentNums = self.topWinningTalentsByNum[name]
             foundTopTalentBuild = False
+            foundTopWinningBuild = False
+            popularStr = '* Highest win % talents, individually'
+            winningStr = '* Highest popularity talents, individually'
 
             for i in range(len(self.heroes[name].topBuilds)):
                 rankedBuild = self.heroes[name].topBuilds[i]
                 rankedBuildStr = self.format_talents_shorthand(rankedBuild.buildByNum)
                 note = ''
-                if rankedBuild.buildByNum == topTalentBuildNums:
-                    note = '* Highest ranked popularity talents'
+                if rankedBuild.buildByNum == topTalentTalentNums:
+                    note += popularStr
                     foundTopTalentBuild = True
+                if rankedBuild.buildByNum == topWinningTalentNums:
+                    if note != '': note += ' *'
+                    note += winningStr
+                    foundTopWinningBuild = True
                 line = TALENTTABLE.format(
                     rankedBuild.gamesPlayed,
                     rankedBuild.winPercent,
@@ -44,18 +54,23 @@ class HotSLogsLog(object):
                 wikiFile.write(line)
                 heroFile.write(line)
             if not foundTopTalentBuild:
-                note = '* Highest ranked popularity talents'
-                topTalentBuildStr = self.format_talents_shorthand(topTalentBuildNums)
-                line = TALENTTABLE.format(
-                    'N/A',
-                    'N/A',
-                    topTalentBuildStr, note
-                )
-                wikiFile.write(line)
-                heroFile.write(line)
+                self.append_other_top_build(wikiFile,topTalentTalentNums,popularStr)
+                self.append_other_top_build(heroFile,topTalentTalentNums,popularStr)
+            if not foundTopWinningBuild:
+                self.append_other_top_build(wikiFile,topWinningTalentNums,winningStr)
+                self.append_other_top_build(heroFile,topWinningTalentNums,winningStr)
 
         wikiFile.write('\n\n')
         wikiFile.write('\n\n'.join(doclib.INDEX[1:len(doclib.INDEX)]))
+
+    def append_other_top_build(self, fh, build, note):
+        buildStr = self.format_talents_shorthand(build)
+        line = TALENTTABLE.format(
+            'N/A',
+            'N/A',
+            buildStr, note
+        )
+        fh.write(line)
 
     def format_talents_shorthand(self, build):
         buildStr = ''
