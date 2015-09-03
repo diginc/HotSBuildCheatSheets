@@ -43,7 +43,7 @@ class HotSLogsLog(object):
                     note += popularStr
                     foundTopTalentBuild = True
                 if rankedBuild.buildByNum == topWinningTalentNums:
-                    if note != '': note += ' *'
+                    if note != '': note += ' <br/>*'
                     note += winningStr
                     foundTopWinningBuild = True
                 line = TALENTTABLE.format(
