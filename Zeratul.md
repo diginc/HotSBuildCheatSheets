@@ -8,7 +8,7 @@ Games  | Win %  | Build     | Note
 919    | 65.8 % | 411-2-334 | 
 925    | 65.6 % | 411-2-314 | 
 995    | 65.3 % | 411-2-423 | 
-4709   | 65.2 % | 411-2-323 | * Highest win % talents, individually ** Highest popularity talents, individually
+4709   | 65.2 % | 411-2-323 | * Highest win % talents, individually <br/>** Highest popularity talents, individually
 7600   | 64.7 % | 411-2-324 | 
 1014   | 63.4 % | 511-2-313 | 
 2100   | 63.1 % | 511-2-323 | 
