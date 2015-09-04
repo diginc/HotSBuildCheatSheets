@@ -4,13 +4,13 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Syl
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-616    | 62.5 % | 341-1-321 | 
-437    | 60.9 % | 341-1-323 | * Highest popularity talents, individually
-628    | 60.0 % | 341-1-324 | 
-1140   | 59.5 % | 141-1-221 | * Highest win % talents, individually
-452    | 58.9 % | 141-1-223 | 
-826    | 58.4 % | 341-1-224 | 
-599    | 58.3 % | 141-1-244 | 
-2010   | 57.5 % | 141-1-224 | 
-458    | 56.6 % | 341-1-221 | 
-495    | 53.3 % | 212-1-121 | 
+593    | 62.7 % | [341-1-321](http://www.heroesfire.com/hots/talent-calculator/sylvanas#pAFv) | 
+615    | 60.7 % | [341-1-324](http://www.heroesfire.com/hots/talent-calculator/sylvanas#pAFy) | 
+827    | 59.0 % | [341-1-224](http://www.heroesfire.com/hots/talent-calculator/sylvanas#pAEO) | 
+429    | 58.7 % | [341-1-221](http://www.heroesfire.com/hots/talent-calculator/sylvanas#pAEL) | 
+1076   | 58.6 % | [141-1-221](http://www.heroesfire.com/hots/talent-calculator/sylvanas#hXyL) | * Highest win % talents, individually
+430    | 57.9 % | [341-1-323](http://www.heroesfire.com/hots/talent-calculator/sylvanas#pAFx) | * Highest popularity talents, individually
+1962   | 57.5 % | [141-1-224](http://www.heroesfire.com/hots/talent-calculator/sylvanas#hXyO) | 
+573    | 57.2 % | [141-1-244](http://www.heroesfire.com/hots/talent-calculator/sylvanas#hXyi) | 
+434    | 56.9 % | [141-1-223](http://www.heroesfire.com/hots/talent-calculator/sylvanas#hXyN) | 
+499    | 55.5 % | [212-1-121](http://www.heroesfire.com/hots/talent-calculator/sylvanas#kFGX) | 

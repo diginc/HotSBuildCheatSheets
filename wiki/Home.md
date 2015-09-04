@@ -15,17 +15,17 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Aba
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-198    | 65.2 % | 144-2-413 | 
-349    | 64.5 % | 141-1-423 | 
-1504   | 64.0 % | 141-2-413 | * Highest win % talents, individually
-192    | 63.5 % | 241-1-234 | 
-205    | 63.4 % | 141-1-313 | 
-538    | 63.4 % | 141-2-423 | 
-195    | 62.6 % | 341-2-423 | 
-806    | 62.5 % | 141-1-413 | 
-404    | 61.4 % | 141-2-313 | 
-345    | 58.3 % | 241-2-234 | 
-N/A    | N/A    | 142-1-413 | * Highest popularity talents, individually
+189    | 67.2 % | [241-1-234](http://www.heroesfire.com/hots/talent-calculator/abathur#lM5Y) | 
+483    | 66.5 % | [141-2-423](http://www.heroesfire.com/hots/talent-calculator/abathur#hYF7) | 
+200    | 66.0 % | [141-1-313](http://www.heroesfire.com/hots/talent-calculator/abathur#hXzn) | 
+182    | 65.4 % | [144-2-413](http://www.heroesfire.com/hots/talent-calculator/abathur#hfZj) | 
+331    | 64.1 % | [141-1-423](http://www.heroesfire.com/hots/talent-calculator/abathur#hX_V) | 
+1383   | 63.3 % | [141-2-413](http://www.heroesfire.com/hots/talent-calculator/abathur#hYEz) | * Highest win % talents, individually
+782    | 63.2 % | [141-1-413](http://www.heroesfire.com/hots/talent-calculator/abathur#hX_L) | 
+170    | 62.4 % | [341-2-423](http://www.heroesfire.com/hots/talent-calculator/abathur#pAX7) | 
+382    | 62.0 % | [141-2-313](http://www.heroesfire.com/hots/talent-calculator/abathur#hYDP) | 
+346    | 58.1 % | [241-2-234](http://www.heroesfire.com/hots/talent-calculator/abathur#lMLA) | 
+N/A    | N/A    | [142-1-411](http://www.heroesfire.com/hots/talent-calculator/abathur#haRZ) | * Highest popularity talents, individually
 
 
 # Anub'arak
@@ -34,17 +34,17 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Anu
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-282    | 69.2 % | 442-1-143 | 
-447    | 69.1 % | 444-1-141 | 
-286    | 68.2 % | 444-1-131 | 
-929    | 67.8 % | 344-1-141 | * Highest win % talents, individually
-423    | 67.4 % | 344-1-121 | 
-574    | 67.3 % | 344-1-131 | 
-293    | 66.2 % | 344-1-111 | 
-270    | 62.2 % | 444-1-143 | 
-234    | 61.5 % | 344-2-143 | 
-383    | 60.1 % | 344-1-143 | 
-N/A    | N/A    | 442-1-111 | * Highest popularity talents, individually
+277    | 71.1 % | [444-1-131](http://www.heroesfire.com/hots/talent-calculator/anubarak#t5gh) | 
+445    | 68.8 % | [444-1-141](http://www.heroesfire.com/hots/talent-calculator/anubarak#t5gr) | 
+907    | 68.5 % | [344-1-141](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHXr) | * Highest win % talents, individually
+255    | 67.8 % | [442-1-143](http://www.heroesfire.com/hots/talent-calculator/anubarak#t0oN) | 
+403    | 67.0 % | [344-1-121](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHXX) | 
+508    | 65.8 % | [344-1-131](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHXh) | 
+285    | 65.6 % | [344-1-111](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHXN) | 
+242    | 64.1 % | [444-1-143](http://www.heroesfire.com/hots/talent-calculator/anubarak#t5gt) | 
+222    | 62.6 % | [344-1-144](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHXu) | 
+366    | 59.8 % | [344-1-143](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHXt) | 
+N/A    | N/A    | [442-1-111](http://www.heroesfire.com/hots/talent-calculator/anubarak#t0nt) | * Highest popularity talents, individually
 
 
 # Arthas
@@ -53,17 +53,17 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Art
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-270    | 65.2 % | 421-1-443 | 
-150    | 64.0 % | 421-1-413 | 
-122    | 63.9 % | 221-2-412 | 
-171    | 63.2 % | 421-2-413 | * Highest win % talents, individually
-157    | 62.4 % | 421-2-412 | 
-438    | 61.4 % | 421-1-243 | 
-148    | 58.8 % | 421-2-143 | 
-350    | 56.6 % | 421-1-143 | 
-242    | 54.1 % | 121-1-243 | 
-152    | 50.7 % | 121-1-143 | 
-N/A    | N/A    | 411-2-412 | * Highest popularity talents, individually
+150    | 67.3 % | [421-1-413](http://www.heroesfire.com/hots/talent-calculator/arthas#sDbL) | 
+261    | 65.1 % | [421-1-443](http://www.heroesfire.com/hots/talent-calculator/arthas#sDbp) | 
+147    | 62.6 % | [421-2-412](http://www.heroesfire.com/hots/talent-calculator/arthas#sDqy) | 
+417    | 60.9 % | [421-1-243](http://www.heroesfire.com/hots/talent-calculator/arthas#sDYh) | 
+158    | 60.8 % | [421-2-413](http://www.heroesfire.com/hots/talent-calculator/arthas#sDqz) | * Highest win % talents, individually
+124    | 59.7 % | [221-2-412](http://www.heroesfire.com/hots/talent-calculator/arthas#kbYy) | 
+138    | 57.3 % | [421-2-143](http://www.heroesfire.com/hots/talent-calculator/arthas#sDml) | 
+161    | 57.1 % | [121-1-143](http://www.heroesfire.com/hots/talent-calculator/arthas#gn67) | 
+325    | 56.9 % | [421-1-143](http://www.heroesfire.com/hots/talent-calculator/arthas#sDX7) | 
+221    | 50.7 % | [121-1-243](http://www.heroesfire.com/hots/talent-calculator/arthas#gn7h) | 
+N/A    | N/A    | [411-2-414](http://www.heroesfire.com/hots/talent-calculator/arthas#rrQU) | * Highest popularity talents, individually
 
 
 # Azmodan
@@ -72,17 +72,17 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Azm
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-161    | 67.7 % | 314-1-331 | 
-160    | 62.5 % | 141-2-342 | 
-133    | 60.9 % | 111-2-332 | 
-166    | 60.8 % | 111-1-311 | * Highest win % talents, individually
-205    | 59.0 % | 211-1-311 | 
-288    | 58.3 % | 111-2-343 | 
-204    | 58.3 % | 314-1-311 | 
-289    | 57.8 % | 141-2-343 | 
-139    | 56.8 % | 121-2-343 | 
-153    | 56.2 % | 111-2-333 | 
-N/A    | N/A    | 221-1-112 | * Highest popularity talents, individually
+162    | 65.4 % | [141-2-342](http://www.heroesfire.com/hots/talent-calculator/azmodan#hYDs) | 
+174    | 61.5 % | [314-1-331](http://www.heroesfire.com/hots/talent-calculator/azmodan#o8LJ) | 
+209    | 58.9 % | [314-1-311](http://www.heroesfire.com/hots/talent-calculator/azmodan#o8K_) | 
+165    | 58.2 % | [111-1-311](http://www.heroesfire.com/hots/talent-calculator/azmodan#gOkF) | * Highest win % talents, individually
+221    | 57.9 % | [211-1-311](http://www.heroesfire.com/hots/talent-calculator/azmodan#kCtF) | 
+273    | 57.1 % | [141-2-343](http://www.heroesfire.com/hots/talent-calculator/azmodan#hYDt) | 
+248    | 55.7 % | [111-2-343](http://www.heroesfire.com/hots/talent-calculator/azmodan#gO-N) | 
+135    | 55.6 % | [314-1-321](http://www.heroesfire.com/hots/talent-calculator/azmodan#o8L9) | 
+128    | 55.5 % | [111-2-332](http://www.heroesfire.com/hots/talent-calculator/azmodan#gO-C) | 
+154    | 54.6 % | [111-2-333](http://www.heroesfire.com/hots/talent-calculator/azmodan#gO-D) | 
+N/A    | N/A    | [221-1-112](http://www.heroesfire.com/hots/talent-calculator/azmodan#kbEe) | * Highest popularity talents, individually
 
 
 # Brightwing
@@ -91,17 +91,17 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Bri
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-183    | 71.0 % | 111-1-324 | 
-513    | 69.6 % | 111-1-323 | * Highest win % talents, individually
-109    | 67.0 % | 111-1-334 | 
-122    | 64.8 % | 212-1-321 | 
-201    | 64.2 % | 212-1-324 | 
-123    | 63.4 % | 111-1-321 | 
-111    | 63.1 % | 212-1-323 | 
-146    | 63.0 % | 232-1-324 | 
-159    | 57.9 % | 111-1-333 | 
-129    | 54.3 % | 111-1-223 | 
-N/A    | N/A    | 112-1-323 | * Highest popularity talents, individually
+185    | 71.9 % | [111-1-324](http://www.heroesfire.com/hots/talent-calculator/brightwing#gOkS) | 
+501    | 70.5 % | [111-1-323](http://www.heroesfire.com/hots/talent-calculator/brightwing#gOkR) | * Highest win % talents, individually
+144    | 64.6 % | [111-1-321](http://www.heroesfire.com/hots/talent-calculator/brightwing#gOkP) | 
+120    | 63.3 % | [212-1-321](http://www.heroesfire.com/hots/talent-calculator/brightwing#kFJf) | 
+138    | 60.9 % | [111-1-333](http://www.heroesfire.com/hots/talent-calculator/brightwing#gOkb) | 
+112    | 60.7 % | [212-1-323](http://www.heroesfire.com/hots/talent-calculator/brightwing#kFJh) | 
+136    | 60.3 % | [232-1-324](http://www.heroesfire.com/hots/talent-calculator/brightwing#l08i) | 
+93     | 59.1 % | [111-1-334](http://www.heroesfire.com/hots/talent-calculator/brightwing#gOkc) | 
+217    | 59.0 % | [212-1-324](http://www.heroesfire.com/hots/talent-calculator/brightwing#kFJi) | 
+126    | 54.8 % | [111-1-223](http://www.heroesfire.com/hots/talent-calculator/brightwing#gOit) | 
+N/A    | N/A    | [141-1-323](http://www.heroesfire.com/hots/talent-calculator/brightwing#hXzx) | * Highest popularity talents, individually
 
 
 # Chen
@@ -110,16 +110,16 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Che
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-55     | 74.6 % | 434-2-232 | 
-237    | 70.9 % | 434-2-432 | * Highest popularity talents, individually
-133    | 70.7 % | 434-2-442 | 
-203    | 65.5 % | 434-2-342 | * Highest win % talents, individually
-180    | 63.9 % | 434-2-332 | 
-49     | 63.3 % | 434-2-333 | 
-94     | 60.6 % | 434-2-343 | 
-56     | 57.1 % | 434-1-343 | 
-84     | 54.8 % | 434-2-433 | 
-62     | 51.6 % | 434-2-443 | 
+139    | 71.2 % | [434-2-442](http://www.heroesfire.com/hots/talent-calculator/chen#sjag) | 
+235    | 70.6 % | [434-2-432](http://www.heroesfire.com/hots/talent-calculator/chen#sjaW) | * Highest popularity talents, individually
+67     | 68.7 % | [434-2-232](http://www.heroesfire.com/hots/talent-calculator/chen#sjXO) | 
+221    | 66.1 % | [434-2-342](http://www.heroesfire.com/hots/talent-calculator/chen#sjZ6) | * Highest win % talents, individually
+184    | 64.7 % | [434-2-332](http://www.heroesfire.com/hots/talent-calculator/chen#sjYy) | 
+102    | 63.7 % | [434-2-343](http://www.heroesfire.com/hots/talent-calculator/chen#sjZ7) | 
+52     | 57.7 % | [434-2-333](http://www.heroesfire.com/hots/talent-calculator/chen#sjYz) | 
+65     | 56.9 % | [434-1-343](http://www.heroesfire.com/hots/talent-calculator/chen#sjJV) | 
+63     | 54.0 % | [434-2-443](http://www.heroesfire.com/hots/talent-calculator/chen#sjah) | 
+90     | 52.2 % | [434-2-433](http://www.heroesfire.com/hots/talent-calculator/chen#sjaX) | 
 
 
 # Diablo
@@ -128,18 +128,18 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Dia
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-104    | 72.1 % | 332-2-212 | 
-114    | 70.2 % | 231-2-212 | 
-114    | 69.3 % | 232-1-243 | 
-147    | 67.4 % | 232-1-213 | 
-170    | 66.5 % | 332-1-443 | 
-99     | 64.7 % | 232-2-222 | 
-126    | 62.7 % | 331-2-212 | 
-402    | 62.2 % | 232-2-212 | 
-200    | 60.5 % | 232-1-211 | 
-180    | 58.9 % | 232-2-242 | 
-N/A    | N/A    | 232-1-212 | * Highest win % talents, individually
-N/A    | N/A    | 231-2-214 | * Highest popularity talents, individually
+114    | 71.1 % | [232-1-243](http://www.heroesfire.com/hots/talent-calculator/diablo#l07R) | 
+135    | 68.9 % | [232-1-213](http://www.heroesfire.com/hots/talent-calculator/diablo#l06z) | 
+147    | 68.7 % | [332-1-443](http://www.heroesfire.com/hots/talent-calculator/diablo#oqJZ) | 
+107    | 68.2 % | [231-2-212](http://www.heroesfire.com/hots/talent-calculator/diablo#kzwK) | 
+87     | 63.2 % | [222-2-212](http://www.heroesfire.com/hots/talent-calculator/diablo#kdy4) | 
+386    | 62.2 % | [232-2-212](http://www.heroesfire.com/hots/talent-calculator/diablo#l0Ma) | 
+114    | 61.4 % | [331-2-212](http://www.heroesfire.com/hots/talent-calculator/diablo#oo3K) | 
+200    | 57.5 % | [232-1-211](http://www.heroesfire.com/hots/talent-calculator/diablo#l06x) | 
+92     | 56.5 % | [232-2-222](http://www.heroesfire.com/hots/talent-calculator/diablo#l0Mk) | 
+171    | 55.6 % | [232-2-242](http://www.heroesfire.com/hots/talent-calculator/diablo#l0N2) | 
+N/A    | N/A    | [232-1-212](http://www.heroesfire.com/hots/talent-calculator/diablo#l06y) | * Highest win % talents, individually
+N/A    | N/A    | [231-2-214](http://www.heroesfire.com/hots/talent-calculator/diablo#kzwM) | * Highest popularity talents, individually
 
 
 # E.T.C.
@@ -148,17 +148,17 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=E.T
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-176    | 65.9 % | 112-1-321 | 
-243    | 64.2 % | 111-1-221 | 
-162    | 63.0 % | 111-1-223 | 
-362    | 60.8 % | 111-1-321 | * Highest win % talents, individually
-136    | 60.3 % | 111-1-231 | 
-102    | 59.8 % | 111-1-233 | 
-118    | 59.3 % | 111-1-211 | 
-117    | 58.1 % | 111-1-323 | 
-182    | 55.0 % | 312-1-311 | 
-92     | 54.4 % | 213-1-341 | 
-N/A    | N/A    | 114-1-224 | * Highest popularity talents, individually
+225    | 63.6 % | [111-1-221](http://www.heroesfire.com/hots/talent-calculator/elite-tauren-chieftain#gOir) | 
+184    | 63.0 % | [112-1-321](http://www.heroesfire.com/hots/talent-calculator/elite-tauren-chieftain#gRAf) | 
+119    | 61.3 % | [111-1-231](http://www.heroesfire.com/hots/talent-calculator/elite-tauren-chieftain#gOi_) | 
+334    | 61.1 % | [111-1-321](http://www.heroesfire.com/hots/talent-calculator/elite-tauren-chieftain#gOkP) | * Highest win % talents, individually
+151    | 60.9 % | [111-1-223](http://www.heroesfire.com/hots/talent-calculator/elite-tauren-chieftain#gOit) | 
+109    | 60.6 % | [111-1-323](http://www.heroesfire.com/hots/talent-calculator/elite-tauren-chieftain#gOkR) | 
+111    | 58.6 % | [111-1-211](http://www.heroesfire.com/hots/talent-calculator/elite-tauren-chieftain#gOih) | 
+152    | 55.3 % | [312-1-311](http://www.heroesfire.com/hots/talent-calculator/elite-tauren-chieftain#o3SV) | 
+110    | 52.7 % | [111-1-233](http://www.heroesfire.com/hots/talent-calculator/elite-tauren-chieftain#gOj1) | 
+97     | 49.5 % | [213-1-341](http://www.heroesfire.com/hots/talent-calculator/elite-tauren-chieftain#kHmD) | 
+N/A    | N/A    | [411-1-224](http://www.heroesfire.com/hots/talent-calculator/elite-tauren-chieftain#rr7u) | * Highest popularity talents, individually
 
 
 # Falstad
@@ -167,17 +167,17 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Fal
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-156    | 65.4 % | 331-1-123 | 
-175    | 64.6 % | 132-1-133 | 
-546    | 63.7 % | 332-1-123 | 
-1121   | 61.7 % | 132-1-123 | * Highest win % talents, individually
-179    | 60.3 % | 142-1-143 | 
-393    | 58.8 % | 142-1-123 | 
-346    | 58.7 % | 331-1-133 | 
-184    | 56.5 % | 112-1-123 | 
-178    | 56.2 % | 143-1-341 | 
-175    | 54.3 % | 112-1-323 | 
-N/A    | N/A    | 332-1-133 | * Highest popularity talents, individually
+172    | 65.7 % | [132-1-133](http://www.heroesfire.com/hots/talent-calculator/falstad#hByj) | 
+148    | 65.5 % | [331-1-123](http://www.heroesfire.com/hots/talent-calculator/falstad#onoJ) | 
+1027   | 63.2 % | [132-1-123](http://www.heroesfire.com/hots/talent-calculator/falstad#hByZ) | * Highest win % talents, individually
+156    | 62.8 % | [142-1-143](http://www.heroesfire.com/hots/talent-calculator/falstad#haNN) | 
+390    | 61.8 % | [142-1-123](http://www.heroesfire.com/hots/talent-calculator/falstad#haN3) | 
+545    | 61.7 % | [332-1-123](http://www.heroesfire.com/hots/talent-calculator/falstad#oqEZ) | 
+163    | 57.1 % | [112-1-323](http://www.heroesfire.com/hots/talent-calculator/falstad#gRAh) | 
+159    | 56.6 % | [143-1-341](http://www.heroesfire.com/hots/talent-calculator/falstad#hcsj) | 
+310    | 55.5 % | [331-1-133](http://www.heroesfire.com/hots/talent-calculator/falstad#onoT) | 
+186    | 54.3 % | [112-1-123](http://www.heroesfire.com/hots/talent-calculator/falstad#gR7Z) | 
+N/A    | N/A    | [332-1-113](http://www.heroesfire.com/hots/talent-calculator/falstad#oqEP) | * Highest popularity talents, individually
 
 
 # Gazlowe
@@ -186,17 +186,17 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Gaz
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-194    | 63.9 % | 422-2-222 | 
-363    | 63.9 % | 321-2-212 | 
-321    | 63.2 % | 421-2-212 | 
-253    | 61.3 % | 221-2-212 | 
-392    | 61.2 % | 422-2-212 | 
-239    | 60.3 % | 431-2-222 | 
-511    | 59.7 % | 431-2-212 | * Highest win % talents, individually
-200    | 58.0 % | 432-2-212 | 
-219    | 58.0 % | 421-2-222 | 
-224    | 57.6 % | 431-1-211 | 
-N/A    | N/A    | 111-1-112 | * Highest popularity talents, individually
+314    | 64.7 % | [321-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#oPeq) | 
+210    | 61.9 % | [421-2-222](http://www.heroesfire.com/hots/talent-calculator/gazlowe#sDn-) | 
+231    | 60.2 % | [431-1-211](http://www.heroesfire.com/hots/talent-calculator/gazlowe#sbyh) | 
+205    | 60.0 % | [432-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#seea) | 
+463    | 59.2 % | [431-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#scCK) | * Highest win % talents, individually
+387    | 59.2 % | [422-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#sGE4) | 
+285    | 58.6 % | [421-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#sDnq) | 
+184    | 58.2 % | [322-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#oS54) | 
+224    | 57.6 % | [221-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#kbVq) | 
+247    | 56.3 % | [431-2-222](http://www.heroesfire.com/hots/talent-calculator/gazlowe#scCU) | 
+N/A    | N/A    | [113-1-112](http://www.heroesfire.com/hots/talent-calculator/gazlowe#gTZe) | * Highest popularity talents, individually
 
 
 # Illidan
@@ -205,17 +205,17 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Ill
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-294    | 65.3 % | 235-2-132 | 
-952    | 64.2 % | 235-2-133 | 
-2059   | 62.3 % | 235-1-531 | 
-967    | 61.9 % | 235-1-131 | 
-530    | 61.9 % | 235-1-133 | * Highest win % talents, individually
-348    | 61.8 % | 235-2-532 | 
-752    | 61.2 % | 235-1-533 | 
-936    | 60.7 % | 235-2-533 | 
-657    | 59.1 % | 235-1-541 | 
-489    | 53.6 % | 235-1-534 | 
-N/A    | N/A    | 335-2-133 | * Highest popularity talents, individually
+288    | 65.6 % | [235-2-132](http://www.heroesfire.com/hots/talent-calculator/illidan#l7g4) | 
+912    | 64.3 % | [235-2-133](http://www.heroesfire.com/hots/talent-calculator/illidan#l7g5) | 
+326    | 63.8 % | [235-2-532](http://www.heroesfire.com/hots/talent-calculator/illidan#l7mK) | 
+968    | 62.6 % | [235-1-131](http://www.heroesfire.com/hots/talent-calculator/illidan#l7QR) | 
+1939   | 62.3 % | [235-1-531](http://www.heroesfire.com/hots/talent-calculator/illidan#l7Wh) | 
+893    | 61.7 % | [235-2-533](http://www.heroesfire.com/hots/talent-calculator/illidan#l7mL) | 
+698    | 61.6 % | [235-1-533](http://www.heroesfire.com/hots/talent-calculator/illidan#l7Wj) | 
+499    | 60.9 % | [235-1-133](http://www.heroesfire.com/hots/talent-calculator/illidan#l7QT) | * Highest win % talents, individually
+640    | 57.8 % | [235-1-541](http://www.heroesfire.com/hots/talent-calculator/illidan#l7Wr) | 
+455    | 53.2 % | [235-1-534](http://www.heroesfire.com/hots/talent-calculator/illidan#l7Wk) | 
+N/A    | N/A    | [335-2-133](http://www.heroesfire.com/hots/talent-calculator/illidan#oxp5) | * Highest popularity talents, individually
 
 
 # Jaina
@@ -224,17 +224,17 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Jai
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-1550   | 65.0 % | 322-2-222 | 
-1160   | 64.7 % | 322-2-114 | 
-1122   | 64.1 % | 322-2-112 | 
-8245   | 63.3 % | 322-2-224 | * Highest win % talents, individually
-2032   | 62.9 % | 322-2-124 | 
-5360   | 61.4 % | 322-2-234 | 
-1119   | 61.2 % | 342-2-224 | 
-2281   | 60.5 % | 322-1-224 | 
-1829   | 60.0 % | 332-2-224 | 
-1354   | 58.2 % | 322-1-234 | 
-N/A    | N/A    | 323-2-323 | * Highest popularity talents, individually
+1499   | 65.9 % | [322-2-222](http://www.heroesfire.com/hots/talent-calculator/jaina#oS5E) | 
+1055   | 63.2 % | [322-2-114](http://www.heroesfire.com/hots/talent-calculator/jaina#oS3Y) | 
+7687   | 63.0 % | [322-2-224](http://www.heroesfire.com/hots/talent-calculator/jaina#oS5G) | * Highest win % talents, individually
+1941   | 62.6 % | [322-2-124](http://www.heroesfire.com/hots/talent-calculator/jaina#oS3i) | 
+1123   | 62.0 % | [322-2-112](http://www.heroesfire.com/hots/talent-calculator/jaina#oS3W) | 
+1711   | 61.7 % | [332-2-224](http://www.heroesfire.com/hots/talent-calculator/jaina#oqVm) | 
+1053   | 61.5 % | [322-2-122](http://www.heroesfire.com/hots/talent-calculator/jaina#oS3g) | 
+4869   | 61.0 % | [322-2-234](http://www.heroesfire.com/hots/talent-calculator/jaina#oS5Q) | 
+2250   | 60.8 % | [322-1-224](http://www.heroesfire.com/hots/talent-calculator/jaina#oRre) | 
+1240   | 59.7 % | [322-1-234](http://www.heroesfire.com/hots/talent-calculator/jaina#oRro) | 
+N/A    | N/A    | [323-2-323](http://www.heroesfire.com/hots/talent-calculator/jaina#oUZ3) | * Highest popularity talents, individually
 
 
 # Johanna
@@ -243,17 +243,17 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Joh
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-2510   | 68.9 % | 442-2-123 | 
-1109   | 68.5 % | 444-2-123 | 
-1219   | 68.5 % | 442-2-143 | 
-8476   | 68.3 % | 441-2-123 | * Highest win % talents, individually
-654    | 67.9 % | 441-2-423 | 
-1095   | 67.6 % | 241-2-123 | 
-859    | 67.2 % | 442-2-113 | 
-3323   | 66.8 % | 441-2-143 | 
-2346   | 66.5 % | 441-2-113 | 
-861    | 59.6 % | 441-2-443 | 
-N/A    | N/A    | 441-2-124 | * Highest popularity talents, individually
+619    | 69.8 % | [441-2-423](http://www.heroesfire.com/hots/talent-calculator/johanna#s-g7) | 
+2453   | 69.5 % | [442-2-123](http://www.heroesfire.com/hots/talent-calculator/johanna#t11h) | 
+1138   | 68.6 % | [442-2-143](http://www.heroesfire.com/hots/talent-calculator/johanna#t11_) | 
+1048   | 68.3 % | [444-2-123](http://www.heroesfire.com/hots/talent-calculator/johanna#t5wB) | 
+8094   | 68.1 % | [441-2-123](http://www.heroesfire.com/hots/talent-calculator/johanna#s-bR) | * Highest win % talents, individually
+988    | 67.9 % | [241-2-123](http://www.heroesfire.com/hots/talent-calculator/johanna#lMJR) | 
+2307   | 67.1 % | [441-2-113](http://www.heroesfire.com/hots/talent-calculator/johanna#s-bH) | 
+3174   | 66.6 % | [441-2-143](http://www.heroesfire.com/hots/talent-calculator/johanna#s-bl) | 
+825    | 66.3 % | [442-2-113](http://www.heroesfire.com/hots/talent-calculator/johanna#t11X) | 
+841    | 59.7 % | [441-2-443](http://www.heroesfire.com/hots/talent-calculator/johanna#s-gR) | 
+N/A    | N/A    | [441-2-124](http://www.heroesfire.com/hots/talent-calculator/johanna#s-bS) | * Highest popularity talents, individually
 
 
 # Kael'thas
@@ -262,17 +262,17 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Kae
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-3671   | 67.2 % | 131-1-224 | 
-2004   | 67.2 % | 221-1-224 | 
-9961   | 67.1 % | 121-1-224 | 
-1340   | 66.4 % | 221-1-234 | 
-4757   | 65.6 % | 131-1-234 | 
-1516   | 64.8 % | 131-1-211 | 
-20619  | 64.8 % | 121-1-234 | * Highest win % talents, individually
-2612   | 64.6 % | 131-1-214 | 
-2710   | 63.3 % | 121-2-234 | 
-2492   | 63.1 % | 121-1-214 | 
-N/A    | N/A    | 231-1-223 | * Highest popularity talents, individually
+3421   | 66.7 % | [131-1-224](http://www.heroesfire.com/hots/talent-calculator/kaelthas#h9Xu) | 
+9102   | 66.3 % | [121-1-224](http://www.heroesfire.com/hots/talent-calculator/kaelthas#gn7O) | 
+4715   | 65.9 % | [131-1-234](http://www.heroesfire.com/hots/talent-calculator/kaelthas#h9Y2) | 
+1795   | 65.4 % | [221-1-224](http://www.heroesfire.com/hots/talent-calculator/kaelthas#kbGO) | 
+20782  | 65.3 % | [121-1-234](http://www.heroesfire.com/hots/talent-calculator/kaelthas#gn7Y) | * Highest win % talents, individually
+1322   | 65.1 % | [221-1-234](http://www.heroesfire.com/hots/talent-calculator/kaelthas#kbGY) | 
+2430   | 64.7 % | [131-1-214](http://www.heroesfire.com/hots/talent-calculator/kaelthas#h9Xk) | 
+1429   | 64.7 % | [131-1-211](http://www.heroesfire.com/hots/talent-calculator/kaelthas#h9Xh) | 
+2300   | 63.4 % | [121-1-214](http://www.heroesfire.com/hots/talent-calculator/kaelthas#gn7E) | 
+2555   | 62.9 % | [121-2-234](http://www.heroesfire.com/hots/talent-calculator/kaelthas#gnNA) | 
+N/A    | N/A    | [231-1-223](http://www.heroesfire.com/hots/talent-calculator/kaelthas#kzgt) | * Highest popularity talents, individually
 
 
 # Kerrigan
@@ -281,17 +281,17 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Ker
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-145    | 66.9 % | 234-1-114 | 
-191    | 66.0 % | 134-1-411 | 
-340    | 63.5 % | 134-1-111 | 
-519    | 62.6 % | 234-1-111 | 
-256    | 62.5 % | 121-1-111 | 
-141    | 62.4 % | 231-1-111 | 
-256    | 61.7 % | 244-1-111 | 
-442    | 61.1 % | 124-1-111 | 
-231    | 58.9 % | 144-1-111 | * Highest win % talents, individually
-200    | 58.5 % | 114-1-111 | 
-N/A    | N/A    | 431-2-213 | * Highest popularity talents, individually
+130    | 68.5 % | [234-1-114](http://www.heroesfire.com/hots/talent-calculator/kerrigan#l4zw) | 
+557    | 64.3 % | [234-1-111](http://www.heroesfire.com/hots/talent-calculator/kerrigan#l4zt) | 
+121    | 63.6 % | [134-1-411](http://www.heroesfire.com/hots/talent-calculator/kerrigan#hGvZ) | 
+333    | 63.4 % | [134-1-111](http://www.heroesfire.com/hots/talent-calculator/kerrigan#hGqt) | 
+228    | 62.7 % | [244-1-111](http://www.heroesfire.com/hots/talent-calculator/kerrigan#lTON) | 
+217    | 61.8 % | [144-1-111](http://www.heroesfire.com/hots/talent-calculator/kerrigan#hfFN) | * Highest win % talents, individually
+225    | 59.6 % | [121-1-111](http://www.heroesfire.com/hots/talent-calculator/kerrigan#gn5d) | 
+124    | 58.9 % | [214-1-111](http://www.heroesfire.com/hots/talent-calculator/kerrigan#kK8t) | 
+255    | 58.4 % | [114-1-111](http://www.heroesfire.com/hots/talent-calculator/kerrigan#gV_t) | 
+431    | 58.0 % | [124-1-111](http://www.heroesfire.com/hots/talent-calculator/kerrigan#guQN) | 
+N/A    | N/A    | [431-1-313](http://www.heroesfire.com/hots/talent-calculator/kerrigan#sb-H) | * Highest popularity talents, individually
 
 
 # Leoric
@@ -300,17 +300,17 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Leo
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-1117   | 71.4 % | 414-1-123 | 
-1346   | 71.3 % | 414-2-122 | 
-3708   | 70.6 % | 414-2-123 | * Highest win % talents, individually
-536    | 70.2 % | 434-2-223 | 
-1326   | 69.6 % | 414-2-223 | 
-526    | 69.4 % | 424-2-123 | 
-702    | 69.1 % | 434-2-123 | 
-710    | 68.6 % | 414-2-222 | 
-542    | 68.5 % | 414-1-223 | 
-704    | 61.7 % | 434-2-444 | 
-N/A    | N/A    | 413-2-123 | * Highest popularity talents, individually
+513    | 72.1 % | [424-2-123](http://www.heroesfire.com/hots/talent-calculator/leoric#sL5B) | 
+1161   | 71.5 % | [414-1-123](http://www.heroesfire.com/hots/talent-calculator/leoric#ryR3) | 
+1444   | 70.7 % | [414-2-122](http://www.heroesfire.com/hots/talent-calculator/leoric#rygg) | 
+654    | 70.5 % | [434-2-123](http://www.heroesfire.com/hots/talent-calculator/leoric#sjVh) | 
+3796   | 69.9 % | [414-2-123](http://www.heroesfire.com/hots/talent-calculator/leoric#rygh) | * Highest win % talents, individually
+1221   | 69.9 % | [414-2-223](http://www.heroesfire.com/hots/talent-calculator/leoric#ryiF) | 
+667    | 68.5 % | [414-2-222](http://www.heroesfire.com/hots/talent-calculator/leoric#ryiE) | 
+513    | 67.5 % | [414-1-223](http://www.heroesfire.com/hots/talent-calculator/leoric#rySd) | 
+485    | 67.0 % | [434-2-223](http://www.heroesfire.com/hots/talent-calculator/leoric#sjXF) | 
+707    | 64.5 % | [434-2-444](http://www.heroesfire.com/hots/talent-calculator/leoric#sjai) | 
+N/A    | N/A    | [413-2-113](http://www.heroesfire.com/hots/talent-calculator/leoric#rwEH) | * Highest popularity talents, individually
 
 
 # Li Li
@@ -319,17 +319,17 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Li 
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-555    | 73.0 % | 324-1-143 | 
-628    | 71.7 % | 124-1-443 | 
-1024   | 70.2 % | 324-1-243 | 
-2331   | 69.9 % | 324-1-443 | 
-1308   | 69.2 % | 324-1-441 | 
-1008   | 69.0 % | 324-1-241 | 
-1152   | 68.3 % | 133-1-323 | 
-666    | 67.0 % | 133-1-223 | 
-510    | 66.5 % | 123-1-423 | * Highest win % talents, individually
-1122   | 64.7 % | 133-1-423 | 
-N/A    | N/A    | 324-2-343 | * Highest popularity talents, individually
+661    | 72.2 % | [324-1-143](http://www.heroesfire.com/hots/talent-calculator/li-li#oWit) | 
+634    | 71.6 % | [124-1-443](http://www.heroesfire.com/hots/talent-calculator/li-li#guVZ) | 
+932    | 69.5 % | [324-1-243](http://www.heroesfire.com/hots/talent-calculator/li-li#oWkR) | 
+2316   | 69.4 % | [324-1-443](http://www.heroesfire.com/hots/talent-calculator/li-li#oWnZ) | 
+1346   | 68.7 % | [324-1-441](http://www.heroesfire.com/hots/talent-calculator/li-li#oWnX) | 
+980    | 68.4 % | [324-1-241](http://www.heroesfire.com/hots/talent-calculator/li-li#oWkP) | 
+1117   | 67.5 % | [133-1-323](http://www.heroesfire.com/hots/talent-calculator/li-li#hERx) | 
+1102   | 65.1 % | [133-1-423](http://www.heroesfire.com/hots/talent-calculator/li-li#hETV) | 
+491    | 64.8 % | [123-1-423](http://www.heroesfire.com/hots/talent-calculator/li-li#gs2_) | * Highest win % talents, individually
+623    | 64.5 % | [133-1-223](http://www.heroesfire.com/hots/talent-calculator/li-li#hEQN) | 
+N/A    | N/A    | [324-1-343](http://www.heroesfire.com/hots/talent-calculator/li-li#oWl_) | * Highest popularity talents, individually
 
 
 # Malfurion
@@ -338,17 +338,17 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Mal
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-1677   | 63.7 % | 211-1-111 | 
-1105   | 63.2 % | 111-1-123 | 
-983    | 63.0 % | 321-1-123 | 
-1161   | 61.7 % | 311-1-123 | 
-1730   | 61.3 % | 111-1-121 | 
-1555   | 61.0 % | 211-1-123 | * Highest win % talents, individually
-1926   | 60.6 % | 211-1-113 | 
-1551   | 60.4 % | 211-1-121 | 
-860    | 60.0 % | 111-1-113 | 
-1404   | 59.1 % | 111-1-111 | 
-N/A    | N/A    | 341-1-244 | * Highest popularity talents, individually
+1618   | 64.1 % | [211-1-111](http://www.heroesfire.com/hots/talent-calculator/malfurion#kCq7) | 
+946    | 64.1 % | [321-1-123](http://www.heroesfire.com/hots/talent-calculator/malfurion#oPNp) | 
+1043   | 61.7 % | [111-1-123](http://www.heroesfire.com/hots/talent-calculator/malfurion#gOhJ) | 
+1725   | 61.0 % | [111-1-121](http://www.heroesfire.com/hots/talent-calculator/malfurion#gOhH) | 
+1479   | 60.5 % | [211-1-123](http://www.heroesfire.com/hots/talent-calculator/malfurion#kCqJ) | * Highest win % talents, individually
+1099   | 60.2 % | [311-1-123](http://www.heroesfire.com/hots/talent-calculator/malfurion#o0zJ) | 
+1841   | 59.8 % | [211-1-113](http://www.heroesfire.com/hots/talent-calculator/malfurion#kCq9) | 
+1502   | 59.8 % | [211-1-121](http://www.heroesfire.com/hots/talent-calculator/malfurion#kCqH) | 
+790    | 59.4 % | [111-1-113](http://www.heroesfire.com/hots/talent-calculator/malfurion#gOh9) | 
+1390   | 58.1 % | [111-1-111](http://www.heroesfire.com/hots/talent-calculator/malfurion#gOh7) | 
+N/A    | N/A    | [341-1-244](http://www.heroesfire.com/hots/talent-calculator/malfurion#pAEi) | * Highest popularity talents, individually
 
 
 # Muradin
@@ -357,17 +357,17 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Mur
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-810    | 69.5 % | 441-1-154 | 
-1188   | 66.8 % | 441-1-153 | 
-551    | 65.3 % | 441-1-151 | 
-1523   | 64.3 % | 441-1-354 | 
-552    | 62.7 % | 321-1-354 | 
-516    | 62.6 % | 444-1-353 | 
-1509   | 61.6 % | 441-1-353 | 
-649    | 60.4 % | 441-1-351 | * Highest win % talents, individually
-647    | 58.7 % | 441-1-453 | 
-770    | 57.0 % | 231-1-351 | 
-N/A    | N/A    | 444-1-134 | * Highest popularity talents, individually
+800    | 69.6 % | [441-1-154](http://www.heroesfire.com/hots/talent-calculator/muradin#s-MI) | 
+1112   | 67.1 % | [441-1-153](http://www.heroesfire.com/hots/talent-calculator/muradin#s-MH) | 
+518    | 66.2 % | [441-1-151](http://www.heroesfire.com/hots/talent-calculator/muradin#s-MF) | 
+1353   | 63.6 % | [441-1-354](http://www.heroesfire.com/hots/talent-calculator/muradin#s-PQ) | 
+490    | 63.5 % | [444-1-353](http://www.heroesfire.com/hots/talent-calculator/muradin#t5k9) | 
+498    | 62.9 % | [321-1-354](http://www.heroesfire.com/hots/talent-calculator/muradin#oPRQ) | 
+1442   | 61.0 % | [441-1-353](http://www.heroesfire.com/hots/talent-calculator/muradin#s-PP) | 
+582    | 59.8 % | [441-1-351](http://www.heroesfire.com/hots/talent-calculator/muradin#s-PN) | * Highest win % talents, individually
+738    | 58.4 % | [231-1-351](http://www.heroesfire.com/hots/talent-calculator/muradin#kzit) | 
+602    | 56.3 % | [441-1-453](http://www.heroesfire.com/hots/talent-calculator/muradin#s-Qz) | 
+N/A    | N/A    | [444-1-134](http://www.heroesfire.com/hots/talent-calculator/muradin#t5gk) | * Highest popularity talents, individually
 
 
 # Murky
@@ -376,16 +376,17 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Mur
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-399    | 73.7 % | 131-2-122 | * Highest popularity talents, individually
-686    | 68.7 % | 133-2-223 | 
-524    | 67.9 % | 131-2-332 | 
-995    | 67.5 % | 133-2-222 | * Highest win % talents, individually
-281    | 66.9 % | 233-2-222 | 
-657    | 66.8 % | 131-2-222 | 
-738    | 66.7 % | 133-2-332 | 
-408    | 66.4 % | 433-2-222 | 
-377    | 62.9 % | 433-2-223 | 
-232    | 60.3 % | 141-2-142 | 
+420    | 69.5 % | [131-2-122](http://www.heroesfire.com/hots/talent-calculator/murky#h9lw) | 
+616    | 69.0 % | [133-2-223](http://www.heroesfire.com/hots/talent-calculator/murky#hEf_) | 
+924    | 67.9 % | [133-2-222](http://www.heroesfire.com/hots/talent-calculator/murky#hEf-) | * Highest win % talents, individually
+598    | 67.6 % | [131-2-222](http://www.heroesfire.com/hots/talent-calculator/murky#h9nU) | 
+246    | 66.3 % | [233-2-222](http://www.heroesfire.com/hots/talent-calculator/murky#l2o-) | 
+682    | 65.7 % | [133-2-332](http://www.heroesfire.com/hots/talent-calculator/murky#hEhi) | 
+488    | 64.8 % | [131-2-332](http://www.heroesfire.com/hots/talent-calculator/murky#h9pC) | 
+224    | 63.8 % | [141-2-142](http://www.heroesfire.com/hots/talent-calculator/murky#hYAk) | 
+348    | 63.8 % | [433-2-223](http://www.heroesfire.com/hots/talent-calculator/murky#sh4_) | 
+358    | 62.0 % | [433-2-222](http://www.heroesfire.com/hots/talent-calculator/murky#sh4-) | 
+N/A    | N/A    | [111-2-122](http://www.heroesfire.com/hots/talent-calculator/murky#gOww) | * Highest popularity talents, individually
 
 
 # Nazeebo
@@ -394,16 +395,16 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Naz
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-6013   | 72.3 % | 211-1-121 | * Highest popularity talents, individually
-1711   | 72.2 % | 211-1-421 | 
-2212   | 71.5 % | 211-1-221 | 
-8228   | 71.1 % | 211-1-321 | * Highest win % talents, individually
-1314   | 70.0 % | 211-2-122 | 
-940    | 68.3 % | 211-1-124 | 
-4211   | 67.2 % | 211-2-322 | 
-1274   | 65.6 % | 211-1-424 | 
-3037   | 65.2 % | 211-1-324 | 
-1810   | 61.8 % | 211-2-324 | 
+2138   | 71.9 % | [211-1-221](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kCrr) | 
+1626   | 71.9 % | [211-1-421](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kCuz) | 
+6048   | 71.7 % | [211-1-121](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kCqH) | * Highest popularity talents, individually
+7662   | 70.5 % | [211-1-321](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kCtP) | * Highest win % talents, individually
+1235   | 70.0 % | [211-2-122](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kD3w) | 
+943    | 67.4 % | [211-1-124](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kCqK) | 
+1194   | 66.3 % | [211-1-424](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kCv0) | 
+3960   | 66.2 % | [211-2-322](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kD72) | 
+2884   | 64.8 % | [211-1-324](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kCtS) | 
+1632   | 61.1 % | [211-2-324](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kD74) | 
 
 
 # Nova
@@ -412,18 +413,18 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Nov
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-1586   | 70.3 % | 333-2-133 | 
-438    | 68.3 % | 333-1-133 | 
-460    | 66.7 % | 333-2-122 | 
-1317   | 65.7 % | 333-2-132 | 
-469    | 65.7 % | 343-2-133 | 
-620    | 65.7 % | 333-1-121 | 
-1497   | 65.5 % | 333-1-131 | 
-781    | 60.2 % | 333-1-221 | 
-496    | 59.7 % | 333-2-222 | 
-534    | 58.8 % | 332-1-131 | 
-N/A    | N/A    | 333-2-131 | * Highest win % talents, individually
-N/A    | N/A    | 143-2-133 | * Highest popularity talents, individually
+1470   | 70.3 % | [333-2-133](http://www.heroesfire.com/hots/talent-calculator/nova#oswb) | 
+399    | 67.2 % | [333-1-133](http://www.heroesfire.com/hots/talent-calculator/nova#osgz) | 
+423    | 66.2 % | [333-2-122](http://www.heroesfire.com/hots/talent-calculator/nova#oswQ) | 
+595    | 65.7 % | [333-1-121](http://www.heroesfire.com/hots/talent-calculator/nova#osgn) | 
+404    | 65.1 % | [343-2-133](http://www.heroesfire.com/hots/talent-calculator/nova#pFL5) | 
+1252   | 64.9 % | [333-2-132](http://www.heroesfire.com/hots/talent-calculator/nova#oswa) | 
+1431   | 64.6 % | [333-1-131](http://www.heroesfire.com/hots/talent-calculator/nova#osgx) | 
+750    | 60.0 % | [333-1-221](http://www.heroesfire.com/hots/talent-calculator/nova#osiL) | 
+511    | 59.9 % | [332-1-131](http://www.heroesfire.com/hots/talent-calculator/nova#oqEh) | 
+480    | 57.1 % | [333-2-222](http://www.heroesfire.com/hots/talent-calculator/nova#osx-) | 
+N/A    | N/A    | [333-2-131](http://www.heroesfire.com/hots/talent-calculator/nova#oswZ) | * Highest win % talents, individually
+N/A    | N/A    | [133-2-133](http://www.heroesfire.com/hots/talent-calculator/nova#hEeb) | * Highest popularity talents, individually
 
 
 # Raynor
@@ -432,16 +433,16 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Ray
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-2445   | 69.4 % | 212-1-134 | * Highest win % talents, individually
-658    | 68.4 % | 212-2-114 | 
-1304   | 68.1 % | 212-2-134 | 
-619    | 68.0 % | 222-1-144 | 
-2229   | 68.0 % | 212-1-144 | 
-681    | 67.8 % | 222-1-134 | 
-1106   | 67.2 % | 212-1-114 | * Highest popularity talents, individually
-1031   | 66.5 % | 212-1-234 | 
-1806   | 66.4 % | 212-2-144 | 
-1002   | 65.7 % | 112-2-134 | 
+642    | 69.8 % | [222-1-134](http://www.heroesfire.com/hots/talent-calculator/raynor#kdhE) | 
+2509   | 69.8 % | [212-1-134](http://www.heroesfire.com/hots/talent-calculator/raynor#kFGk) | * Highest win % talents, individually
+610    | 68.2 % | [212-2-114](http://www.heroesfire.com/hots/talent-calculator/raynor#kFW2) | 
+625    | 67.8 % | [112-1-134](http://www.heroesfire.com/hots/talent-calculator/raynor#gR7k) | 
+2169   | 67.8 % | [212-1-144](http://www.heroesfire.com/hots/talent-calculator/raynor#kFGu) | 
+1305   | 67.2 % | [212-2-134](http://www.heroesfire.com/hots/talent-calculator/raynor#kFWM) | 
+973    | 66.6 % | [212-1-234](http://www.heroesfire.com/hots/talent-calculator/raynor#kFII) | 
+1006   | 66.2 % | [112-2-134](http://www.heroesfire.com/hots/talent-calculator/raynor#gRNM) | 
+1028   | 65.7 % | [212-1-114](http://www.heroesfire.com/hots/talent-calculator/raynor#kFGQ) | * Highest popularity talents, individually
+1649   | 65.2 % | [212-2-144](http://www.heroesfire.com/hots/talent-calculator/raynor#kFWW) | 
 
 
 # Rehgar
@@ -450,17 +451,17 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Reh
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-573    | 64.2 % | 112-1-314 | 
-456    | 62.7 % | 112-1-124 | 
-4464   | 62.5 % | 112-1-114 | * Highest win % talents, individually
-1805   | 61.5 % | 112-1-113 | 
-545    | 60.7 % | 122-1-114 | 
-455    | 60.4 % | 122-1-113 | 
-862    | 60.0 % | 114-1-114 | 
-565    | 59.7 % | 114-1-113 | 
-1325   | 59.0 % | 112-1-111 | 
-543    | 53.8 % | 122-1-111 | 
-N/A    | N/A    | 432-1-334 | * Highest popularity talents, individually
+429    | 62.7 % | [112-1-124](http://www.heroesfire.com/hots/talent-calculator/rehgar#gR7a) | 
+4141   | 62.2 % | [112-1-114](http://www.heroesfire.com/hots/talent-calculator/rehgar#gR7Q) | * Highest win % talents, individually
+539    | 62.2 % | [112-1-314](http://www.heroesfire.com/hots/talent-calculator/rehgar#gRAY) | 
+546    | 61.9 % | [122-1-114](http://www.heroesfire.com/hots/talent-calculator/rehgar#gpXw) | 
+1676   | 61.5 % | [112-1-113](http://www.heroesfire.com/hots/talent-calculator/rehgar#gR7P) | 
+797    | 60.7 % | [114-1-114](http://www.heroesfire.com/hots/talent-calculator/rehgar#gV_w) | 
+406    | 59.4 % | [122-1-113](http://www.heroesfire.com/hots/talent-calculator/rehgar#gpXv) | 
+528    | 58.1 % | [114-1-113](http://www.heroesfire.com/hots/talent-calculator/rehgar#gV_v) | 
+1317   | 57.8 % | [112-1-111](http://www.heroesfire.com/hots/talent-calculator/rehgar#gR7N) | 
+538    | 54.7 % | [122-1-111](http://www.heroesfire.com/hots/talent-calculator/rehgar#gpXt) | 
+N/A    | N/A    | [432-1-324](http://www.heroesfire.com/hots/talent-calculator/rehgar#seQi) | * Highest popularity talents, individually
 
 
 # Sgt. Hammer
@@ -469,17 +470,17 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Sgt
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-157    | 73.3 % | 113-2-144 | 
-163    | 69.3 % | 533-2-144 | 
-566    | 69.1 % | 133-2-244 | 
-901    | 68.2 % | 133-2-144 | * Highest win % talents, individually
-235    | 67.2 % | 533-2-134 | 
-851    | 67.1 % | 133-2-134 | 
-236    | 67.0 % | 133-2-234 | 
-421    | 65.1 % | 133-2-154 | 
-161    | 64.6 % | 132-2-144 | 
-248    | 64.5 % | 132-2-244 | 
-N/A    | N/A    | 533-2-244 | * Highest popularity talents, individually
+174    | 69.5 % | [113-2-144](http://www.heroesfire.com/hots/talent-calculator/sgt.-hammer#gTpm) | 
+588    | 69.4 % | [133-2-244](http://www.heroesfire.com/hots/talent-calculator/sgt.-hammer#hEgK) | 
+162    | 69.1 % | [533-2-144](http://www.heroesfire.com/hots/talent-calculator/sgt.-hammer#wVCm) | 
+930    | 67.7 % | [133-2-144](http://www.heroesfire.com/hots/talent-calculator/sgt.-hammer#hEem) | * Highest win % talents, individually
+219    | 67.6 % | [133-2-234](http://www.heroesfire.com/hots/talent-calculator/sgt.-hammer#hEgA) | 
+822    | 65.3 % | [133-2-134](http://www.heroesfire.com/hots/talent-calculator/sgt.-hammer#hEec) | 
+234    | 65.0 % | [132-2-244](http://www.heroesfire.com/hots/talent-calculator/sgt.-hammer#hCE4) | 
+155    | 64.5 % | [132-2-144](http://www.heroesfire.com/hots/talent-calculator/sgt.-hammer#hCCW) | 
+222    | 63.5 % | [533-2-134](http://www.heroesfire.com/hots/talent-calculator/sgt.-hammer#wVCc) | 
+397    | 63.0 % | [133-2-154](http://www.heroesfire.com/hots/talent-calculator/sgt.-hammer#hEew) | 
+N/A    | N/A    | [523-2-244](http://www.heroesfire.com/hots/talent-calculator/sgt.-hammer#w6pq) | * Highest popularity talents, individually
 
 
 # Sonya
@@ -488,18 +489,18 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Son
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-79     | 70.9 % | 114-2-344 | 
-130    | 65.4 % | 113-2-344 | 
-75     | 64.0 % | 141-2-314 | 
-46     | 63.0 % | 113-2-213 | 
-67     | 62.7 % | 111-2-344 | 
-47     | 59.6 % | 113-2-323 | 
-43     | 58.1 % | 144-2-344 | 
-73     | 57.5 % | 412-2-344 | 
-86     | 50.0 % | 432-2-344 | 
-60     | 50.0 % | 141-2-344 | 
-N/A    | N/A    | 121-2-344 | * Highest win % talents, individually
-N/A    | N/A    | 241-2-322 | * Highest popularity talents, individually
+39     | 79.5 % | [113-2-213](http://www.heroesfire.com/hots/talent-calculator/sonya#gTqr) | 
+40     | 67.5 % | [113-2-323](http://www.heroesfire.com/hots/talent-calculator/sonya#gTsZ) | 
+104    | 67.3 % | [114-2-344](http://www.heroesfire.com/hots/talent-calculator/sonya#gWJ8) | 
+40     | 65.0 % | [111-2-314](http://www.heroesfire.com/hots/talent-calculator/sonya#gOzw) | 
+114    | 64.9 % | [113-2-344](http://www.heroesfire.com/hots/talent-calculator/sonya#gTsu) | 
+78     | 61.5 % | [111-2-344](http://www.heroesfire.com/hots/talent-calculator/sonya#gO-O) | 
+82     | 61.0 % | [141-2-314](http://www.heroesfire.com/hots/talent-calculator/sonya#hYDQ) | 
+59     | 57.6 % | [141-2-344](http://www.heroesfire.com/hots/talent-calculator/sonya#hYDu) | 
+98     | 53.1 % | [412-2-344](http://www.heroesfire.com/hots/talent-calculator/sonya#rtre) | 
+57     | 49.1 % | [432-2-344](http://www.heroesfire.com/hots/talent-calculator/sonya#sege) | 
+N/A    | N/A    | [121-2-344](http://www.heroesfire.com/hots/talent-calculator/sonya#gnOu) | * Highest win % talents, individually
+N/A    | N/A    | [141-2-322](http://www.heroesfire.com/hots/talent-calculator/sonya#hYDY) | * Highest popularity talents, individually
 
 
 # Stitches
@@ -508,18 +509,18 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Sti
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-106    | 64.2 % | 341-1-211 | 
-66     | 63.6 % | 211-1-121 | 
-68     | 61.8 % | 414-1-211 | 
-151    | 60.3 % | 342-1-211 | 
-75     | 57.3 % | 414-1-141 | 
-92     | 56.5 % | 414-1-121 | 
-64     | 54.7 % | 211-1-123 | 
-64     | 50.0 % | 341-2-212 | 
-72     | 47.2 % | 341-2-214 | 
-67     | 44.8 % | 341-2-114 | 
-N/A    | N/A    | 311-2-111 | * Highest win % talents, individually
-N/A    | N/A    | 411-1-311 | * Highest popularity talents, individually
+75     | 62.7 % | [414-1-211](http://www.heroesfire.com/hots/talent-calculator/stitches#rySR) | 
+142    | 61.3 % | [342-1-211](http://www.heroesfire.com/hots/talent-calculator/stitches#pCgR) | 
+68     | 60.3 % | [211-1-121](http://www.heroesfire.com/hots/talent-calculator/stitches#kCqH) | 
+88     | 60.2 % | [341-1-211](http://www.heroesfire.com/hots/talent-calculator/stitches#pAEB) | 
+68     | 58.8 % | [414-1-111](http://www.heroesfire.com/hots/talent-calculator/stitches#ryQt) | 
+86     | 57.0 % | [414-1-121](http://www.heroesfire.com/hots/talent-calculator/stitches#ryR1) | 
+77     | 53.3 % | [414-1-141](http://www.heroesfire.com/hots/talent-calculator/stitches#ryRL) | 
+62     | 51.6 % | [342-2-212](http://www.heroesfire.com/hots/talent-calculator/stitches#pCw4) | 
+68     | 50.0 % | [341-2-214](http://www.heroesfire.com/hots/talent-calculator/stitches#pATs) | 
+62     | 43.6 % | [341-2-114](http://www.heroesfire.com/hots/talent-calculator/stitches#pASI) | 
+N/A    | N/A    | [311-2-111](http://www.heroesfire.com/hots/talent-calculator/stitches#o1Cl) | * Highest win % talents, individually
+N/A    | N/A    | [312-1-221](http://www.heroesfire.com/hots/talent-calculator/stitches#o3R5) | * Highest popularity talents, individually
 
 
 # Sylvanas
@@ -528,16 +529,16 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Syl
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-616    | 62.5 % | 341-1-321 | 
-437    | 60.9 % | 341-1-323 | * Highest popularity talents, individually
-628    | 60.0 % | 341-1-324 | 
-1140   | 59.5 % | 141-1-221 | * Highest win % talents, individually
-452    | 58.9 % | 141-1-223 | 
-826    | 58.4 % | 341-1-224 | 
-599    | 58.3 % | 141-1-244 | 
-2010   | 57.5 % | 141-1-224 | 
-458    | 56.6 % | 341-1-221 | 
-495    | 53.3 % | 212-1-121 | 
+593    | 62.7 % | [341-1-321](http://www.heroesfire.com/hots/talent-calculator/sylvanas#pAFv) | 
+615    | 60.7 % | [341-1-324](http://www.heroesfire.com/hots/talent-calculator/sylvanas#pAFy) | 
+827    | 59.0 % | [341-1-224](http://www.heroesfire.com/hots/talent-calculator/sylvanas#pAEO) | 
+429    | 58.7 % | [341-1-221](http://www.heroesfire.com/hots/talent-calculator/sylvanas#pAEL) | 
+1076   | 58.6 % | [141-1-221](http://www.heroesfire.com/hots/talent-calculator/sylvanas#hXyL) | * Highest win % talents, individually
+430    | 57.9 % | [341-1-323](http://www.heroesfire.com/hots/talent-calculator/sylvanas#pAFx) | * Highest popularity talents, individually
+1962   | 57.5 % | [141-1-224](http://www.heroesfire.com/hots/talent-calculator/sylvanas#hXyO) | 
+573    | 57.2 % | [141-1-244](http://www.heroesfire.com/hots/talent-calculator/sylvanas#hXyi) | 
+434    | 56.9 % | [141-1-223](http://www.heroesfire.com/hots/talent-calculator/sylvanas#hXyN) | 
+499    | 55.5 % | [212-1-121](http://www.heroesfire.com/hots/talent-calculator/sylvanas#kFGX) | 
 
 
 # Tassadar
@@ -546,17 +547,17 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Tas
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-96     | 70.8 % | 142-1-241 | 
-143    | 65.0 % | 242-1-131 | 
-99     | 63.6 % | 342-1-431 | 
-67     | 59.7 % | 212-1-431 | 
-341    | 59.2 % | 242-1-431 | 
-163    | 58.9 % | 322-1-131 | 
-204    | 58.3 % | 222-1-131 | * Highest win % talents, individually
-82     | 56.1 % | 122-1-131 | 
-119    | 53.8 % | 112-1-241 | 
-89     | 51.7 % | 222-1-431 | 
-N/A    | N/A    | 342-1-241 | * Highest popularity talents, individually
+85     | 65.9 % | [142-1-241](http://www.heroesfire.com/hots/talent-calculator/tassadar#haOv) | 
+65     | 64.6 % | [242-1-433](http://www.heroesfire.com/hots/talent-calculator/tassadar#lOav) | 
+132    | 64.4 % | [242-1-131](http://www.heroesfire.com/hots/talent-calculator/tassadar#lOWB) | 
+358    | 60.1 % | [242-1-431](http://www.heroesfire.com/hots/talent-calculator/tassadar#lOat) | 
+88     | 58.0 % | [342-1-431](http://www.heroesfire.com/hots/talent-calculator/tassadar#pCjt) | 
+221    | 57.9 % | [222-1-131](http://www.heroesfire.com/hots/talent-calculator/tassadar#kdhB) | * Highest win % talents, individually
+87     | 57.5 % | [222-1-431](http://www.heroesfire.com/hots/talent-calculator/tassadar#kdlt) | 
+82     | 57.3 % | [122-1-131](http://www.heroesfire.com/hots/talent-calculator/tassadar#gpYB) | 
+172    | 56.4 % | [322-1-131](http://www.heroesfire.com/hots/talent-calculator/tassadar#oRqB) | 
+107    | 54.2 % | [112-1-241](http://www.heroesfire.com/hots/talent-calculator/tassadar#gR9P) | 
+N/A    | N/A    | [142-1-231](http://www.heroesfire.com/hots/talent-calculator/tassadar#haOl) | * Highest popularity talents, individually
 
 
 # The Butcher
@@ -565,17 +566,17 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=The
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-290    | 66.2 % | 433-1-233 | 
-707    | 65.5 % | 423-1-333 | 
-389    | 63.5 % | 443-1-333 | 
-407    | 63.4 % | 423-1-233 | 
-287    | 63.1 % | 443-2-333 | 
-526    | 62.6 % | 423-2-333 | 
-1124   | 62.5 % | 413-1-333 | * Highest win % talents, individually
-281    | 61.6 % | 423-2-233 | 
-323    | 61.3 % | 433-1-333 | 
-566    | 61.1 % | 413-2-333 | 
-N/A    | N/A    | 241-2-233 | * Highest popularity talents, individually
+273    | 67.8 % | [443-2-333](http://www.heroesfire.com/hots/talent-calculator/the-butcher#t3XD) | 
+268    | 64.6 % | [433-1-233](http://www.heroesfire.com/hots/talent-calculator/the-butcher#sgrX) | 
+292    | 64.4 % | [423-2-233](http://www.heroesfire.com/hots/talent-calculator/the-butcher#sIgf) | 
+370    | 64.3 % | [423-1-233](http://www.heroesfire.com/hots/talent-calculator/the-butcher#sIR1) | 
+704    | 63.4 % | [423-1-333](http://www.heroesfire.com/hots/talent-calculator/the-butcher#sISb) | 
+524    | 63.0 % | [423-2-333](http://www.heroesfire.com/hots/talent-calculator/the-butcher#sIiD) | 
+394    | 61.9 % | [443-1-333](http://www.heroesfire.com/hots/talent-calculator/the-butcher#t3Hb) | 
+1058   | 61.9 % | [413-1-333](http://www.heroesfire.com/hots/talent-calculator/the-butcher#rw25) | * Highest win % talents, individually
+501    | 61.9 % | [413-2-333](http://www.heroesfire.com/hots/talent-calculator/the-butcher#rwHj) | 
+317    | 60.9 % | [433-1-333](http://www.heroesfire.com/hots/talent-calculator/the-butcher#sgt5) | 
+N/A    | N/A    | [243-2-133](http://www.heroesfire.com/hots/talent-calculator/the-butcher#lRC5) | * Highest popularity talents, individually
 
 
 # The Lost Vikings
@@ -584,17 +585,17 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=The
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-18     | 83.3 % | 422-2-222 | 
-20     | 80.0 % | 312-2-244 | 
-24     | 70.8 % | 122-2-214 | 
-33     | 69.7 % | 422-2-224 | 
-36     | 69.4 % | 311-2-114 | 
-40     | 67.5 % | 311-2-344 | 
-20     | 65.0 % | 122-2-222 | 
-31     | 64.5 % | 412-2-224 | 
-34     | 61.8 % | 442-2-224 | 
-17     | 41.2 % | 312-2-224 | * Highest win % talents, individually
-N/A    | N/A    | 412-1-131 | * Highest popularity talents, individually
+15     | 86.7 % | [312-2-244](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#o3h4) | 
+29     | 75.9 % | [311-2-114](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#o1Co) | 
+16     | 75.0 % | [322-2-324](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#oS6q) | 
+19     | 73.7 % | [122-2-222](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#gppE) | 
+34     | 70.6 % | [122-2-214](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#gpp6) | 
+40     | 70.0 % | [422-2-224](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#sGEG) | 
+31     | 61.3 % | [412-2-224](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#rtpm) | 
+22     | 54.6 % | [442-2-224](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#t13G) | 
+26     | 53.9 % | [311-2-344](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#o1GO) | 
+17     | 41.2 % | [312-2-224](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#o3gm) | * Highest win % talents, individually
+N/A    | N/A    | [322-1-131](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#oRqB) | * Highest popularity talents, individually
 
 
 # Thrall
@@ -603,17 +604,17 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Thr
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-342    | 69.9 % | 141-1-223 | 
-311    | 69.1 % | 441-1-223 | 
-177    | 66.7 % | 131-1-223 | 
-274    | 65.3 % | 231-1-223 | 
-792    | 64.4 % | 241-1-223 | * Highest win % talents, individually
-217    | 64.1 % | 431-1-223 | 
-554    | 63.7 % | 341-1-223 | 
-288    | 63.2 % | 331-1-223 | 
-331    | 61.9 % | 211-1-223 | 
-173    | 61.3 % | 443-1-323 | 
-N/A    | N/A    | 113-2-322 | * Highest popularity talents, individually
+345    | 68.7 % | [141-1-223](http://www.heroesfire.com/hots/talent-calculator/thrall#hXyN) | 
+161    | 66.5 % | [131-1-223](http://www.heroesfire.com/hots/talent-calculator/thrall#h9Xt) | 
+298    | 66.4 % | [231-1-223](http://www.heroesfire.com/hots/talent-calculator/thrall#kzgt) | 
+223    | 66.4 % | [431-1-223](http://www.heroesfire.com/hots/talent-calculator/thrall#sbyt) | 
+336    | 64.9 % | [211-1-223](http://www.heroesfire.com/hots/talent-calculator/thrall#kCrt) | 
+165    | 64.9 % | [443-1-323](http://www.heroesfire.com/hots/talent-calculator/thrall#t3HR) | 
+815    | 64.7 % | [241-1-223](http://www.heroesfire.com/hots/talent-calculator/thrall#lM5N) | * Highest win % talents, individually
+285    | 64.6 % | [331-1-223](http://www.heroesfire.com/hots/talent-calculator/thrall#onpt) | 
+306    | 64.1 % | [441-1-223](http://www.heroesfire.com/hots/talent-calculator/thrall#s-NN) | 
+564    | 62.2 % | [341-1-223](http://www.heroesfire.com/hots/talent-calculator/thrall#pAEN) | 
+N/A    | N/A    | [113-1-112](http://www.heroesfire.com/hots/talent-calculator/thrall#gTZe) | * Highest popularity talents, individually
 
 
 # Tychus
@@ -622,17 +623,17 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Tyc
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-283    | 66.1 % | 133-1-221 | 
-260    | 65.4 % | 133-1-243 | 
-1744   | 65.1 % | 133-2-242 | 
-422    | 64.5 % | 143-2-242 | 
-2404   | 63.3 % | 133-1-241 | * Highest win % talents, individually
-261    | 62.8 % | 133-2-222 | 
-703    | 62.3 % | 143-1-241 | 
-366    | 62.3 % | 133-1-211 | 
-389    | 60.9 % | 133-2-212 | 
-260    | 57.7 % | 133-1-244 | 
-N/A    | N/A    | 433-2-241 | * Highest popularity talents, individually
+289    | 67.1 % | [133-1-221](http://www.heroesfire.com/hots/talent-calculator/tychus#hEQL) | 
+1653   | 64.6 % | [133-2-242](http://www.heroesfire.com/hots/talent-calculator/tychus#hEgI) | 
+396    | 64.1 % | [143-2-242](http://www.heroesfire.com/hots/talent-calculator/tychus#hd4o) | 
+2275   | 63.5 % | [133-1-241](http://www.heroesfire.com/hots/talent-calculator/tychus#hEQf) | * Highest win % talents, individually
+347    | 62.8 % | [133-1-211](http://www.heroesfire.com/hots/talent-calculator/tychus#hEQB) | 
+228    | 62.3 % | [133-1-141](http://www.heroesfire.com/hots/talent-calculator/tychus#hEP5) | 
+672    | 62.2 % | [143-1-241](http://www.heroesfire.com/hots/talent-calculator/tychus#hcr9) | 
+243    | 62.1 % | [133-1-243](http://www.heroesfire.com/hots/talent-calculator/tychus#hEQh) | 
+273    | 61.5 % | [133-2-222](http://www.heroesfire.com/hots/talent-calculator/tychus#hEf-) | 
+381    | 59.1 % | [133-2-212](http://www.heroesfire.com/hots/talent-calculator/tychus#hEfq) | 
+N/A    | N/A    | [433-1-241](http://www.heroesfire.com/hots/talent-calculator/tychus#sgrf) | * Highest popularity talents, individually
 
 
 # Tyrael
@@ -641,17 +642,17 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Tyr
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-193    | 68.9 % | 311-1-144 | 
-189    | 66.1 % | 311-1-141 | 
-247    | 60.7 % | 411-1-141 | 
-493    | 60.2 % | 311-1-343 | 
-465    | 58.7 % | 411-1-143 | 
-724    | 57.9 % | 411-1-343 | 
-669    | 57.9 % | 311-1-143 | * Highest win % talents, individually
-426    | 56.8 % | 411-1-323 | 
-194    | 56.7 % | 411-1-233 | 
-246    | 55.7 % | 411-1-243 | 
-N/A    | N/A    | 411-1-144 | * Highest popularity talents, individually
+187    | 65.8 % | [311-1-144](http://www.heroesfire.com/hots/talent-calculator/tyrael#o0ze) | 
+234    | 65.0 % | [411-1-141](http://www.heroesfire.com/hots/talent-calculator/tyrael#rr6b) | 
+468    | 62.0 % | [311-1-343](http://www.heroesfire.com/hots/talent-calculator/tyrael#o10l) | 
+674    | 58.2 % | [411-1-343](http://www.heroesfire.com/hots/talent-calculator/tyrael#rr9l) | 
+394    | 58.1 % | [411-1-323](http://www.heroesfire.com/hots/talent-calculator/tyrael#rr9R) | 
+165    | 57.6 % | [311-1-323](http://www.heroesfire.com/hots/talent-calculator/tyrael#o10R) | 
+458    | 57.4 % | [411-1-143](http://www.heroesfire.com/hots/talent-calculator/tyrael#rr6d) | 
+623    | 56.8 % | [311-1-143](http://www.heroesfire.com/hots/talent-calculator/tyrael#o0zd) | * Highest win % talents, individually
+199    | 55.3 % | [411-1-233](http://www.heroesfire.com/hots/talent-calculator/tyrael#rr81) | 
+231    | 54.1 % | [411-1-243](http://www.heroesfire.com/hots/talent-calculator/tyrael#rr8B) | 
+N/A    | N/A    | [411-1-124](http://www.heroesfire.com/hots/talent-calculator/tyrael#rr6K) | * Highest popularity talents, individually
 
 
 # Tyrande
@@ -660,18 +661,18 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Tyr
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-102    | 72.6 % | 412-1-335 | 
-197    | 67.0 % | 352-1-213 | 
-248    | 66.5 % | 322-1-213 | 
-85     | 65.9 % | 212-1-335 | 
-125    | 64.8 % | 323-1-213 | 
-130    | 64.6 % | 412-1-135 | 
-162    | 64.2 % | 222-1-213 | 
-94     | 63.8 % | 232-1-145 | 
-131    | 58.8 % | 252-1-213 | 
-140    | 57.1 % | 212-1-135 | 
-N/A    | N/A    | 212-1-113 | * Highest win % talents, individually
-N/A    | N/A    | 343-1-115 | * Highest popularity talents, individually
+84     | 67.9 % | [353-1-213](http://www.heroesfire.com/hots/talent-calculator/tyrande#pdXD) | 
+118    | 67.8 % | [323-1-213](http://www.heroesfire.com/hots/talent-calculator/tyrande#oUHj) | 
+105    | 66.7 % | [412-1-335](http://www.heroesfire.com/hots/talent-calculator/tyrande#rtbt) | 
+166    | 65.7 % | [222-1-213](http://www.heroesfire.com/hots/talent-calculator/tyrande#kdiT) | 
+186    | 65.1 % | [352-1-213](http://www.heroesfire.com/hots/talent-calculator/tyrande#pb4z) | 
+91     | 64.8 % | [412-1-435](http://www.heroesfire.com/hots/talent-calculator/tyrande#rtdR) | 
+230    | 63.0 % | [322-1-213](http://www.heroesfire.com/hots/talent-calculator/tyrande#oRrT) | 
+113    | 62.0 % | [412-1-135](http://www.heroesfire.com/hots/talent-calculator/tyrande#rtYl) | 
+141    | 60.3 % | [252-1-213](http://www.heroesfire.com/hots/talent-calculator/tyrande#lmxz) | 
+133    | 57.1 % | [212-1-135](http://www.heroesfire.com/hots/talent-calculator/tyrande#kFGl) | 
+N/A    | N/A    | [212-1-113](http://www.heroesfire.com/hots/talent-calculator/tyrande#kFGP) | * Highest win % talents, individually
+N/A    | N/A    | [342-1-115](http://www.heroesfire.com/hots/talent-calculator/tyrande#pCex) | * Highest popularity talents, individually
 
 
 # Uther
@@ -680,17 +681,17 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Uth
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-785    | 66.2 % | 144-1-423 | 
-708    | 66.2 % | 111-1-443 | 
-840    | 65.8 % | 142-1-443 | 
-480    | 65.4 % | 144-1-243 | 
-1032   | 65.3 % | 141-1-443 | 
-824    | 64.8 % | 144-1-444 | 
-1417   | 64.4 % | 145-1-443 | 
-6763   | 64.1 % | 144-1-443 | * Highest win % talents, individually
-862    | 63.6 % | 114-1-443 | 
-689    | 63.0 % | 143-1-443 | 
-N/A    | N/A    | 413-1-124 | * Highest popularity talents, individually
+731    | 69.2 % | [111-1-443](http://www.heroesfire.com/hots/talent-calculator/uther#gOmJ) | 
+757    | 65.8 % | [144-1-423](http://www.heroesfire.com/hots/talent-calculator/uther#hfKF) | 
+440    | 65.0 % | [144-1-243](http://www.heroesfire.com/hots/talent-calculator/uther#hfHR) | 
+823    | 64.4 % | [114-1-443](http://www.heroesfire.com/hots/talent-calculator/uther#gW53) | 
+806    | 64.4 % | [142-1-443](http://www.heroesfire.com/hots/talent-calculator/uther#haS3) | 
+1035   | 64.2 % | [141-1-443](http://www.heroesfire.com/hots/talent-calculator/uther#hX_p) | 
+774    | 63.6 % | [144-1-444](http://www.heroesfire.com/hots/talent-calculator/uther#hfKa) | 
+6477   | 63.5 % | [144-1-443](http://www.heroesfire.com/hots/talent-calculator/uther#hfKZ) | * Highest win % talents, individually
+1386   | 63.2 % | [145-1-443](http://www.heroesfire.com/hots/talent-calculator/uther#hhmp) | 
+638    | 63.0 % | [143-1-443](http://www.heroesfire.com/hots/talent-calculator/uther#hcuJ) | 
+N/A    | N/A    | [413-1-121](http://www.heroesfire.com/hots/talent-calculator/uther#rv-n) | * Highest popularity talents, individually
 
 
 # Valla
@@ -699,17 +700,17 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Val
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-656    | 66.6 % | 233-1-133 | 
-1038   | 66.6 % | 344-1-233 | 
-793    | 64.7 % | 333-1-233 | * Highest win % talents, individually
-904    | 63.4 % | 424-1-133 | 
-508    | 61.8 % | 233-1-123 | 
-934    | 61.0 % | 233-1-434 | 
-756    | 60.7 % | 344-1-234 | 
-1364   | 59.5 % | 424-2-133 | 
-502    | 57.6 % | 233-1-234 | 
-761    | 54.4 % | 333-1-234 | 
-N/A    | N/A    | 243-1-233 | * Highest popularity talents, individually
+665    | 66.6 % | [233-1-133](http://www.heroesfire.com/hots/talent-calculator/valla#l2Xz) | 
+1019   | 63.7 % | [344-1-233](http://www.heroesfire.com/hots/talent-calculator/valla#pHZH) | 
+737    | 62.0 % | [333-1-233](http://www.heroesfire.com/hots/talent-calculator/valla#osiX) | * Highest win % talents, individually
+850    | 61.9 % | [233-1-434](http://www.heroesfire.com/hots/talent-calculator/valla#l2cg) | 
+858    | 61.3 % | [424-1-133](http://www.heroesfire.com/hots/talent-calculator/valla#sKrj) | 
+508    | 60.8 % | [233-1-123](http://www.heroesfire.com/hots/talent-calculator/valla#l2Xp) | 
+1298   | 59.3 % | [424-2-133](http://www.heroesfire.com/hots/talent-calculator/valla#sL5L) | 
+697    | 58.4 % | [344-1-234](http://www.heroesfire.com/hots/talent-calculator/valla#pHZI) | 
+536    | 57.7 % | [233-1-234](http://www.heroesfire.com/hots/talent-calculator/valla#l2ZY) | 
+689    | 52.8 % | [333-1-234](http://www.heroesfire.com/hots/talent-calculator/valla#osiY) | 
+N/A    | N/A    | [243-1-211](http://www.heroesfire.com/hots/talent-calculator/valla#lQzh) | * Highest popularity talents, individually
 
 
 # Zagara
@@ -718,16 +719,17 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Zag
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-813    | 66.9 % | 315-1-123 | * Highest popularity talents, individually
-855    | 64.0 % | 315-1-121 | 
-983    | 62.8 % | 311-1-124 | 
-2890   | 62.6 % | 314-1-124 | 
-822    | 61.6 % | 315-1-223 | 
-6845   | 61.5 % | 315-1-124 | * Highest win % talents, individually
-5178   | 60.4 % | 315-1-224 | 
-1221   | 59.5 % | 315-1-221 | 
-1239   | 58.4 % | 314-1-224 | 
-375    | 57.6 % | 311-1-224 | 
+799    | 67.5 % | [315-1-123](http://www.heroesfire.com/hots/talent-calculator/zagara#oAkJ) | 
+763    | 63.7 % | [315-1-223](http://www.heroesfire.com/hots/talent-calculator/zagara#oAlt) | 
+800    | 63.6 % | [315-1-121](http://www.heroesfire.com/hots/talent-calculator/zagara#oAkH) | 
+2629   | 63.0 % | [314-1-124](http://www.heroesfire.com/hots/talent-calculator/zagara#o8I4) | 
+966    | 62.8 % | [311-1-124](http://www.heroesfire.com/hots/talent-calculator/zagara#o0zK) | 
+6470   | 62.2 % | [315-1-124](http://www.heroesfire.com/hots/talent-calculator/zagara#oAkK) | * Highest win % talents, individually
+4921   | 59.6 % | [315-1-224](http://www.heroesfire.com/hots/talent-calculator/zagara#oAlu) | 
+1149   | 59.3 % | [315-1-221](http://www.heroesfire.com/hots/talent-calculator/zagara#oAlr) | 
+371    | 58.0 % | [311-1-224](http://www.heroesfire.com/hots/talent-calculator/zagara#o0-u) | 
+1122   | 57.8 % | [314-1-224](http://www.heroesfire.com/hots/talent-calculator/zagara#o8Je) | 
+N/A    | N/A    | [314-1-123](http://www.heroesfire.com/hots/talent-calculator/zagara#o8I3) | * Highest popularity talents, individually
 
 
 # Zeratul
@@ -736,16 +738,16 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Zer
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-1234   | 68.5 % | 411-2-313 | 
-919    | 65.8 % | 411-2-334 | 
-925    | 65.6 % | 411-2-314 | 
-995    | 65.3 % | 411-2-423 | 
-4709   | 65.2 % | 411-2-323 | * Highest win % talents, individually <br/>** Highest popularity talents, individually
-7600   | 64.7 % | 411-2-324 | 
-1014   | 63.4 % | 511-2-313 | 
-2100   | 63.1 % | 511-2-323 | 
-1961   | 61.0 % | 511-2-324 | 
-880    | 59.9 % | 511-2-423 | 
+1213   | 68.2 % | [411-2-313](http://www.heroesfire.com/hots/talent-calculator/zeratul#rrOv) | 
+937    | 66.1 % | [411-2-314](http://www.heroesfire.com/hots/talent-calculator/zeratul#rrOw) | 
+864    | 65.9 % | [411-2-334](http://www.heroesfire.com/hots/talent-calculator/zeratul#rrPE) | 
+4515   | 65.8 % | [411-2-323](http://www.heroesfire.com/hots/talent-calculator/zeratul#rrP3) | * Highest win % talents, individually <br/>** Highest popularity talents, individually
+948    | 65.2 % | [411-2-423](http://www.heroesfire.com/hots/talent-calculator/zeratul#rrQd) | 
+7104   | 64.3 % | [411-2-324](http://www.heroesfire.com/hots/talent-calculator/zeratul#rrP4) | 
+1952   | 63.8 % | [511-2-323](http://www.heroesfire.com/hots/talent-calculator/zeratul#vfY3) | 
+967    | 62.8 % | [511-2-313](http://www.heroesfire.com/hots/talent-calculator/zeratul#vfXv) | 
+807    | 61.2 % | [511-2-423](http://www.heroesfire.com/hots/talent-calculator/zeratul#vfZd) | 
+1823   | 60.5 % | [511-2-324](http://www.heroesfire.com/hots/talent-calculator/zeratul#vfY4) | 
 
 
 ## Shorthand Explained

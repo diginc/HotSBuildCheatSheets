@@ -4,14 +4,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Anu
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-282    | 69.2 % | 442-1-143 | 
-447    | 69.1 % | 444-1-141 | 
-286    | 68.2 % | 444-1-131 | 
-929    | 67.8 % | 344-1-141 | * Highest win % talents, individually
-423    | 67.4 % | 344-1-121 | 
-574    | 67.3 % | 344-1-131 | 
-293    | 66.2 % | 344-1-111 | 
-270    | 62.2 % | 444-1-143 | 
-234    | 61.5 % | 344-2-143 | 
-383    | 60.1 % | 344-1-143 | 
-N/A    | N/A    | 442-1-111 | * Highest popularity talents, individually
+277    | 71.1 % | [444-1-131](http://www.heroesfire.com/hots/talent-calculator/anubarak#t5gh) | 
+445    | 68.8 % | [444-1-141](http://www.heroesfire.com/hots/talent-calculator/anubarak#t5gr) | 
+907    | 68.5 % | [344-1-141](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHXr) | * Highest win % talents, individually
+255    | 67.8 % | [442-1-143](http://www.heroesfire.com/hots/talent-calculator/anubarak#t0oN) | 
+403    | 67.0 % | [344-1-121](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHXX) | 
+508    | 65.8 % | [344-1-131](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHXh) | 
+285    | 65.6 % | [344-1-111](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHXN) | 
+242    | 64.1 % | [444-1-143](http://www.heroesfire.com/hots/talent-calculator/anubarak#t5gt) | 
+222    | 62.6 % | [344-1-144](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHXu) | 
+366    | 59.8 % | [344-1-143](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHXt) | 
+N/A    | N/A    | [442-1-111](http://www.heroesfire.com/hots/talent-calculator/anubarak#t0nt) | * Highest popularity talents, individually
