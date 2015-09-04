@@ -1,5 +1,7 @@
 from herolib import HEROES, HeroParser, TalentSorter
+import math
 import doclib
+
 
 TALENTTABLE = '{:<6} | {:<6} | {:<9} | {}\n'
 
@@ -37,7 +39,9 @@ class HotSLogsLog(object):
 
             for i in range(len(self.heroes[name].topBuilds)):
                 rankedBuild = self.heroes[name].topBuilds[i]
-                rankedBuildStr = self.format_talents_shorthand(rankedBuild.buildByNum)
+                heroesFireLink = self.create_hf_link(name, rankedBuild.buildByNum)
+                shortHand = self.format_talents_shorthand(rankedBuild.buildByNum)
+                rankedBuildStr = '[{}]({})'.format(shortHand,heroesFireLink)
                 note = ''
                 if rankedBuild.buildByNum == topTalentTalentNums:
                     note += popularStr
@@ -54,17 +58,19 @@ class HotSLogsLog(object):
                 wikiFile.write(line)
                 heroFile.write(line)
             if not foundTopTalentBuild:
-                self.append_other_top_build(wikiFile,topTalentTalentNums,popularStr)
-                self.append_other_top_build(heroFile,topTalentTalentNums,popularStr)
+                self.append_other_top_build(name, wikiFile,topTalentTalentNums,popularStr)
+                self.append_other_top_build(name, heroFile,topTalentTalentNums,popularStr)
             if not foundTopWinningBuild:
-                self.append_other_top_build(wikiFile,topWinningTalentNums,winningStr)
-                self.append_other_top_build(heroFile,topWinningTalentNums,winningStr)
+                self.append_other_top_build(name, wikiFile,topWinningTalentNums,winningStr)
+                self.append_other_top_build(name, heroFile,topWinningTalentNums,winningStr)
 
         wikiFile.write('\n\n')
         wikiFile.write('\n\n'.join(doclib.INDEX[1:len(doclib.INDEX)]))
 
-    def append_other_top_build(self, fh, build, note):
-        buildStr = self.format_talents_shorthand(build)
+    def append_other_top_build(self, name, fh, build, note):
+        heroesFireLink = self.create_hf_link(name, build)
+        shortHand = self.format_talents_shorthand(build)
+        buildStr = '[{}]({})'.format(shortHand,heroesFireLink)
         line = TALENTTABLE.format(
             'N/A',
             'N/A',
@@ -80,6 +86,31 @@ class HotSLogsLog(object):
             else:
                 buildStr = buildStr + str(talentNum)
         return buildStr
+
+    def create_hf_link(self, name, build):
+        if name == 'E.T.C.':
+                name = 'elite-tauren-chieftain'
+        name = name.replace("'", "") \
+                   .replace(" ", "-") \
+                   .lower()
+        return 'http://www.heroesfire.com/hots/talent-calculator/' \
+               + name + '#' \
+               + self.format_talent_as_heroesfire_hash(build)
+
+    def format_talent_as_heroesfire_hash(self, build):
+        buildStr = '1'
+        for tier,talentNum in enumerate(build):
+            buildStr = buildStr + str(talentNum)
+        buildInt = int(buildStr)
+        residual = buildInt
+        alphabet = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-_'
+        radix64Str = ''
+        while True:
+            rixit = residual % len(alphabet)
+            radix64Str = alphabet[int(math.floor(rixit))] + radix64Str
+            residual = math.floor( residual / len(alphabet))
+            if residual == 0: break
+        return radix64Str
 
     def format_talents_verbose(self, build):
         buildStr = ''

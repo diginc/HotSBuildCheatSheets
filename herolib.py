@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 from collections import namedtuple
 
 DEBUG=False
+#DEBUG=True
 
 HEROES = [
     "Abathur",     "Anub'arak",   "Arthas",           "Azmodan",
