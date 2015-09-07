@@ -21,10 +21,12 @@ class HotSLogsLog(object):
     def update_flatfiles(self):
         ''' Human readable/consumable data '''
         wikiFile = open('wiki/Home.md', 'w')
+        wikiFile.write(doclib.NEWS[0])
         wikiFile.write(doclib.INDEX[0])
 
         for name in HEROES:
             heroFile = open('wiki/'+ name +'.md', 'w')
+            heroFile.write(doclib.NEWS[0])
             heroFile.write('# '+ name +'\n\n')
             wikiFile.write('\n\n# '+ name +'\n\n')
             self.write_talent_table_header(wikiFile, name)

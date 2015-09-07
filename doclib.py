@@ -1,3 +1,13 @@
+NEWS = [
+    '''#### Update 2015/09/04
+    **The build shorthand column now link to HeroesFire.com talent calulator with the URL customized for each build!  
+Use them to see a more detailed view of the build and talents, or tweak builds slightly.**
+
+***
+
+'''
+]
+
 INDEX = [
     '''# HOTS Build Cheatsheets
 Here are the most popular Hero of the Storm Heros' builds from [HOTS Logs](https://www.hotslogs.com/Default) in a **shorthand format**.  All credit goes to HOTS Logs for the data, I am merely reformatting it.
