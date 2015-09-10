@@ -92,6 +92,8 @@ class HotSLogsLog(object):
     def create_hf_link(self, name, build):
         if name == 'E.T.C.':
                 name = 'elite-tauren-chieftain'
+        if name == 'Sgt. Hammer':
+                name = 'sergeant-hammer'
         name = name.replace("'", "") \
                    .replace(" ", "-") \
                    .lower()
