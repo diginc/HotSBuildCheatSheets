@@ -12,14 +12,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Gaz
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-17     | 82.4 % | [322-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#oS54) | 
-13     | 69.2 % | [221-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#kbVq) | 
-15     | 66.7 % | [421-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#sDnq) | 
-15     | 66.7 % | [431-2-222](http://www.heroesfire.com/hots/talent-calculator/gazlowe#scCU) | 
-23     | 65.2 % | [422-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#sGE4) | 
-19     | 63.2 % | [421-2-222](http://www.heroesfire.com/hots/talent-calculator/gazlowe#sDn-) | 
-25     | 60.0 % | [321-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#oPeq) | 
-27     | 59.3 % | [431-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#scCK) | * Highest win % talents, individually
-17     | 58.8 % | [422-2-222](http://www.heroesfire.com/hots/talent-calculator/gazlowe#sGEE) | 
-19     | 47.4 % | [432-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#seea) | 
-N/A    | N/A    | [123-1-111](http://www.heroesfire.com/hots/talent-calculator/gazlowe#gr-7) | * Highest popularity talents, individually
+20     | 80.0 % | [322-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#oS54) | 
+16     | 68.8 % | [431-2-222](http://www.heroesfire.com/hots/talent-calculator/gazlowe#scCU) | 
+16     | 68.8 % | [221-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#kbVq) | 
+34     | 64.7 % | [431-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#scCK) | * Highest win % talents, individually
+25     | 64.0 % | [422-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#sGE4) | 
+22     | 63.6 % | [421-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#sDnq) | 
+23     | 60.9 % | [421-2-222](http://www.heroesfire.com/hots/talent-calculator/gazlowe#sDn-) | 
+27     | 59.3 % | [321-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#oPeq) | 
+20     | 55.0 % | [422-2-222](http://www.heroesfire.com/hots/talent-calculator/gazlowe#sGEE) | 
+25     | 52.0 % | [432-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#seea) | 
+N/A    | N/A    | [113-1-111](http://www.heroesfire.com/hots/talent-calculator/gazlowe#gTZd) | * Highest popularity talents, individually
