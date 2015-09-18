@@ -1,6 +1,7 @@
-#### Update 2015/09/04
-**The build shorthand column now link to HeroesFire.com talent calulator with the URL customized for each build!  
-Use them to see a more detailed view of the build and talents, or tweak builds slightly.**
+#### Updates
+** Update 2015/09/17 - First post Rexxar patch numbers, resetting the total games, proentially shifting builds around a lot.**
+**Update 2015/09/04** - The build shorthand column now link to HeroesFire.com talent calulator with the URL customized for each build!  
+Use them to see a more detailed view of the build and talents, or tweak builds slightly.
 
 ***
 
@@ -10,14 +11,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Azm
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-160    | 62.5 % | [141-2-342](http://www.heroesfire.com/hots/talent-calculator/azmodan#hYDs) | 
-217    | 59.5 % | [314-1-331](http://www.heroesfire.com/hots/talent-calculator/azmodan#o8LJ) | 
-152    | 57.2 % | [111-1-311](http://www.heroesfire.com/hots/talent-calculator/azmodan#gOkF) | * Highest win % talents, individually
-239    | 56.1 % | [314-1-311](http://www.heroesfire.com/hots/talent-calculator/azmodan#o8K_) | 
-145    | 55.9 % | [314-1-321](http://www.heroesfire.com/hots/talent-calculator/azmodan#o8L9) | 
-228    | 55.7 % | [211-1-311](http://www.heroesfire.com/hots/talent-calculator/azmodan#kCtF) | 
-236    | 55.1 % | [141-2-343](http://www.heroesfire.com/hots/talent-calculator/azmodan#hYDt) | 
-161    | 54.0 % | [111-2-333](http://www.heroesfire.com/hots/talent-calculator/azmodan#gO-D) | 
-230    | 53.9 % | [111-2-343](http://www.heroesfire.com/hots/talent-calculator/azmodan#gO-N) | 
-130    | 50.0 % | [121-2-343](http://www.heroesfire.com/hots/talent-calculator/azmodan#gnOt) | 
-N/A    | N/A    | [221-1-112](http://www.heroesfire.com/hots/talent-calculator/azmodan#kbEe) | * Highest popularity talents, individually
+17     | 82.4 % | [111-1-311](http://www.heroesfire.com/hots/talent-calculator/azmodan#gOkF) | * Highest win % talents, individually
+16     | 68.8 % | [221-1-311](http://www.heroesfire.com/hots/talent-calculator/azmodan#kbHl) | 
+24     | 66.7 % | [314-1-331](http://www.heroesfire.com/hots/talent-calculator/azmodan#o8LJ) | 
+23     | 65.2 % | [314-1-311](http://www.heroesfire.com/hots/talent-calculator/azmodan#o8K_) | 
+17     | 58.8 % | [314-1-321](http://www.heroesfire.com/hots/talent-calculator/azmodan#o8L9) | 
+16     | 56.3 % | [322-1-124](http://www.heroesfire.com/hots/talent-calculator/azmodan#oRq4) | 
+22     | 54.6 % | [211-1-311](http://www.heroesfire.com/hots/talent-calculator/azmodan#kCtF) | 
+15     | 53.3 % | [322-1-114](http://www.heroesfire.com/hots/talent-calculator/azmodan#oRpw) | 
+20     | 50.0 % | [121-2-343](http://www.heroesfire.com/hots/talent-calculator/azmodan#gnOt) | 
+15     | 46.7 % | [141-2-342](http://www.heroesfire.com/hots/talent-calculator/azmodan#hYDs) | 
+N/A    | N/A    | [222-1-114](http://www.heroesfire.com/hots/talent-calculator/azmodan#kdgw) | * Highest popularity talents, individually
