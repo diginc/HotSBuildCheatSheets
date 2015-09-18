@@ -12,14 +12,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Che
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-5      | 80.0 % | [434-2-333](http://www.heroesfire.com/hots/talent-calculator/chen#sjYz) | 
+20     | 75.0 % | [434-2-332](http://www.heroesfire.com/hots/talent-calculator/chen#sjYy) | * Highest win % talents, individually
 12     | 75.0 % | [434-2-433](http://www.heroesfire.com/hots/talent-calculator/chen#sjaX) | 
-4      | 75.0 % | [332-2-342](http://www.heroesfire.com/hots/talent-calculator/chen#oqXc) | 
-19     | 73.7 % | [434-2-332](http://www.heroesfire.com/hots/talent-calculator/chen#sjYy) | * Highest win % talents, individually
-20     | 60.0 % | [434-2-342](http://www.heroesfire.com/hots/talent-calculator/chen#sjZ6) | 
-25     | 56.0 % | [434-2-432](http://www.heroesfire.com/hots/talent-calculator/chen#sjaW) | 
-8      | 50.0 % | [434-2-443](http://www.heroesfire.com/hots/talent-calculator/chen#sjah) | 
+7      | 71.4 % | [434-2-333](http://www.heroesfire.com/hots/talent-calculator/chen#sjYz) | 
+25     | 64.0 % | [434-2-342](http://www.heroesfire.com/hots/talent-calculator/chen#sjZ6) | 
+8      | 62.5 % | [434-1-343](http://www.heroesfire.com/hots/talent-calculator/chen#sjJV) | 
+5      | 60.0 % | [434-2-343](http://www.heroesfire.com/hots/talent-calculator/chen#sjZ7) | 
+28     | 53.6 % | [434-2-432](http://www.heroesfire.com/hots/talent-calculator/chen#sjaW) | 
 6      | 50.0 % | [434-2-442](http://www.heroesfire.com/hots/talent-calculator/chen#sjag) | 
-4      | 50.0 % | [434-1-343](http://www.heroesfire.com/hots/talent-calculator/chen#sjJV) | 
-8      | 37.5 % | [434-2-232](http://www.heroesfire.com/hots/talent-calculator/chen#sjXO) | 
-N/A    | N/A    | [444-2-132](http://www.heroesfire.com/hots/talent-calculator/chen#t5wK) | * Highest popularity talents, individually
+9      | 44.4 % | [434-2-232](http://www.heroesfire.com/hots/talent-calculator/chen#sjXO) | 
+9      | 44.4 % | [434-2-443](http://www.heroesfire.com/hots/talent-calculator/chen#sjah) | 
+N/A    | N/A    | [434-2-132](http://www.heroesfire.com/hots/talent-calculator/chen#sjVq) | * Highest popularity talents, individually

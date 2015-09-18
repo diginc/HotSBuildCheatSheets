@@ -12,7 +12,7 @@ HEROES = [
     "Falstad",     "Gazlowe",     "Illidan",          "Jaina",
     "Johanna",     "Kael'thas",   "Kerrigan",         "Leoric",
     "Li Li",       "Malfurion",   "Muradin",          "Murky",
-    "Nazeebo",     "Nova",        "Raynor",           "Rehgar",
+    "Nazeebo",     "Nova",        "Raynor",           "Rehgar",   "Rexxar",
     "Sgt. Hammer", "Sonya",       "Stitches",         "Sylvanas",
     "Tassadar",    "The Butcher", "The Lost Vikings", "Thrall",
     "Tychus",      "Tyrael",      "Tyrande",          "Uther",
