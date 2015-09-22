@@ -12,6 +12,7 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Ray
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
+<<<<<<< HEAD
 1318   | 69.6 % | [212-1-114](http://www.heroesfire.com/hots/talent-calculator/raynor#kFGQ) | * Highest win percentage talents, individually
 1375   | 68.7 % | [212-2-134](http://www.heroesfire.com/hots/talent-calculator/raynor#kFWM) | 
 1281   | 68.2 % | [212-1-234](http://www.heroesfire.com/hots/talent-calculator/raynor#kFII) | 
@@ -22,3 +23,17 @@ Games  | Win %  | Build     | Note
 912    | 65.1 % | [112-2-134](http://www.heroesfire.com/hots/talent-calculator/raynor#gRNM) | 
 1129   | 64.8 % | [212-2-144](http://www.heroesfire.com/hots/talent-calculator/raynor#kFWW) | 
 607    | 64.3 % | [222-1-134](http://www.heroesfire.com/hots/talent-calculator/raynor#kdhE) | 
+=======
+1278   | 69.1 % | [212-1-114](http://www.heroesfire.com/hots/talent-calculator/raynor#kFGQ) | 
+1318   | 68.4 % | [212-2-134](http://www.heroesfire.com/hots/talent-calculator/raynor#kFWM) | 
+1242   | 68.0 % | [212-1-234](http://www.heroesfire.com/hots/talent-calculator/raynor#kFII) | 
+1935   | 67.8 % | [212-1-144](http://www.heroesfire.com/hots/talent-calculator/raynor#kFGu) | 
+4630   | 67.7 % | [212-1-134](http://www.heroesfire.com/hots/talent-calculator/raynor#kFGk) | 
+978    | 66.1 % | [112-1-134](http://www.heroesfire.com/hots/talent-calculator/raynor#gR7k) | 
+885    | 65.5 % | [112-2-134](http://www.heroesfire.com/hots/talent-calculator/raynor#gRNM) | 
+554    | 65.3 % | [213-1-134](http://www.heroesfire.com/hots/talent-calculator/raynor#kHi-) | 
+1094   | 64.5 % | [212-2-144](http://www.heroesfire.com/hots/talent-calculator/raynor#kFWW) | 
+585    | 64.1 % | [222-1-134](http://www.heroesfire.com/hots/talent-calculator/raynor#kdhE) | 
+N/A    | N/A    | [321-2-411](http://www.heroesfire.com/hots/talent-calculator/raynor#oPhx) | * Highest popularity talents, individually
+N/A    | N/A    | [121-2-411](http://www.heroesfire.com/hots/talent-calculator/raynor#gnPx) | * Highest win percentage talents, individually
+>>>>>>> 42d121321c11c742aa4ebf2f9e89ac943a317254

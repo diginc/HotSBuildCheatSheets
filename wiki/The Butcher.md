@@ -12,6 +12,7 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=The
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
+<<<<<<< HEAD
 232    | 67.2 % | [423-2-233](http://www.heroesfire.com/hots/talent-calculator/the-butcher#sIgf) | 
 197    | 66.5 % | [443-1-333](http://www.heroesfire.com/hots/talent-calculator/the-butcher#t3Hb) | 
 361    | 66.2 % | [423-1-333](http://www.heroesfire.com/hots/talent-calculator/the-butcher#sISb) | 
@@ -23,3 +24,17 @@ Games  | Win %  | Build     | Note
 653    | 61.1 % | [413-1-333](http://www.heroesfire.com/hots/talent-calculator/the-butcher#rw25) | * Highest popularity talents, individually
 247    | 57.5 % | [423-1-233](http://www.heroesfire.com/hots/talent-calculator/the-butcher#sIR1) | 
 N/A    | N/A    | [431-2-133](http://www.heroesfire.com/hots/talent-calculator/the-butcher#scB5) | * Highest win percentage talents, individually
+=======
+193    | 66.8 % | [443-1-333](http://www.heroesfire.com/hots/talent-calculator/the-butcher#t3Hb) | 
+229    | 66.8 % | [423-2-233](http://www.heroesfire.com/hots/talent-calculator/the-butcher#sIgf) | 
+354    | 66.1 % | [423-1-333](http://www.heroesfire.com/hots/talent-calculator/the-butcher#sISb) | 
+349    | 65.9 % | [413-2-333](http://www.heroesfire.com/hots/talent-calculator/the-butcher#rwHj) | 
+213    | 65.7 % | [443-2-333](http://www.heroesfire.com/hots/talent-calculator/the-butcher#t3XD) | 
+272    | 64.7 % | [423-2-333](http://www.heroesfire.com/hots/talent-calculator/the-butcher#sIiD) | 
+180    | 63.9 % | [433-1-333](http://www.heroesfire.com/hots/talent-calculator/the-butcher#sgt5) | 
+154    | 61.7 % | [433-1-233](http://www.heroesfire.com/hots/talent-calculator/the-butcher#sgrX) | 
+629    | 60.6 % | [413-1-333](http://www.heroesfire.com/hots/talent-calculator/the-butcher#rw25) | 
+242    | 58.3 % | [423-1-233](http://www.heroesfire.com/hots/talent-calculator/the-butcher#sIR1) | 
+N/A    | N/A    | [341-3-313](http://www.heroesfire.com/hots/talent-calculator/the-butcher#pAl1) | * Highest popularity talents, individually
+N/A    | N/A    | [344-1-321](http://www.heroesfire.com/hots/talent-calculator/the-butcher#pHaf) | * Highest win percentage talents, individually
+>>>>>>> 42d121321c11c742aa4ebf2f9e89ac943a317254

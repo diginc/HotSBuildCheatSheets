@@ -12,6 +12,7 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Gaz
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
+<<<<<<< HEAD
 152    | 69.1 % | [421-2-222](http://www.heroesfire.com/hots/talent-calculator/gazlowe#sDn-) | 
 128    | 67.2 % | [422-2-222](http://www.heroesfire.com/hots/talent-calculator/gazlowe#sGEE) | 
 123    | 66.7 % | [221-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#kbVq) | 
@@ -23,3 +24,17 @@ Games  | Win %  | Build     | Note
 205    | 58.1 % | [422-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#sGE4) | 
 140    | 57.1 % | [431-1-211](http://www.heroesfire.com/hots/talent-calculator/gazlowe#sbyh) | 
 N/A    | N/A    | [112-1-141](http://www.heroesfire.com/hots/talent-calculator/gazlowe#gR7r) | * Highest win percentage talents, individually
+=======
+147    | 70.1 % | [421-2-222](http://www.heroesfire.com/hots/talent-calculator/gazlowe#sDn-) | 
+126    | 67.5 % | [422-2-222](http://www.heroesfire.com/hots/talent-calculator/gazlowe#sGEE) | 
+212    | 65.6 % | [321-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#oPeq) | 
+117    | 65.0 % | [221-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#kbVq) | 
+152    | 62.5 % | [431-2-222](http://www.heroesfire.com/hots/talent-calculator/gazlowe#scCU) | 
+179    | 61.5 % | [421-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#sDnq) | 
+257    | 59.5 % | [431-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#scCK) | 
+199    | 59.3 % | [422-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#sGE4) | 
+155    | 57.4 % | [432-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#seea) | 
+135    | 56.3 % | [431-1-211](http://www.heroesfire.com/hots/talent-calculator/gazlowe#sbyh) | 
+N/A    | N/A    | [143-1-222](http://www.heroesfire.com/hots/talent-calculator/gazlowe#hcqs) | * Highest popularity talents, individually
+N/A    | N/A    | [411-2-111](http://www.heroesfire.com/hots/talent-calculator/gazlowe#rrLl) | * Highest win percentage talents, individually
+>>>>>>> 42d121321c11c742aa4ebf2f9e89ac943a317254
