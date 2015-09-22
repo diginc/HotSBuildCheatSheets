@@ -12,7 +12,6 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Naz
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-<<<<<<< HEAD
 4667   | 71.3 % | [211-1-121](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kCqH) | 
 1825   | 71.2 % | [211-1-221](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kCrr) | 
 4755   | 68.8 % | [211-1-321](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kCtP) | * Highest popularity talents, individually
@@ -24,17 +23,3 @@ Games  | Win %  | Build     | Note
 1245   | 63.7 % | [211-2-324](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kD74) | 
 789    | 63.4 % | [211-1-424](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kCv0) | 
 N/A    | N/A    | [111-1-121](http://www.heroesfire.com/hots/talent-calculator/nazeebo#gOhH) | * Highest win percentage talents, individually
-=======
-4536   | 71.2 % | [211-1-121](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kCqH) | 
-1781   | 71.1 % | [211-1-221](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kCrr) | 
-4646   | 68.9 % | [211-1-321](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kCtP) | 
-724    | 68.1 % | [211-2-222](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kD5U) | 
-1170   | 67.4 % | [211-2-122](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kD3w) | 
-1104   | 66.8 % | [211-1-421](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kCuz) | 
-2723   | 66.6 % | [211-2-322](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kD72) | 
-1671   | 66.5 % | [211-1-324](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kCtS) | 
-1214   | 64.0 % | [211-2-324](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kD74) | 
-767    | 63.8 % | [211-1-424](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kCv0) | 
-N/A    | N/A    | [221-1-113](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kbEf) | * Highest popularity talents, individually
-N/A    | N/A    | [211-1-111](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kCq7) | * Highest win percentage talents, individually
->>>>>>> 42d121321c11c742aa4ebf2f9e89ac943a317254

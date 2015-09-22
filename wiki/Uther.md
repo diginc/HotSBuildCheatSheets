@@ -12,7 +12,6 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Uth
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-<<<<<<< HEAD
 698    | 65.8 % | [143-1-443](http://www.heroesfire.com/hots/talent-calculator/uther#hcuJ) | 
 693    | 65.2 % | [114-1-443](http://www.heroesfire.com/hots/talent-calculator/uther#gW53) | 
 1070   | 64.7 % | [111-1-443](http://www.heroesfire.com/hots/talent-calculator/uther#gOmJ) | 
@@ -24,17 +23,3 @@ Games  | Win %  | Build     | Note
 510    | 60.6 % | [144-1-423](http://www.heroesfire.com/hots/talent-calculator/uther#hfKF) | 
 611    | 60.2 % | [142-1-443](http://www.heroesfire.com/hots/talent-calculator/uther#haS3) | 
 N/A    | N/A    | [413-1-124](http://www.heroesfire.com/hots/talent-calculator/uther#rv-q) | * Highest win percentage talents, individually
-=======
-687    | 66.4 % | [143-1-443](http://www.heroesfire.com/hots/talent-calculator/uther#hcuJ) | 
-669    | 64.7 % | [114-1-443](http://www.heroesfire.com/hots/talent-calculator/uther#gW53) | 
-1039   | 64.4 % | [111-1-443](http://www.heroesfire.com/hots/talent-calculator/uther#gOmJ) | 
-654    | 64.2 % | [144-1-444](http://www.heroesfire.com/hots/talent-calculator/uther#hfKa) | 
-1193   | 64.1 % | [145-1-443](http://www.heroesfire.com/hots/talent-calculator/uther#hhmp) | 
-1047   | 61.9 % | [141-1-443](http://www.heroesfire.com/hots/talent-calculator/uther#hX_p) | 
-5328   | 61.8 % | [144-1-443](http://www.heroesfire.com/hots/talent-calculator/uther#hfKZ) | 
-298    | 61.1 % | [144-1-243](http://www.heroesfire.com/hots/talent-calculator/uther#hfHR) | 
-485    | 60.4 % | [144-1-423](http://www.heroesfire.com/hots/talent-calculator/uther#hfKF) | 
-593    | 60.2 % | [142-1-443](http://www.heroesfire.com/hots/talent-calculator/uther#haS3) | 
-N/A    | N/A    | [414-4-314](http://www.heroesfire.com/hots/talent-calculator/uther#rzCw) | * Highest popularity talents, individually
-N/A    | N/A    | [241-3-411](http://www.heroesfire.com/hots/talent-calculator/uther#lMdZ) | * Highest win percentage talents, individually
->>>>>>> 42d121321c11c742aa4ebf2f9e89ac943a317254

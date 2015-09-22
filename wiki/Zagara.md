@@ -12,7 +12,6 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Zag
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-<<<<<<< HEAD
 215    | 65.1 % | [314-1-121](http://www.heroesfire.com/hots/talent-calculator/zagara#o8I1) | 
 1817   | 63.7 % | [314-1-124](http://www.heroesfire.com/hots/talent-calculator/zagara#o8I4) | 
 695    | 63.0 % | [311-1-124](http://www.heroesfire.com/hots/talent-calculator/zagara#o0zK) | 
@@ -24,17 +23,3 @@ Games  | Win %  | Build     | Note
 477    | 59.5 % | [315-1-223](http://www.heroesfire.com/hots/talent-calculator/zagara#oAlt) | 
 3057   | 59.3 % | [315-1-224](http://www.heroesfire.com/hots/talent-calculator/zagara#oAlu) | 
 N/A    | N/A    | [314-1-133](http://www.heroesfire.com/hots/talent-calculator/zagara#o8ID) | * Highest win percentage talents, individually
-=======
-211    | 64.9 % | [314-1-121](http://www.heroesfire.com/hots/talent-calculator/zagara#o8I1) | 
-1769   | 63.6 % | [314-1-124](http://www.heroesfire.com/hots/talent-calculator/zagara#o8I4) | 
-681    | 63.1 % | [311-1-124](http://www.heroesfire.com/hots/talent-calculator/zagara#o0zK) | 
-4289   | 62.9 % | [315-1-124](http://www.heroesfire.com/hots/talent-calculator/zagara#oAkK) | 
-531    | 62.5 % | [315-1-123](http://www.heroesfire.com/hots/talent-calculator/zagara#oAkJ) | 
-776    | 62.4 % | [314-1-224](http://www.heroesfire.com/hots/talent-calculator/zagara#o8Je) | 
-523    | 60.6 % | [315-1-121](http://www.heroesfire.com/hots/talent-calculator/zagara#oAkH) | 
-837    | 60.5 % | [315-1-221](http://www.heroesfire.com/hots/talent-calculator/zagara#oAlr) | 
-2982   | 59.6 % | [315-1-224](http://www.heroesfire.com/hots/talent-calculator/zagara#oAlu) | 
-462    | 59.3 % | [315-1-223](http://www.heroesfire.com/hots/talent-calculator/zagara#oAlt) | 
-N/A    | N/A    | [231-5-411](http://www.heroesfire.com/hots/talent-calculator/zagara#k-iJ) | * Highest popularity talents, individually
-N/A    | N/A    | [331-4-311](http://www.heroesfire.com/hots/talent-calculator/zagara#ooa7) | * Highest win percentage talents, individually
->>>>>>> 42d121321c11c742aa4ebf2f9e89ac943a317254
