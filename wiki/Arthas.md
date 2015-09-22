@@ -12,15 +12,15 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Art
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-56     | 71.4 % | [421-1-243](http://www.heroesfire.com/hots/talent-calculator/arthas#sDYh) | 
-39     | 69.2 % | [421-1-443](http://www.heroesfire.com/hots/talent-calculator/arthas#sDbp) | 
-28     | 60.7 % | [421-2-413](http://www.heroesfire.com/hots/talent-calculator/arthas#sDqz) | 
-45     | 57.8 % | [421-1-143](http://www.heroesfire.com/hots/talent-calculator/arthas#sDX7) | 
-20     | 55.0 % | [421-2-143](http://www.heroesfire.com/hots/talent-calculator/arthas#sDml) | 
-15     | 53.3 % | [323-2-312](http://www.heroesfire.com/hots/talent-calculator/arthas#oUYu) | 
-19     | 52.6 % | [431-1-443](http://www.heroesfire.com/hots/talent-calculator/arthas#sc0J) | 
-21     | 52.4 % | [421-1-413](http://www.heroesfire.com/hots/talent-calculator/arthas#sDbL) | 
-23     | 47.8 % | [121-1-243](http://www.heroesfire.com/hots/talent-calculator/arthas#gn7h) | 
-15     | 40.0 % | [121-1-143](http://www.heroesfire.com/hots/talent-calculator/arthas#gn67) | 
-N/A    | N/A    | [421-2-443](http://www.heroesfire.com/hots/talent-calculator/arthas#sDrR) | * Highest win % talents, individually
-N/A    | N/A    | [411-1-421](http://www.heroesfire.com/hots/talent-calculator/arthas#rrAz) | * Highest popularity talents, individually
+242    | 66.5 % | [421-1-443](http://www.heroesfire.com/hots/talent-calculator/arthas#sDbp) | 
+129    | 63.6 % | [421-2-413](http://www.heroesfire.com/hots/talent-calculator/arthas#sDqz) | 
+93     | 63.4 % | [421-2-243](http://www.heroesfire.com/hots/talent-calculator/arthas#sDoJ) | 
+121    | 61.2 % | [421-2-143](http://www.heroesfire.com/hots/talent-calculator/arthas#sDml) | 
+90     | 60.0 % | [121-2-412](http://www.heroesfire.com/hots/talent-calculator/arthas#gnPy) | 
+363    | 58.7 % | [421-1-243](http://www.heroesfire.com/hots/talent-calculator/arthas#sDYh) | 
+299    | 57.5 % | [421-1-143](http://www.heroesfire.com/hots/talent-calculator/arthas#sDX7) | 
+168    | 57.1 % | [121-1-243](http://www.heroesfire.com/hots/talent-calculator/arthas#gn7h) | 
+126    | 54.8 % | [421-1-413](http://www.heroesfire.com/hots/talent-calculator/arthas#sDbL) | 
+102    | 53.9 % | [121-1-143](http://www.heroesfire.com/hots/talent-calculator/arthas#gn67) | 
+N/A    | N/A    | [442-1-314](http://www.heroesfire.com/hots/talent-calculator/arthas#t0r2) | * Highest popularity talents, individually
+N/A    | N/A    | [141-1-424](http://www.heroesfire.com/hots/talent-calculator/arthas#hX_W) | * Highest win percentage talents, individually

@@ -12,14 +12,15 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Thr
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-31     | 77.4 % | [431-1-223](http://www.heroesfire.com/hots/talent-calculator/thrall#sbyt) | 
-31     | 74.2 % | [331-1-223](http://www.heroesfire.com/hots/talent-calculator/thrall#onpt) | 
-36     | 69.4 % | [441-1-223](http://www.heroesfire.com/hots/talent-calculator/thrall#s-NN) | 
-52     | 67.3 % | [341-1-223](http://www.heroesfire.com/hots/talent-calculator/thrall#pAEN) | 
-23     | 65.2 % | [231-1-223](http://www.heroesfire.com/hots/talent-calculator/thrall#kzgt) | 
-99     | 64.7 % | [241-1-223](http://www.heroesfire.com/hots/talent-calculator/thrall#lM5N) | * Highest win % talents, individually
-22     | 63.6 % | [441-1-323](http://www.heroesfire.com/hots/talent-calculator/thrall#s-Ox) | 
-32     | 62.5 % | [141-1-223](http://www.heroesfire.com/hots/talent-calculator/thrall#hXyN) | 
-17     | 58.8 % | [211-1-224](http://www.heroesfire.com/hots/talent-calculator/thrall#kCru) | 
-42     | 52.4 % | [211-1-223](http://www.heroesfire.com/hots/talent-calculator/thrall#kCrt) | 
-N/A    | N/A    | [413-2-313](http://www.heroesfire.com/hots/talent-calculator/thrall#rwHP) | * Highest popularity talents, individually
+207    | 67.2 % | [431-1-223](http://www.heroesfire.com/hots/talent-calculator/thrall#sbyt) | 
+272    | 66.5 % | [231-1-223](http://www.heroesfire.com/hots/talent-calculator/thrall#kzgt) | 
+286    | 64.3 % | [441-1-223](http://www.heroesfire.com/hots/talent-calculator/thrall#s-NN) | 
+307    | 63.8 % | [211-1-223](http://www.heroesfire.com/hots/talent-calculator/thrall#kCrt) | 
+171    | 63.7 % | [441-1-323](http://www.heroesfire.com/hots/talent-calculator/thrall#s-Ox) | 
+455    | 63.1 % | [341-1-223](http://www.heroesfire.com/hots/talent-calculator/thrall#pAEN) | 
+274    | 62.8 % | [141-1-223](http://www.heroesfire.com/hots/talent-calculator/thrall#hXyN) | 
+814    | 62.5 % | [241-1-223](http://www.heroesfire.com/hots/talent-calculator/thrall#lM5N) | 
+260    | 61.5 % | [331-1-223](http://www.heroesfire.com/hots/talent-calculator/thrall#onpt) | 
+162    | 59.9 % | [443-1-323](http://www.heroesfire.com/hots/talent-calculator/thrall#t3HR) | 
+N/A    | N/A    | [224-1-312](http://www.heroesfire.com/hots/talent-calculator/thrall#kicW) | * Highest popularity talents, individually
+N/A    | N/A    | [213-3-214](http://www.heroesfire.com/hots/talent-calculator/thrall#kIDU) | * Highest win percentage talents, individually

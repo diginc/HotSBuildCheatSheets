@@ -12,14 +12,15 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Tas
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-12     | 91.7 % | [242-1-131](http://www.heroesfire.com/hots/talent-calculator/tassadar#lOWB) | 
-14     | 78.6 % | [242-1-231](http://www.heroesfire.com/hots/talent-calculator/tassadar#lOXl) | 
-23     | 78.3 % | [242-1-431](http://www.heroesfire.com/hots/talent-calculator/tassadar#lOat) | 
-13     | 76.9 % | [342-1-431](http://www.heroesfire.com/hots/talent-calculator/tassadar#pCjt) | 
-14     | 71.4 % | [112-1-241](http://www.heroesfire.com/hots/talent-calculator/tassadar#gR9P) | 
-10     | 70.0 % | [212-1-131](http://www.heroesfire.com/hots/talent-calculator/tassadar#kFGh) | 
-29     | 58.6 % | [322-1-131](http://www.heroesfire.com/hots/talent-calculator/tassadar#oRqB) | * Highest win % talents, individually
-9      | 55.6 % | [342-1-131](http://www.heroesfire.com/hots/talent-calculator/tassadar#pCfB) | 
-11     | 54.6 % | [122-1-131](http://www.heroesfire.com/hots/talent-calculator/tassadar#gpYB) | 
-28     | 53.6 % | [222-1-131](http://www.heroesfire.com/hots/talent-calculator/tassadar#kdhB) | 
-N/A    | N/A    | [142-1-131](http://www.heroesfire.com/hots/talent-calculator/tassadar#haNB) | * Highest popularity talents, individually
+60     | 71.7 % | [242-1-231](http://www.heroesfire.com/hots/talent-calculator/tassadar#lOXl) | 
+74     | 68.9 % | [342-1-431](http://www.heroesfire.com/hots/talent-calculator/tassadar#pCjt) | 
+90     | 67.8 % | [242-1-131](http://www.heroesfire.com/hots/talent-calculator/tassadar#lOWB) | 
+77     | 63.6 % | [112-1-241](http://www.heroesfire.com/hots/talent-calculator/tassadar#gR9P) | 
+154    | 61.0 % | [222-1-131](http://www.heroesfire.com/hots/talent-calculator/tassadar#kdhB) | 
+216    | 59.7 % | [242-1-431](http://www.heroesfire.com/hots/talent-calculator/tassadar#lOat) | 
+134    | 58.2 % | [322-1-131](http://www.heroesfire.com/hots/talent-calculator/tassadar#oRqB) | 
+55     | 58.2 % | [322-1-431](http://www.heroesfire.com/hots/talent-calculator/tassadar#oRut) | 
+64     | 57.8 % | [222-1-431](http://www.heroesfire.com/hots/talent-calculator/tassadar#kdlt) | 
+58     | 55.2 % | [122-1-131](http://www.heroesfire.com/hots/talent-calculator/tassadar#gpYB) | 
+N/A    | N/A    | [322-2-114](http://www.heroesfire.com/hots/talent-calculator/tassadar#oS3Y) | * Highest popularity talents, individually
+N/A    | N/A    | [344-2-412](http://www.heroesfire.com/hots/talent-calculator/tassadar#pHri) | * Highest win percentage talents, individually
