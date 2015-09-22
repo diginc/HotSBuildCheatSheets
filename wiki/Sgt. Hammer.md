@@ -12,14 +12,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Sgt
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-25     | 80.0 % | [533-2-144](http://www.heroesfire.com/hots/talent-calculator/sergeant-hammer#wVCm) | 
-108    | 71.3 % | [133-2-144](http://www.heroesfire.com/hots/talent-calculator/sergeant-hammer#hEem) | * Highest win % talents, individually
-88     | 67.1 % | [133-2-134](http://www.heroesfire.com/hots/talent-calculator/sergeant-hammer#hEec) | 
-56     | 64.3 % | [133-2-244](http://www.heroesfire.com/hots/talent-calculator/sergeant-hammer#hEgK) | 
-23     | 60.9 % | [533-2-134](http://www.heroesfire.com/hots/talent-calculator/sergeant-hammer#wVCc) | 
-22     | 59.1 % | [132-2-144](http://www.heroesfire.com/hots/talent-calculator/sergeant-hammer#hCCW) | 
-64     | 56.3 % | [133-2-154](http://www.heroesfire.com/hots/talent-calculator/sergeant-hammer#hEew) | 
-21     | 52.4 % | [113-2-144](http://www.heroesfire.com/hots/talent-calculator/sergeant-hammer#gTpm) | 
-23     | 52.2 % | [132-2-244](http://www.heroesfire.com/hots/talent-calculator/sergeant-hammer#hCE4) | 
-21     | 47.6 % | [423-2-244](http://www.heroesfire.com/hots/talent-calculator/sergeant-hammer#sIgq) | 
-N/A    | N/A    | [533-2-213](http://www.heroesfire.com/hots/talent-calculator/sergeant-hammer#wVDr) | * Highest popularity talents, individually
+149    | 72.5 % | [123-2-144](http://www.heroesfire.com/hots/talent-calculator/sergeant-hammer#gsEG) | 
+179    | 71.0 % | [533-2-144](http://www.heroesfire.com/hots/talent-calculator/sergeant-hammer#wVCm) | 
+848    | 67.9 % | [133-2-144](http://www.heroesfire.com/hots/talent-calculator/sergeant-hammer#hEem) | * Highest popularity talents, individually
+196    | 67.4 % | [533-2-134](http://www.heroesfire.com/hots/talent-calculator/sergeant-hammer#wVCc) | 
+457    | 66.5 % | [133-2-244](http://www.heroesfire.com/hots/talent-calculator/sergeant-hammer#hEgK) | 
+176    | 65.9 % | [113-2-144](http://www.heroesfire.com/hots/talent-calculator/sergeant-hammer#gTpm) | 
+173    | 64.7 % | [132-2-244](http://www.heroesfire.com/hots/talent-calculator/sergeant-hammer#hCE4) | 
+541    | 64.0 % | [133-2-134](http://www.heroesfire.com/hots/talent-calculator/sergeant-hammer#hEec) | 
+155    | 63.9 % | [133-2-234](http://www.heroesfire.com/hots/talent-calculator/sergeant-hammer#hEgA) | 
+297    | 54.9 % | [133-2-154](http://www.heroesfire.com/hots/talent-calculator/sergeant-hammer#hEew) | 
+N/A    | N/A    | [523-2-244](http://www.heroesfire.com/hots/talent-calculator/sergeant-hammer#w6pq) | * Highest win percentage talents, individually

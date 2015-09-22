@@ -12,14 +12,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Zag
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-36     | 80.6 % | [314-1-121](http://www.heroesfire.com/hots/talent-calculator/zagara#o8I1) | 
-102    | 67.7 % | [315-1-123](http://www.heroesfire.com/hots/talent-calculator/zagara#oAkJ) | 
-256    | 66.4 % | [314-1-124](http://www.heroesfire.com/hots/talent-calculator/zagara#o8I4) | 
-110    | 63.6 % | [314-1-224](http://www.heroesfire.com/hots/talent-calculator/zagara#o8Je) | 
-653    | 62.5 % | [315-1-124](http://www.heroesfire.com/hots/talent-calculator/zagara#oAkK) | * Highest win % talents, individually
-116    | 62.1 % | [311-1-124](http://www.heroesfire.com/hots/talent-calculator/zagara#o0zK) | 
-64     | 60.9 % | [315-1-223](http://www.heroesfire.com/hots/talent-calculator/zagara#oAlt) | 
-441    | 59.6 % | [315-1-224](http://www.heroesfire.com/hots/talent-calculator/zagara#oAlu) | 
-123    | 59.4 % | [315-1-221](http://www.heroesfire.com/hots/talent-calculator/zagara#oAlr) | 
-64     | 56.3 % | [315-1-121](http://www.heroesfire.com/hots/talent-calculator/zagara#oAkH) | 
-N/A    | N/A    | [354-2-132](http://www.heroesfire.com/hots/talent-calculator/zagara#pgBq) | * Highest popularity talents, individually
+215    | 65.1 % | [314-1-121](http://www.heroesfire.com/hots/talent-calculator/zagara#o8I1) | 
+1817   | 63.7 % | [314-1-124](http://www.heroesfire.com/hots/talent-calculator/zagara#o8I4) | 
+695    | 63.0 % | [311-1-124](http://www.heroesfire.com/hots/talent-calculator/zagara#o0zK) | 
+4429   | 62.8 % | [315-1-124](http://www.heroesfire.com/hots/talent-calculator/zagara#oAkK) | * Highest popularity talents, individually
+548    | 62.8 % | [315-1-123](http://www.heroesfire.com/hots/talent-calculator/zagara#oAkJ) | 
+796    | 62.3 % | [314-1-224](http://www.heroesfire.com/hots/talent-calculator/zagara#o8Je) | 
+869    | 60.9 % | [315-1-221](http://www.heroesfire.com/hots/talent-calculator/zagara#oAlr) | 
+543    | 60.8 % | [315-1-121](http://www.heroesfire.com/hots/talent-calculator/zagara#oAkH) | 
+477    | 59.5 % | [315-1-223](http://www.heroesfire.com/hots/talent-calculator/zagara#oAlt) | 
+3057   | 59.3 % | [315-1-224](http://www.heroesfire.com/hots/talent-calculator/zagara#oAlu) | 
+N/A    | N/A    | [314-1-133](http://www.heroesfire.com/hots/talent-calculator/zagara#o8ID) | * Highest win percentage talents, individually
