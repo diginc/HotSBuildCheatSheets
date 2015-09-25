@@ -12,14 +12,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Fal
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-15     | 80.0 % | [132-2-123](http://www.heroesfire.com/hots/talent-calculator/falstad#hCCB) | 
-79     | 67.1 % | [132-1-123](http://www.heroesfire.com/hots/talent-calculator/falstad#hByZ) | * Highest win % talents, individually
-14     | 64.3 % | [113-1-341](http://www.heroesfire.com/hots/talent-calculator/falstad#gTdD) | 
-77     | 63.6 % | [332-1-123](http://www.heroesfire.com/hots/talent-calculator/falstad#oqEZ) | 
-13     | 61.5 % | [122-1-123](http://www.heroesfire.com/hots/talent-calculator/falstad#gpY3) | 
-18     | 61.1 % | [132-1-223](http://www.heroesfire.com/hots/talent-calculator/falstad#hB-7) | 
-29     | 58.6 % | [331-1-133](http://www.heroesfire.com/hots/talent-calculator/falstad#onoT) | 
-15     | 53.3 % | [142-1-143](http://www.heroesfire.com/hots/talent-calculator/falstad#haNN) | 
-20     | 45.0 % | [112-1-123](http://www.heroesfire.com/hots/talent-calculator/falstad#gR7Z) | 
-20     | 35.0 % | [142-1-123](http://www.heroesfire.com/hots/talent-calculator/falstad#haN3) | 
-N/A    | N/A    | [432-2-112](http://www.heroesfire.com/hots/talent-calculator/falstad#sed0) | * Highest popularity talents, individually
+622    | 65.0 % | [132-1-123](http://www.heroesfire.com/hots/talent-calculator/falstad#hByZ) | * Highest popularity talents, individually
+125    | 64.8 % | [132-1-223](http://www.heroesfire.com/hots/talent-calculator/falstad#hB-7) | 
+228    | 62.3 % | [331-1-133](http://www.heroesfire.com/hots/talent-calculator/falstad#onoT) | 
+113    | 62.0 % | [132-1-133](http://www.heroesfire.com/hots/talent-calculator/falstad#hByj) | 
+434    | 61.3 % | [332-1-123](http://www.heroesfire.com/hots/talent-calculator/falstad#oqEZ) | 
+191    | 59.2 % | [142-1-123](http://www.heroesfire.com/hots/talent-calculator/falstad#haN3) | 
+94     | 58.5 % | [142-1-143](http://www.heroesfire.com/hots/talent-calculator/falstad#haNN) | 
+118    | 57.6 % | [112-1-123](http://www.heroesfire.com/hots/talent-calculator/falstad#gR7Z) | 
+105    | 55.2 % | [112-1-323](http://www.heroesfire.com/hots/talent-calculator/falstad#gRAh) | 
+97     | 50.5 % | [331-1-123](http://www.heroesfire.com/hots/talent-calculator/falstad#onoJ) | 
+N/A    | N/A    | [532-1-114](http://www.heroesfire.com/hots/talent-calculator/falstad#wSWQ) | * Highest win percentage talents, individually

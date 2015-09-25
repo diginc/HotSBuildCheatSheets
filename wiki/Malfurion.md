@@ -12,14 +12,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Mal
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-83     | 71.1 % | [311-1-113](http://www.heroesfire.com/hots/talent-calculator/malfurion#o0z9) | 
-89     | 68.5 % | [111-1-123](http://www.heroesfire.com/hots/talent-calculator/malfurion#gOhJ) | 
-129    | 65.9 % | [211-1-113](http://www.heroesfire.com/hots/talent-calculator/malfurion#kCq9) | 
-122    | 61.5 % | [211-1-121](http://www.heroesfire.com/hots/talent-calculator/malfurion#kCqH) | 
-118    | 61.0 % | [111-1-121](http://www.heroesfire.com/hots/talent-calculator/malfurion#gOhH) | 
-82     | 59.8 % | [321-1-123](http://www.heroesfire.com/hots/talent-calculator/malfurion#oPNp) | 
-136    | 57.4 % | [211-1-123](http://www.heroesfire.com/hots/talent-calculator/malfurion#kCqJ) | 
-95     | 56.8 % | [311-1-123](http://www.heroesfire.com/hots/talent-calculator/malfurion#o0zJ) | * Highest win % talents, individually
-125    | 56.8 % | [111-1-111](http://www.heroesfire.com/hots/talent-calculator/malfurion#gOh7) | 
-121    | 52.1 % | [211-1-111](http://www.heroesfire.com/hots/talent-calculator/malfurion#kCq7) | 
-N/A    | N/A    | [441-1-243](http://www.heroesfire.com/hots/talent-calculator/malfurion#s-Nh) | * Highest popularity talents, individually
+656    | 65.7 % | [311-1-113](http://www.heroesfire.com/hots/talent-calculator/malfurion#o0z9) | 
+954    | 63.3 % | [211-1-113](http://www.heroesfire.com/hots/talent-calculator/malfurion#kCq9) | 
+909    | 62.2 % | [211-1-121](http://www.heroesfire.com/hots/talent-calculator/malfurion#kCqH) | 
+939    | 61.7 % | [211-1-111](http://www.heroesfire.com/hots/talent-calculator/malfurion#kCq7) | 
+753    | 61.6 % | [311-1-123](http://www.heroesfire.com/hots/talent-calculator/malfurion#o0zJ) | * Highest popularity talents, individually
+870    | 60.8 % | [111-1-111](http://www.heroesfire.com/hots/talent-calculator/malfurion#gOh7) | 
+628    | 60.4 % | [111-1-123](http://www.heroesfire.com/hots/talent-calculator/malfurion#gOhJ) | 
+531    | 59.5 % | [321-1-123](http://www.heroesfire.com/hots/talent-calculator/malfurion#oPNp) | 
+983    | 58.6 % | [111-1-121](http://www.heroesfire.com/hots/talent-calculator/malfurion#gOhH) | 
+787    | 57.8 % | [211-1-123](http://www.heroesfire.com/hots/talent-calculator/malfurion#kCqJ) | 
+N/A    | N/A    | [342-1-214](http://www.heroesfire.com/hots/talent-calculator/malfurion#pCgU) | * Highest win percentage talents, individually
