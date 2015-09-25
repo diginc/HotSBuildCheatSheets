@@ -12,14 +12,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Mur
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-302    | 69.2 % | [433-2-222](http://www.heroesfire.com/hots/talent-calculator/murky#sh4-) | 
-121    | 68.6 % | [131-2-223](http://www.heroesfire.com/hots/talent-calculator/murky#h9nV) | 
-511    | 68.3 % | [133-2-332](http://www.heroesfire.com/hots/talent-calculator/murky#hEhi) | 
-248    | 67.7 % | [433-2-223](http://www.heroesfire.com/hots/talent-calculator/murky#sh4_) | 
-604    | 67.2 % | [133-2-222](http://www.heroesfire.com/hots/talent-calculator/murky#hEf-) | * Highest popularity talents, individually
-407    | 66.6 % | [131-2-222](http://www.heroesfire.com/hots/talent-calculator/murky#h9nU) | 
-371    | 66.6 % | [133-2-223](http://www.heroesfire.com/hots/talent-calculator/murky#hEf_) | 
-248    | 66.5 % | [131-2-122](http://www.heroesfire.com/hots/talent-calculator/murky#h9lw) | 
-197    | 66.0 % | [233-2-222](http://www.heroesfire.com/hots/talent-calculator/murky#l2o-) | 
-361    | 65.4 % | [131-2-332](http://www.heroesfire.com/hots/talent-calculator/murky#h9pC) | 
-N/A    | N/A    | [111-2-424](http://www.heroesfire.com/hots/talent-calculator/murky#gO_e) | * Highest win percentage talents, individually
+484    | 69.0 % | [133-2-223](http://www.heroesfire.com/hots/talent-calculator/murky#hEf_) | 
+704    | 67.2 % | [133-2-222](http://www.heroesfire.com/hots/talent-calculator/murky#hEf-) | * Highest popularity talents, individually
+309    | 67.0 % | [433-2-223](http://www.heroesfire.com/hots/talent-calculator/murky#sh4_) | 
+293    | 66.9 % | [131-2-122](http://www.heroesfire.com/hots/talent-calculator/murky#h9lw) | 
+355    | 66.5 % | [433-2-222](http://www.heroesfire.com/hots/talent-calculator/murky#sh4-) | 
+435    | 65.1 % | [131-2-332](http://www.heroesfire.com/hots/talent-calculator/murky#h9pC) | 
+456    | 64.0 % | [131-2-222](http://www.heroesfire.com/hots/talent-calculator/murky#h9nU) | 
+158    | 63.9 % | [131-2-223](http://www.heroesfire.com/hots/talent-calculator/murky#h9nV) | 
+204    | 63.7 % | [233-2-222](http://www.heroesfire.com/hots/talent-calculator/murky#l2o-) | 
+664    | 63.6 % | [133-2-332](http://www.heroesfire.com/hots/talent-calculator/murky#hEhi) | 
+N/A    | N/A    | [114-2-423](http://www.heroesfire.com/hots/talent-calculator/murky#gWKN) | * Highest win percentage talents, individually

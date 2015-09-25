@@ -12,15 +12,15 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=The
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-18     | 83.3 % | [111-2-114](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#gOwo) | 
-32     | 81.3 % | [312-2-224](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#o3gm) | 
-28     | 78.6 % | [422-2-224](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#sGEG) | 
-32     | 78.1 % | [311-2-114](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#o1Co) | 
-24     | 75.0 % | [442-2-224](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#t13G) | 
-20     | 75.0 % | [422-2-214](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#sGE6) | 
-37     | 73.0 % | [122-2-114](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#gpnY) | 
-23     | 65.2 % | [411-2-224](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#rrNW) | 
-16     | 62.5 % | [411-2-114](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#rrLo) | 
-49     | 61.2 % | [412-2-224](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#rtpm) | 
+24     | 87.5 % | [111-2-114](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#gOwo) | 
+40     | 77.5 % | [422-2-224](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#sGEG) | 
+57     | 77.2 % | [122-2-114](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#gpnY) | 
+54     | 75.9 % | [312-2-224](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#o3gm) | 
+29     | 72.4 % | [422-2-214](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#sGE6) | 
+33     | 69.7 % | [311-2-114](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#o1Co) | 
+33     | 69.7 % | [442-2-224](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#t13G) | 
+85     | 62.4 % | [412-2-224](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#rtpm) | 
+20     | 60.0 % | [411-2-114](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#rrLo) | 
+21     | 38.1 % | [322-2-324](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#oS6q) | 
 N/A    | N/A    | [412-2-214](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#rtpc) | * Highest popularity talents, individually
-N/A    | N/A    | [441-1-111](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#s-Ld) | * Highest win percentage talents, individually
+N/A    | N/A    | [142-1-111](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#haMt) | * Highest win percentage talents, individually

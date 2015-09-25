@@ -12,13 +12,13 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Zer
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-597    | 67.8 % | [511-2-423](http://www.heroesfire.com/hots/talent-calculator/zeratul#vfZd) | 
-916    | 67.6 % | [411-2-313](http://www.heroesfire.com/hots/talent-calculator/zeratul#rrOv) | 
-712    | 66.6 % | [411-2-314](http://www.heroesfire.com/hots/talent-calculator/zeratul#rrOw) | 
-658    | 65.7 % | [411-2-423](http://www.heroesfire.com/hots/talent-calculator/zeratul#rrQd) | 
-3079   | 64.5 % | [411-2-323](http://www.heroesfire.com/hots/talent-calculator/zeratul#rrP3) | * Highest popularity talents, individually
-4733   | 63.7 % | [411-2-324](http://www.heroesfire.com/hots/talent-calculator/zeratul#rrP4) | * Highest win percentage talents, individually
-632    | 62.7 % | [411-2-334](http://www.heroesfire.com/hots/talent-calculator/zeratul#rrPE) | 
-1100   | 62.3 % | [511-2-323](http://www.heroesfire.com/hots/talent-calculator/zeratul#vfY3) | 
-593    | 60.2 % | [511-2-313](http://www.heroesfire.com/hots/talent-calculator/zeratul#vfXv) | 
-1050   | 59.2 % | [511-2-324](http://www.heroesfire.com/hots/talent-calculator/zeratul#vfY4) | 
+790    | 67.5 % | [511-2-423](http://www.heroesfire.com/hots/talent-calculator/zeratul#vfZd) | 
+1156   | 66.7 % | [411-2-313](http://www.heroesfire.com/hots/talent-calculator/zeratul#rrOv) | 
+889    | 66.1 % | [411-2-314](http://www.heroesfire.com/hots/talent-calculator/zeratul#rrOw) | 
+3911   | 64.0 % | [411-2-323](http://www.heroesfire.com/hots/talent-calculator/zeratul#rrP3) | * Highest popularity talents, individually <br/>** Highest win percentage talents, individually
+727    | 64.0 % | [511-2-313](http://www.heroesfire.com/hots/talent-calculator/zeratul#vfXv) | 
+5688   | 63.6 % | [411-2-324](http://www.heroesfire.com/hots/talent-calculator/zeratul#rrP4) | 
+787    | 63.4 % | [411-2-423](http://www.heroesfire.com/hots/talent-calculator/zeratul#rrQd) | 
+1416   | 61.7 % | [511-2-323](http://www.heroesfire.com/hots/talent-calculator/zeratul#vfY3) | 
+882    | 60.9 % | [411-2-334](http://www.heroesfire.com/hots/talent-calculator/zeratul#rrPE) | 
+1295   | 58.9 % | [511-2-324](http://www.heroesfire.com/hots/talent-calculator/zeratul#vfY4) | 

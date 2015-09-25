@@ -12,14 +12,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Azm
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-116    | 65.5 % | [111-1-311](http://www.heroesfire.com/hots/talent-calculator/azmodan#gOkF) | * Highest popularity talents, individually
-86     | 65.1 % | [314-1-324](http://www.heroesfire.com/hots/talent-calculator/azmodan#o8LC) | 
-105    | 62.9 % | [221-1-311](http://www.heroesfire.com/hots/talent-calculator/azmodan#kbHl) | 
-170    | 61.2 % | [314-1-311](http://www.heroesfire.com/hots/talent-calculator/azmodan#o8K_) | 
-152    | 60.5 % | [211-1-311](http://www.heroesfire.com/hots/talent-calculator/azmodan#kCtF) | 
-106    | 59.4 % | [314-1-321](http://www.heroesfire.com/hots/talent-calculator/azmodan#o8L9) | 
-81     | 59.3 % | [121-2-343](http://www.heroesfire.com/hots/talent-calculator/azmodan#gnOt) | 
-139    | 57.6 % | [111-2-343](http://www.heroesfire.com/hots/talent-calculator/azmodan#gO-N) | 
-143    | 55.9 % | [314-1-331](http://www.heroesfire.com/hots/talent-calculator/azmodan#o8LJ) | 
-140    | 55.0 % | [141-2-343](http://www.heroesfire.com/hots/talent-calculator/azmodan#hYDt) | 
-N/A    | N/A    | [221-1-114](http://www.heroesfire.com/hots/talent-calculator/azmodan#kbEg) | * Highest win percentage talents, individually
+173    | 63.6 % | [211-1-311](http://www.heroesfire.com/hots/talent-calculator/azmodan#kCtF) | 
+117    | 63.3 % | [121-2-324](http://www.heroesfire.com/hots/talent-calculator/azmodan#gnOa) | 
+142    | 61.3 % | [221-1-311](http://www.heroesfire.com/hots/talent-calculator/azmodan#kbHl) | 
+123    | 61.0 % | [111-1-311](http://www.heroesfire.com/hots/talent-calculator/azmodan#gOkF) | * Highest popularity talents, individually
+165    | 60.6 % | [141-2-343](http://www.heroesfire.com/hots/talent-calculator/azmodan#hYDt) | 
+119    | 58.8 % | [314-1-324](http://www.heroesfire.com/hots/talent-calculator/azmodan#o8LC) | 
+138    | 57.3 % | [314-1-321](http://www.heroesfire.com/hots/talent-calculator/azmodan#o8L9) | 
+194    | 56.7 % | [111-2-343](http://www.heroesfire.com/hots/talent-calculator/azmodan#gO-N) | 
+235    | 56.6 % | [314-1-311](http://www.heroesfire.com/hots/talent-calculator/azmodan#o8K_) | 
+172    | 51.7 % | [314-1-331](http://www.heroesfire.com/hots/talent-calculator/azmodan#o8LJ) | 
+N/A    | N/A    | [222-1-214](http://www.heroesfire.com/hots/talent-calculator/azmodan#kdiU) | * Highest win percentage talents, individually
