@@ -12,14 +12,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Li 
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-584    | 70.9 % | [324-1-343](http://www.heroesfire.com/hots/talent-calculator/li-li#oWl_) | 
-1366   | 70.7 % | [324-1-441](http://www.heroesfire.com/hots/talent-calculator/li-li#oWnX) | 
-1174   | 70.4 % | [324-1-243](http://www.heroesfire.com/hots/talent-calculator/li-li#oWkR) | * Highest popularity talents, individually
-2435   | 70.3 % | [324-1-443](http://www.heroesfire.com/hots/talent-calculator/li-li#oWnZ) | 
-634    | 70.0 % | [133-1-223](http://www.heroesfire.com/hots/talent-calculator/li-li#hEQN) | 
-603    | 68.3 % | [124-1-443](http://www.heroesfire.com/hots/talent-calculator/li-li#guVZ) | 
-887    | 67.9 % | [324-1-241](http://www.heroesfire.com/hots/talent-calculator/li-li#oWkP) | 
-482    | 67.6 % | [324-1-444](http://www.heroesfire.com/hots/talent-calculator/li-li#oWna) | 
-936    | 64.9 % | [133-1-323](http://www.heroesfire.com/hots/talent-calculator/li-li#hERx) | 
-1087   | 63.1 % | [133-1-423](http://www.heroesfire.com/hots/talent-calculator/li-li#hETV) | 
-N/A    | N/A    | [123-1-423](http://www.heroesfire.com/hots/talent-calculator/li-li#gs2_) | * Highest win % talents, individually
+43     | 76.7 % | [324-1-343](http://www.heroesfire.com/hots/talent-calculator/li-li#oWl_) | * Highest popularity talents, individually
+135    | 73.3 % | [324-1-243](http://www.heroesfire.com/hots/talent-calculator/li-li#oWkR) | 
+44     | 72.7 % | [123-1-423](http://www.heroesfire.com/hots/talent-calculator/li-li#gs2_) | 
+138    | 69.6 % | [324-1-441](http://www.heroesfire.com/hots/talent-calculator/li-li#oWnX) | 
+263    | 68.1 % | [324-1-443](http://www.heroesfire.com/hots/talent-calculator/li-li#oWnZ) | 
+85     | 67.1 % | [324-1-241](http://www.heroesfire.com/hots/talent-calculator/li-li#oWkP) | 
+44     | 63.6 % | [324-1-444](http://www.heroesfire.com/hots/talent-calculator/li-li#oWna) | 
+75     | 62.7 % | [124-1-443](http://www.heroesfire.com/hots/talent-calculator/li-li#guVZ) | 
+64     | 62.5 % | [133-1-323](http://www.heroesfire.com/hots/talent-calculator/li-li#hERx) | 
+116    | 61.2 % | [133-1-423](http://www.heroesfire.com/hots/talent-calculator/li-li#hETV) | 
+N/A    | N/A    | [123-1-443](http://www.heroesfire.com/hots/talent-calculator/li-li#gs3J) | * Highest win % talents, individually
