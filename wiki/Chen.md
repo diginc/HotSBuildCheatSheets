@@ -12,6 +12,7 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Che
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
+<<<<<<< HEAD
 155    | 71.6 % | [434-2-332](http://www.heroesfire.com/hots/talent-calculator/chen#sjYy) | * Highest popularity talents, individually
 181    | 69.1 % | [434-2-342](http://www.heroesfire.com/hots/talent-calculator/chen#sjZ6) | 
 63     | 66.7 % | [434-2-232](http://www.heroesfire.com/hots/talent-calculator/chen#sjXO) | 
@@ -23,3 +24,16 @@ Games  | Win %  | Build     | Note
 65     | 55.4 % | [434-2-443](http://www.heroesfire.com/hots/talent-calculator/chen#sjah) | 
 57     | 52.6 % | [434-1-343](http://www.heroesfire.com/hots/talent-calculator/chen#sjJV) | 
 N/A    | N/A    | [434-2-132](http://www.heroesfire.com/hots/talent-calculator/chen#sjVq) | * Highest win percentage talents, individually
+=======
+20     | 75.0 % | [434-2-332](http://www.heroesfire.com/hots/talent-calculator/chen#sjYy) | * Highest win % talents, individually
+12     | 75.0 % | [434-2-433](http://www.heroesfire.com/hots/talent-calculator/chen#sjaX) | 
+7      | 71.4 % | [434-2-333](http://www.heroesfire.com/hots/talent-calculator/chen#sjYz) | 
+25     | 64.0 % | [434-2-342](http://www.heroesfire.com/hots/talent-calculator/chen#sjZ6) | 
+8      | 62.5 % | [434-1-343](http://www.heroesfire.com/hots/talent-calculator/chen#sjJV) | 
+5      | 60.0 % | [434-2-343](http://www.heroesfire.com/hots/talent-calculator/chen#sjZ7) | 
+28     | 53.6 % | [434-2-432](http://www.heroesfire.com/hots/talent-calculator/chen#sjaW) | 
+6      | 50.0 % | [434-2-442](http://www.heroesfire.com/hots/talent-calculator/chen#sjag) | 
+9      | 44.4 % | [434-2-232](http://www.heroesfire.com/hots/talent-calculator/chen#sjXO) | 
+9      | 44.4 % | [434-2-443](http://www.heroesfire.com/hots/talent-calculator/chen#sjah) | 
+N/A    | N/A    | [434-2-132](http://www.heroesfire.com/hots/talent-calculator/chen#sjVq) | * Highest popularity talents, individually
+>>>>>>> b318c98b32efd750c09ed2f2e0308b27b2b24fb8

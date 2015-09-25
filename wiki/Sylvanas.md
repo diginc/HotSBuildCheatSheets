@@ -12,6 +12,7 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Syl
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
+<<<<<<< HEAD
 382    | 64.9 % | [341-1-223](http://www.heroesfire.com/hots/talent-calculator/sylvanas#pAEN) | * Highest win percentage talents, individually
 388    | 63.9 % | [341-1-323](http://www.heroesfire.com/hots/talent-calculator/sylvanas#pAFx) | 
 451    | 61.0 % | [141-1-223](http://www.heroesfire.com/hots/talent-calculator/sylvanas#hXyN) | 
@@ -22,3 +23,16 @@ Games  | Win %  | Build     | Note
 399    | 57.1 % | [341-1-221](http://www.heroesfire.com/hots/talent-calculator/sylvanas#pAEL) | 
 463    | 55.9 % | [341-1-321](http://www.heroesfire.com/hots/talent-calculator/sylvanas#pAFv) | 
 447    | 55.9 % | [212-1-121](http://www.heroesfire.com/hots/talent-calculator/sylvanas#kFGX) | 
+=======
+34     | 67.7 % | [141-1-223](http://www.heroesfire.com/hots/talent-calculator/sylvanas#hXyN) | 
+84     | 65.5 % | [341-1-224](http://www.heroesfire.com/hots/talent-calculator/sylvanas#pAEO) | 
+42     | 61.9 % | [341-1-323](http://www.heroesfire.com/hots/talent-calculator/sylvanas#pAFx) | 
+38     | 60.5 % | [141-1-244](http://www.heroesfire.com/hots/talent-calculator/sylvanas#hXyi) | 
+183    | 60.1 % | [141-1-224](http://www.heroesfire.com/hots/talent-calculator/sylvanas#hXyO) | * Highest win % talents, individually
+57     | 57.9 % | [212-1-121](http://www.heroesfire.com/hots/talent-calculator/sylvanas#kFGX) | 
+72     | 56.9 % | [141-1-221](http://www.heroesfire.com/hots/talent-calculator/sylvanas#hXyL) | 
+41     | 56.1 % | [341-1-321](http://www.heroesfire.com/hots/talent-calculator/sylvanas#pAFv) | 
+58     | 55.2 % | [341-1-324](http://www.heroesfire.com/hots/talent-calculator/sylvanas#pAFy) | 
+40     | 42.5 % | [341-1-221](http://www.heroesfire.com/hots/talent-calculator/sylvanas#pAEL) | 
+N/A    | N/A    | [311-2-123](http://www.heroesfire.com/hots/talent-calculator/sylvanas#o1Cx) | * Highest popularity talents, individually
+>>>>>>> b318c98b32efd750c09ed2f2e0308b27b2b24fb8
