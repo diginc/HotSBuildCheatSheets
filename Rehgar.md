@@ -12,14 +12,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Reh
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-46     | 69.6 % | [122-1-111](http://www.heroesfire.com/hots/talent-calculator/rehgar#gpXt) | 
-66     | 66.7 % | [114-1-114](http://www.heroesfire.com/hots/talent-calculator/rehgar#gV_w) | 
-64     | 65.6 % | [114-1-113](http://www.heroesfire.com/hots/talent-calculator/rehgar#gV_v) | 
-182    | 64.3 % | [112-1-113](http://www.heroesfire.com/hots/talent-calculator/rehgar#gR7P) | 
-396    | 62.4 % | [112-1-114](http://www.heroesfire.com/hots/talent-calculator/rehgar#gR7Q) | * Highest win % talents, individually
-116    | 62.1 % | [112-1-111](http://www.heroesfire.com/hots/talent-calculator/rehgar#gR7N) | 
-47     | 59.6 % | [112-1-124](http://www.heroesfire.com/hots/talent-calculator/rehgar#gR7a) | 
-36     | 58.3 % | [412-1-114](http://www.heroesfire.com/hots/talent-calculator/rehgar#rtYQ) | 
-39     | 56.4 % | [112-1-121](http://www.heroesfire.com/hots/talent-calculator/rehgar#gR7X) | 
-48     | 50.0 % | [112-1-314](http://www.heroesfire.com/hots/talent-calculator/rehgar#gRAY) | 
-N/A    | N/A    | [111-1-232](http://www.heroesfire.com/hots/talent-calculator/rehgar#gOj0) | * Highest popularity talents, individually
+347    | 67.2 % | [112-1-124](http://www.heroesfire.com/hots/talent-calculator/rehgar#gR7a) | 
+367    | 63.8 % | [112-1-314](http://www.heroesfire.com/hots/talent-calculator/rehgar#gRAY) | 
+478    | 63.4 % | [122-1-114](http://www.heroesfire.com/hots/talent-calculator/rehgar#gpXw) | 
+1326   | 61.4 % | [112-1-113](http://www.heroesfire.com/hots/talent-calculator/rehgar#gR7P) | 
+1177   | 61.3 % | [112-1-111](http://www.heroesfire.com/hots/talent-calculator/rehgar#gR7N) | 
+374    | 60.4 % | [412-1-114](http://www.heroesfire.com/hots/talent-calculator/rehgar#rtYQ) | 
+3638   | 60.1 % | [112-1-114](http://www.heroesfire.com/hots/talent-calculator/rehgar#gR7Q) | * Highest win % talents, individually
+396    | 58.1 % | [122-1-111](http://www.heroesfire.com/hots/talent-calculator/rehgar#gpXt) | 
+398    | 56.8 % | [114-1-113](http://www.heroesfire.com/hots/talent-calculator/rehgar#gV_v) | 
+592    | 54.4 % | [114-1-114](http://www.heroesfire.com/hots/talent-calculator/rehgar#gV_w) | 
+N/A    | N/A    | [432-1-334](http://www.heroesfire.com/hots/talent-calculator/rehgar#seQs) | * Highest popularity talents, individually
