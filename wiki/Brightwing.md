@@ -12,7 +12,6 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Bri
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-<<<<<<< HEAD
 98     | 67.4 % | [111-1-223](http://www.heroesfire.com/hots/talent-calculator/brightwing#gOit) | 
 423    | 67.1 % | [111-1-323](http://www.heroesfire.com/hots/talent-calculator/brightwing#gOkR) | 
 139    | 63.3 % | [232-1-324](http://www.heroesfire.com/hots/talent-calculator/brightwing#l08i) | 
@@ -24,16 +23,3 @@ Games  | Win %  | Build     | Note
 100    | 57.0 % | [112-1-323](http://www.heroesfire.com/hots/talent-calculator/brightwing#gRAh) | * Highest popularity talents, individually
 115    | 55.7 % | [111-1-321](http://www.heroesfire.com/hots/talent-calculator/brightwing#gOkP) | 
 N/A    | N/A    | [144-1-343](http://www.heroesfire.com/hots/talent-calculator/brightwing#hfI_) | * Highest win percentage talents, individually
-=======
-9      | 77.8 % | [112-1-323](http://www.heroesfire.com/hots/talent-calculator/brightwing#gRAh) | * Highest win % talents, individually
-13     | 76.9 % | [232-1-321](http://www.heroesfire.com/hots/talent-calculator/brightwing#l08f) | 
-12     | 75.0 % | [111-1-324](http://www.heroesfire.com/hots/talent-calculator/brightwing#gOkS) | 
-46     | 67.4 % | [111-1-323](http://www.heroesfire.com/hots/talent-calculator/brightwing#gOkR) | 
-11     | 63.6 % | [111-1-333](http://www.heroesfire.com/hots/talent-calculator/brightwing#gOkb) | 
-21     | 61.9 % | [212-1-324](http://www.heroesfire.com/hots/talent-calculator/brightwing#kFJi) | 
-9      | 55.6 % | [232-1-314](http://www.heroesfire.com/hots/talent-calculator/brightwing#l08Y) | 
-9      | 44.4 % | [111-1-233](http://www.heroesfire.com/hots/talent-calculator/brightwing#gOj1) | 
-16     | 43.8 % | [232-1-324](http://www.heroesfire.com/hots/talent-calculator/brightwing#l08i) | 
-12     | 41.7 % | [111-1-223](http://www.heroesfire.com/hots/talent-calculator/brightwing#gOit) | 
-N/A    | N/A    | [112-2-321](http://www.heroesfire.com/hots/talent-calculator/brightwing#gRQH) | * Highest popularity talents, individually
->>>>>>> b318c98b32efd750c09ed2f2e0308b27b2b24fb8
