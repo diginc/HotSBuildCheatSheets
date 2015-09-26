@@ -1,0 +1,8 @@
+language: python
+python:
+  - "2.7"
+  - "3.5"
+install: "pip install -r requirements.txt"
+before_scripts:
+ - pep8 --ignore=E501 *.py herolib
+ - pyflakes *.py herolib
