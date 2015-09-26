@@ -1,8 +1,7 @@
 #### Updates
-**Update 2015/09/17 - First post Rexxar patch numbers, resetting the total games, potentially shifting builds around a lot.**
+**Update 2015/09/25 - Kharazim added thanks to PR by Anubis Black**
 
-Update 2015/09/04 - The build shorthand column now link to HeroesFire.com talent calulator with the URL customized for each build!  
-Use them to see a more detailed view of the build and talents, or tweak builds slightly.
+Update 2015/09/17 - First post Rexxar patch numbers, resetting the total games, potentially shifting builds around a lot.
 
 ***
 
@@ -12,14 +11,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Tyc
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-1841   | 64.1 % | [133-1-241](http://www.heroesfire.com/hots/talent-calculator/tychus#hEQf) | * Highest popularity talents, individually
-207    | 61.4 % | [133-1-221](http://www.heroesfire.com/hots/talent-calculator/tychus#hEQL) | 
-1221   | 61.0 % | [133-2-242](http://www.heroesfire.com/hots/talent-calculator/tychus#hEgI) | 
-592    | 60.6 % | [143-1-241](http://www.heroesfire.com/hots/talent-calculator/tychus#hcr9) | 
-207    | 59.4 % | [133-1-243](http://www.heroesfire.com/hots/talent-calculator/tychus#hEQh) | 
-231    | 59.3 % | [133-2-222](http://www.heroesfire.com/hots/talent-calculator/tychus#hEf-) | 
-324    | 59.3 % | [143-2-242](http://www.heroesfire.com/hots/talent-calculator/tychus#hd4o) | 
-326    | 58.9 % | [133-1-211](http://www.heroesfire.com/hots/talent-calculator/tychus#hEQB) | 
-269    | 58.0 % | [133-2-212](http://www.heroesfire.com/hots/talent-calculator/tychus#hEfq) | 
-175    | 55.4 % | [133-1-141](http://www.heroesfire.com/hots/talent-calculator/tychus#hEP5) | 
+1824   | 64.0 % | [133-1-241](http://www.heroesfire.com/hots/talent-calculator/tychus#hEQf) | * Highest popularity talents, individually
+199    | 62.3 % | [133-1-221](http://www.heroesfire.com/hots/talent-calculator/tychus#hEQL) | 
+1202   | 61.3 % | [133-2-242](http://www.heroesfire.com/hots/talent-calculator/tychus#hEgI) | 
+203    | 61.1 % | [133-1-243](http://www.heroesfire.com/hots/talent-calculator/tychus#hEQh) | 
+588    | 61.1 % | [143-1-241](http://www.heroesfire.com/hots/talent-calculator/tychus#hcr9) | 
+229    | 60.3 % | [133-2-222](http://www.heroesfire.com/hots/talent-calculator/tychus#hEf-) | 
+319    | 58.6 % | [143-2-242](http://www.heroesfire.com/hots/talent-calculator/tychus#hd4o) | 
+266    | 58.3 % | [133-2-212](http://www.heroesfire.com/hots/talent-calculator/tychus#hEfq) | 
+319    | 56.1 % | [133-1-211](http://www.heroesfire.com/hots/talent-calculator/tychus#hEQB) | 
+171    | 55.6 % | [133-1-141](http://www.heroesfire.com/hots/talent-calculator/tychus#hEP5) | 
 N/A    | N/A    | [433-1-241](http://www.heroesfire.com/hots/talent-calculator/tychus#sgrf) | * Highest win percentage talents, individually
