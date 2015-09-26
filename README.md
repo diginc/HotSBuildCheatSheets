@@ -1,3 +1,5 @@
+![build status](https://travis-ci.org/diginc/HotSBuildCheatSheets.svg?branch=master)
+
 # Builds
 
 Check the wiki out for builds
@@ -9,7 +11,7 @@ You do not really need to run my script your self unless you're adding functiona
 If you're interested in pull requesting additions these commands might be useful:
 
 ```
-source venv/bin/activate ; pip install -r requirements.txt
+source venv/bin/activate && pip install -r requirements.txt
 python hotslogslogs.py
 git diff wiki/
 ```
