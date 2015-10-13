@@ -11,14 +11,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Anu
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-167    | 70.1 % | [344-1-111](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHXN) | 
-301    | 66.5 % | [444-1-131](http://www.heroesfire.com/hots/talent-calculator/anubarak#t5gh) | 
-518    | 65.8 % | [344-1-141](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHXr) | * Highest popularity talents, individually
-405    | 65.7 % | [344-1-131](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHXh) | 
-262    | 65.7 % | [444-1-141](http://www.heroesfire.com/hots/talent-calculator/anubarak#t5gr) | 
-273    | 64.1 % | [344-1-121](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHXX) | 
-162    | 62.4 % | [444-1-143](http://www.heroesfire.com/hots/talent-calculator/anubarak#t5gt) | 
-159    | 60.4 % | [344-1-321](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHaf) | 
-232    | 59.1 % | [344-1-143](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHXt) | 
-194    | 56.2 % | [442-1-143](http://www.heroesfire.com/hots/talent-calculator/anubarak#t0oN) | 
-N/A    | N/A    | [443-1-111](http://www.heroesfire.com/hots/talent-calculator/anubarak#t3E7) | * Highest win percentage talents, individually
+105    | 70.5 % | [344-1-133](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHXj) | 
+173    | 69.4 % | [344-1-111](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHXN) | 
+350    | 69.1 % | [344-1-131](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHXh) | 
+213    | 67.1 % | [444-1-131](http://www.heroesfire.com/hots/talent-calculator/anubarak#t5gh) | 
+169    | 65.7 % | [444-1-141](http://www.heroesfire.com/hots/talent-calculator/anubarak#t5gr) | 
+207    | 65.2 % | [344-1-121](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHXX) | 
+396    | 65.2 % | [344-1-141](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHXr) | * Highest popularity talents, individually
+105    | 58.1 % | [344-1-144](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHXu) | 
+119    | 58.0 % | [344-1-321](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHaf) | 
+164    | 56.7 % | [344-1-143](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHXt) | 
+N/A    | N/A    | [442-1-111](http://www.heroesfire.com/hots/talent-calculator/anubarak#t0nt) | * Highest win percentage talents, individually

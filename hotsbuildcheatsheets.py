@@ -10,10 +10,10 @@ DEBUG = False
 HEROES = [
     "Abathur", "Anub'arak", "Arthas", "Azmodan", "Brightwing", "Chen", "Diablo", "E.T.C.",
     "Falstad", "Gazlowe", "Illidan", "Jaina", "Johanna", "Kael'thas", "Kerrigan", "Kharazim",
-    "Leoric", "Li Li", "Malfurion", "Muradin", "Murky", "Nazeebo", "Nova", "Raynor",
-    "Rehgar", "Rexxar", "Sgt. Hammer", "Sonya", "Stitches", "Sylvanas", "Tassadar", "The Butcher",
-    "The Lost Vikings", "Thrall", "Tychus", "Tyrael", "Tyrande", "Uther", "Valla", "Zagara",
-    "Zeratul"
+    "Leoric", "Li Li", "Lt. Morales", "Malfurion", "Muradin", "Murky", "Nazeebo", "Nova",
+    "Raynor", "Rehgar", "Rexxar", "Sgt. Hammer", "Sonya", "Stitches", "Sylvanas", "Tassadar",
+    "The Butcher", "The Lost Vikings", "Thrall", "Tychus", "Tyrael", "Tyrande", "Uther", "Valla",
+    "Zagara", "Zeratul"
 ]
 HERO_BASE_URL = 'https://www.hotslogs.com/Sitewide/HeroDetails?Hero='
 TALENT_TABLE = '{:<6} | {:<6} | {:<9} | {}\n'
@@ -107,6 +107,8 @@ def create_heroes_fire_link(name, build):
         name = 'elite-tauren-chieftain'
     if name == 'Sgt. Hammer':
         name = 'sergeant-hammer'
+    if name == 'Lt. Morales':
+        name = 'lt-morales'
     name = name.replace("'", "") \
         .replace(" ", "-") \
         .lower()

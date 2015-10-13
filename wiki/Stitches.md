@@ -11,15 +11,15 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Sti
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-43     | 65.1 % | [411-1-121](http://www.heroesfire.com/hots/talent-calculator/stitches#rr6H) | 
-91     | 64.8 % | [414-1-141](http://www.heroesfire.com/hots/talent-calculator/stitches#ryRL) | 
-62     | 61.3 % | [211-1-121](http://www.heroesfire.com/hots/talent-calculator/stitches#kCqH) | 
-139    | 58.3 % | [342-1-211](http://www.heroesfire.com/hots/talent-calculator/stitches#pCgR) | 
-73     | 57.5 % | [341-1-211](http://www.heroesfire.com/hots/talent-calculator/stitches#pAEB) | 
-59     | 55.9 % | [341-2-114](http://www.heroesfire.com/hots/talent-calculator/stitches#pASI) | 
-50     | 54.0 % | [414-1-111](http://www.heroesfire.com/hots/talent-calculator/stitches#ryQt) | 
-57     | 49.1 % | [341-2-212](http://www.heroesfire.com/hots/talent-calculator/stitches#pATq) | 
-64     | 48.4 % | [414-1-121](http://www.heroesfire.com/hots/talent-calculator/stitches#ryR1) | 
-43     | 44.2 % | [342-2-212](http://www.heroesfire.com/hots/talent-calculator/stitches#pCw4) | 
-N/A    | N/A    | [311-1-111](http://www.heroesfire.com/hots/talent-calculator/stitches#o0z7) | * Highest popularity talents, individually
-N/A    | N/A    | [414-1-131](http://www.heroesfire.com/hots/talent-calculator/stitches#ryRB) | * Highest win percentage talents, individually
+266    | 67.3 % | [313-1-121](http://www.heroesfire.com/hots/talent-calculator/stitches#o5rn) | 
+252    | 65.9 % | [311-1-121](http://www.heroesfire.com/hots/talent-calculator/stitches#o0zH) | 
+168    | 65.5 % | [311-1-111](http://www.heroesfire.com/hots/talent-calculator/stitches#o0z7) | 
+222    | 60.8 % | [313-1-123](http://www.heroesfire.com/hots/talent-calculator/stitches#o5rp) | 
+250    | 59.2 % | [313-2-124](http://www.heroesfire.com/hots/talent-calculator/stitches#o65S) | 
+341    | 57.5 % | [311-1-141](http://www.heroesfire.com/hots/talent-calculator/stitches#o0zb) | 
+199    | 56.8 % | [313-2-123](http://www.heroesfire.com/hots/talent-calculator/stitches#o65R) | 
+162    | 53.7 % | [311-2-124](http://www.heroesfire.com/hots/talent-calculator/stitches#o1Cy) | 
+160    | 53.1 % | [311-2-122](http://www.heroesfire.com/hots/talent-calculator/stitches#o1Cw) | 
+161    | 50.3 % | [313-2-122](http://www.heroesfire.com/hots/talent-calculator/stitches#o65Q) | 
+N/A    | N/A    | [313-2-121](http://www.heroesfire.com/hots/talent-calculator/stitches#o65P) | * Highest popularity talents, individually
+N/A    | N/A    | [122-1-331](http://www.heroesfire.com/hots/talent-calculator/stitches#gpbJ) | * Highest win percentage talents, individually

@@ -11,14 +11,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Tyr
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-199    | 65.8 % | [411-1-141](http://www.heroesfire.com/hots/talent-calculator/tyrael#rr6b) | 
-176    | 64.8 % | [311-1-141](http://www.heroesfire.com/hots/talent-calculator/tyrael#o0zb) | 
-186    | 61.8 % | [411-1-243](http://www.heroesfire.com/hots/talent-calculator/tyrael#rr8B) | 
-274    | 61.0 % | [411-1-323](http://www.heroesfire.com/hots/talent-calculator/tyrael#rr9R) | 
-425    | 58.8 % | [411-1-343](http://www.heroesfire.com/hots/talent-calculator/tyrael#rr9l) | 
-443    | 58.5 % | [311-1-143](http://www.heroesfire.com/hots/talent-calculator/tyrael#o0zd) | * Highest popularity talents, individually
-392    | 58.4 % | [411-1-143](http://www.heroesfire.com/hots/talent-calculator/tyrael#rr6d) | 
-242    | 57.4 % | [311-1-343](http://www.heroesfire.com/hots/talent-calculator/tyrael#o10l) | 
-143    | 57.3 % | [311-1-323](http://www.heroesfire.com/hots/talent-calculator/tyrael#o10R) | 
-162    | 56.2 % | [411-1-233](http://www.heroesfire.com/hots/talent-calculator/tyrael#rr81) | 
-N/A    | N/A    | [411-1-114](http://www.heroesfire.com/hots/talent-calculator/tyrael#rr6A) | * Highest win percentage talents, individually
+160    | 71.3 % | [411-1-141](http://www.heroesfire.com/hots/talent-calculator/tyrael#rr6b) | 
+383    | 66.8 % | [411-1-323](http://www.heroesfire.com/hots/talent-calculator/tyrael#rr9R) | 
+198    | 65.2 % | [411-1-123](http://www.heroesfire.com/hots/talent-calculator/tyrael#rr6J) | 
+195    | 65.1 % | [311-1-343](http://www.heroesfire.com/hots/talent-calculator/tyrael#o10l) | 
+363    | 65.0 % | [411-1-343](http://www.heroesfire.com/hots/talent-calculator/tyrael#rr9l) | 
+124    | 62.9 % | [311-1-141](http://www.heroesfire.com/hots/talent-calculator/tyrael#o0zb) | 
+303    | 61.7 % | [411-1-143](http://www.heroesfire.com/hots/talent-calculator/tyrael#rr6d) | * Highest popularity talents, individually
+341    | 61.0 % | [311-1-143](http://www.heroesfire.com/hots/talent-calculator/tyrael#o0zd) | 
+168    | 60.7 % | [411-1-243](http://www.heroesfire.com/hots/talent-calculator/tyrael#rr8B) | 
+160    | 54.4 % | [311-1-323](http://www.heroesfire.com/hots/talent-calculator/tyrael#o10R) | 
+N/A    | N/A    | [413-1-142](http://www.heroesfire.com/hots/talent-calculator/tyrael#rv_6) | * Highest win percentage talents, individually

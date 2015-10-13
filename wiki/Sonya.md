@@ -11,14 +11,13 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Son
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-123    | 69.1 % | [414-2-324](http://www.heroesfire.com/hots/talent-calculator/sonya#ryjq) | 
-272    | 66.5 % | [113-2-344](http://www.heroesfire.com/hots/talent-calculator/sonya#gTsu) | 
-99     | 65.7 % | [114-2-334](http://www.heroesfire.com/hots/talent-calculator/sonya#gWI-) | 
-290    | 63.5 % | [114-2-324](http://www.heroesfire.com/hots/talent-calculator/sonya#gWIq) | 
-101    | 63.4 % | [113-2-444](http://www.heroesfire.com/hots/talent-calculator/sonya#gTuS) | 
-267    | 63.3 % | [414-2-344](http://www.heroesfire.com/hots/talent-calculator/sonya#ryk8) | 
-117    | 63.3 % | [111-2-344](http://www.heroesfire.com/hots/talent-calculator/sonya#gO-O) | 
-589    | 62.1 % | [114-2-344](http://www.heroesfire.com/hots/talent-calculator/sonya#gWJ8) | * Highest popularity talents, individually
-252    | 55.2 % | [412-2-344](http://www.heroesfire.com/hots/talent-calculator/sonya#rtre) | 
-100    | 53.0 % | [214-2-344](http://www.heroesfire.com/hots/talent-calculator/sonya#kKS8) | 
-N/A    | N/A    | [143-2-323](http://www.heroesfire.com/hots/talent-calculator/sonya#hd63) | * Highest win percentage talents, individually
+255    | 76.1 % | [414-2-324](http://www.heroesfire.com/hots/talent-calculator/sonya#ryjq) | 
+441    | 68.7 % | [114-2-324](http://www.heroesfire.com/hots/talent-calculator/sonya#gWIq) | * Highest win percentage talents, individually
+259    | 68.3 % | [113-2-324](http://www.heroesfire.com/hots/talent-calculator/sonya#gTsa) | 
+1274   | 68.0 % | [114-2-344](http://www.heroesfire.com/hots/talent-calculator/sonya#gWJ8) | * Highest popularity talents, individually
+249    | 67.1 % | [114-2-334](http://www.heroesfire.com/hots/talent-calculator/sonya#gWI-) | 
+646    | 66.6 % | [113-2-344](http://www.heroesfire.com/hots/talent-calculator/sonya#gTsu) | 
+393    | 65.7 % | [414-2-344](http://www.heroesfire.com/hots/talent-calculator/sonya#ryk8) | 
+219    | 62.6 % | [413-2-344](http://www.heroesfire.com/hots/talent-calculator/sonya#rwHu) | 
+181    | 60.8 % | [111-2-344](http://www.heroesfire.com/hots/talent-calculator/sonya#gO-O) | 
+231    | 60.6 % | [412-2-344](http://www.heroesfire.com/hots/talent-calculator/sonya#rtre) | 
