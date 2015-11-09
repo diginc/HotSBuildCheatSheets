@@ -5,7 +5,7 @@ from herolib.HeroParser import HeroParser
 from herolib.TalentSorter import TalentSorter
 
 DEBUG = False
-#DEBUG = True
+# DEBUG = True
 
 HEROES = [
     "Abathur", "Anub'arak", "Arthas", "Azmodan", "Brightwing", "Chen", "Diablo", "E.T.C.",
