@@ -36,17 +36,16 @@ class HeroParser:
                 talent_name = talent_image_row.next_sibling
                 description = talent_name.next_sibling
                 games_played = description.next_sibling
-                popularity = games_played.next_sibling
-                win_percentage = popularity.next_sibling
+                _popularity = games_played.next_sibling
+                _win_percentage = _popularity.next_sibling
+                popularity = float(_popularity.string.strip(' %')) if '%' in _popularity.string else 0.0
+                win_percentage = float(_win_percentage.string.strip(' %')) if '%' in _win_percentage.string else 0.0
+
                 ''' Image name is for linking to the top winning builds '''
                 talent_image = re.match('/(.*)\.png$', talent_image_row.img['src']).group(1)
                 talents[level].append(Talent(position, talent_name.string,
                                              description.string, games_played.string,
-                                             float(popularity.string.strip(' %')),
-                                             float(win_percentage.string.strip(' %')),
-                                             talent_image
-                                             )
-                                      )
+                                             popularity, win_percentage, talent_image))
                 position += 1
         return talents
 
@@ -68,7 +67,8 @@ class HeroParser:
             build_by_talent_positions = []
             build_by_talent_images = []
             games_played = row.td
-            win_percentage = games_played.next_sibling
+            _win_percentage = games_played.next_sibling
+            win_percentage = _win_percentage.string if '%' in _win_percentage.string else '??.? %'
 
             for column in row.find_all('img', ):
                 ''' imgName as a key works better than alt text
@@ -80,7 +80,7 @@ class HeroParser:
                     for talent in talents[TIER_TO_LEVEL[len(build_by_talent_positions)]]:
                         if talent_image == talent.image_name:
                             build_by_talent_positions.append(talent.position)
-            top_builds.append(TopBuild(games_played.string, win_percentage.string,
+            top_builds.append(TopBuild(games_played.string, win_percentage,
                                        build_by_talent_positions, build_by_talent_images))
 
         return top_builds

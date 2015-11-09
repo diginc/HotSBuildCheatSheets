@@ -5,7 +5,7 @@ from herolib.HeroParser import HeroParser
 from herolib.TalentSorter import TalentSorter
 
 DEBUG = False
-# DEBUG = True
+#DEBUG = True
 
 HEROES = [
     "Abathur", "Anub'arak", "Arthas", "Azmodan", "Brightwing", "Chen", "Diablo", "E.T.C.",
@@ -19,8 +19,7 @@ HERO_BASE_URL = 'https://www.hotslogs.com/Sitewide/HeroDetails?Hero='
 TALENT_TABLE = '{:<6} | {:<6} | {:<9} | {}\n'
 
 if DEBUG:
-    HEROES = ["Zagara"]
-    HERO_BASE_URL = 'http://diginc.us/HeroDetails.html?Hero='
+    HEROES = ["Chen"]
 
 
 def update_flat_files():

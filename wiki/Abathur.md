@@ -11,15 +11,15 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Aba
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-235    | 65.1 % | [141-1-423](http://www.heroesfire.com/hots/talent-calculator/abathur#hX_V) | 
-203    | 64.0 % | [412-1-234](http://www.heroesfire.com/hots/talent-calculator/abathur#rtaI) | 
-730    | 63.7 % | [141-2-413](http://www.heroesfire.com/hots/talent-calculator/abathur#hYEz) | 
-232    | 63.4 % | [141-2-423](http://www.heroesfire.com/hots/talent-calculator/abathur#hYF7) | 
-225    | 63.1 % | [224-1-234](http://www.heroesfire.com/hots/talent-calculator/abathur#kibI) | 
-214    | 62.6 % | [241-1-234](http://www.heroesfire.com/hots/talent-calculator/abathur#lM5Y) | 
-689    | 61.8 % | [141-1-413](http://www.heroesfire.com/hots/talent-calculator/abathur#hX_L) | 
-216    | 61.1 % | [141-2-313](http://www.heroesfire.com/hots/talent-calculator/abathur#hYDP) | 
-207    | 60.4 % | [141-1-313](http://www.heroesfire.com/hots/talent-calculator/abathur#hXzn) | 
-199    | 53.3 % | [241-2-234](http://www.heroesfire.com/hots/talent-calculator/abathur#lMLA) | 
-N/A    | N/A    | [141-1-433](http://www.heroesfire.com/hots/talent-calculator/abathur#hX_f) | * Highest popularity talents, individually
-N/A    | N/A    | [112-1-413](http://www.heroesfire.com/hots/talent-calculator/abathur#gRC5) | * Highest win percentage talents, individually
+195    | 70.8 % | [222-1-234](http://www.heroesfire.com/hots/talent-calculator/abathur#kdio) | 
+427    | 66.7 % | [212-1-234](http://www.heroesfire.com/hots/talent-calculator/abathur#kFII) | 
+530    | 64.7 % | [141-2-413](http://www.heroesfire.com/hots/talent-calculator/abathur#hYEz) | 
+363    | 64.5 % | [224-1-234](http://www.heroesfire.com/hots/talent-calculator/abathur#kibI) | 
+709    | 62.6 % | [412-1-234](http://www.heroesfire.com/hots/talent-calculator/abathur#rtaI) | 
+662    | 60.9 % | [141-1-413](http://www.heroesfire.com/hots/talent-calculator/abathur#hX_L) | 
+236    | 57.2 % | [241-2-234](http://www.heroesfire.com/hots/talent-calculator/abathur#lMLA) | 
+233    | 57.1 % | [244-1-234](http://www.heroesfire.com/hots/talent-calculator/abathur#lTQI) | 
+231    | 54.6 % | [412-1-233](http://www.heroesfire.com/hots/talent-calculator/abathur#rtaH) | 
+286    | 53.2 % | [241-1-234](http://www.heroesfire.com/hots/talent-calculator/abathur#lM5Y) | 
+N/A    | N/A    | [141-1-233](http://www.heroesfire.com/hots/talent-calculator/abathur#hXyX) | * Highest popularity talents, individually
+N/A    | N/A    | [112-1-414](http://www.heroesfire.com/hots/talent-calculator/abathur#gRC6) | * Highest win percentage talents, individually
