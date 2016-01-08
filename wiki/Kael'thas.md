@@ -1,24 +1,26 @@
 #### Updates
-**Update 2015/09/25 - Kharazim added thanks to PR by Anubis Black**
+**Update 2016/01/08 - Updated all stats, Added Artanis, Cho'Gall, Lunara, by Trust
+
+Update 2015/09/25 - Kharazim added thanks to PR by Anubis Black
 
 Update 2015/09/17 - First post Rexxar patch numbers, resetting the total games, potentially shifting builds around a lot.
 
 ***
 
-# Kael'thas
+# Kael'Thas
 
-Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Kael'thas) | [HotS Counters](http://hotscounters.com/#/hero/Kael'thas)
+Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Kael'Thas) | [HotS Counters](http://hotscounters.com/#/hero/Kael'Thas)
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-1103   | 66.7 % | [121-1-221](http://www.heroesfire.com/hots/talent-calculator/kaelthas#gn7L) | 
-5334   | 65.7 % | [121-1-224](http://www.heroesfire.com/hots/talent-calculator/kaelthas#gn7O) | 
-4242   | 65.6 % | [131-1-234](http://www.heroesfire.com/hots/talent-calculator/kaelthas#h9Y2) | 
-914    | 65.4 % | [131-1-231](http://www.heroesfire.com/hots/talent-calculator/kaelthas#h9X_) | 
-1293   | 65.0 % | [131-1-224](http://www.heroesfire.com/hots/talent-calculator/kaelthas#h9Xu) | 
-1725   | 64.5 % | [121-1-231](http://www.heroesfire.com/hots/talent-calculator/kaelthas#gn7V) | 
-26221  | 64.3 % | [121-1-234](http://www.heroesfire.com/hots/talent-calculator/kaelthas#gn7Y) | * Highest popularity talents, individually
-974    | 64.2 % | [111-1-234](http://www.heroesfire.com/hots/talent-calculator/kaelthas#gOj2) | 
-1229   | 63.1 % | [121-1-214](http://www.heroesfire.com/hots/talent-calculator/kaelthas#gn7E) | 
-1142   | 59.5 % | [121-2-234](http://www.heroesfire.com/hots/talent-calculator/kaelthas#gnNA) | 
-N/A    | N/A    | [231-1-223](http://www.heroesfire.com/hots/talent-calculator/kaelthas#kzgt) | * Highest win percentage talents, individually
+258    | 64.7 % | [141-2-413](http://www.heroesfire.com/hots/talent-calculator/kaelthas#hYEz) | 
+986    | 62.9 % | [412-1-234](http://www.heroesfire.com/hots/talent-calculator/kaelthas#rtaI) | * Highest popularity talents, individually
+173    | 62.4 % | [241-1-234](http://www.heroesfire.com/hots/talent-calculator/kaelthas#lM5Y) | 
+242    | 61.6 % | [222-1-234](http://www.heroesfire.com/hots/talent-calculator/kaelthas#kdio) | 
+545    | 60.7 % | [212-1-234](http://www.heroesfire.com/hots/talent-calculator/kaelthas#kFII) | 
+304    | 58.9 % | [141-1-413](http://www.heroesfire.com/hots/talent-calculator/kaelthas#hX_L) | 
+201    | 58.7 % | [224-1-234](http://www.heroesfire.com/hots/talent-calculator/kaelthas#kibI) | 
+201    | 57.2 % | [412-1-233](http://www.heroesfire.com/hots/talent-calculator/kaelthas#rtaH) | 
+238    | 57.1 % | [422-1-234](http://www.heroesfire.com/hots/talent-calculator/kaelthas#sF-o) | 
+131    | 54.2 % | [412-1-231](http://www.heroesfire.com/hots/talent-calculator/kaelthas#rtaF) | 
+N/A    | N/A    | [412-1-214](http://www.heroesfire.com/hots/talent-calculator/kaelthas#rtZ-) | * Highest win percentage talents, individually

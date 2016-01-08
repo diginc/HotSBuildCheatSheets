@@ -1,5 +1,7 @@
 #### Updates
-**Update 2015/09/25 - Kharazim added thanks to PR by Anubis Black**
+**Update 2016/01/08 - Updated all stats, Added Artanis, Cho'Gall, Lunara, by Trust
+
+Update 2015/09/25 - Kharazim added thanks to PR by Anubis Black
 
 Update 2015/09/17 - First post Rexxar patch numbers, resetting the total games, potentially shifting builds around a lot.
 
@@ -11,15 +13,13 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Tyr
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-470    | 72.1 % | [232-1-114](http://www.heroesfire.com/hots/talent-calculator/tyrande#l05Q) | 
-289    | 71.6 % | [222-1-111](http://www.heroesfire.com/hots/talent-calculator/tyrande#kdgt) | 
-192    | 70.8 % | [412-1-131](http://www.heroesfire.com/hots/talent-calculator/tyrande#rtYh) | 
-276    | 68.8 % | [232-1-111](http://www.heroesfire.com/hots/talent-calculator/tyrande#l05N) | 
-199    | 68.8 % | [242-1-111](http://www.heroesfire.com/hots/talent-calculator/tyrande#lOVt) | 
-213    | 68.1 % | [412-1-135](http://www.heroesfire.com/hots/talent-calculator/tyrande#rtYl) | 
-164    | 67.1 % | [232-1-144](http://www.heroesfire.com/hots/talent-calculator/tyrande#l05u) | 
-264    | 66.7 % | [242-1-114](http://www.heroesfire.com/hots/talent-calculator/tyrande#lOVw) | 
-219    | 66.2 % | [212-1-135](http://www.heroesfire.com/hots/talent-calculator/tyrande#kFGl) | 
-173    | 65.9 % | [212-1-131](http://www.heroesfire.com/hots/talent-calculator/tyrande#kFGh) | 
-N/A    | N/A    | [212-1-114](http://www.heroesfire.com/hots/talent-calculator/tyrande#kFGQ) | * Highest popularity talents, individually
-N/A    | N/A    | [133-1-111](http://www.heroesfire.com/hots/talent-calculator/tyrande#hEOd) | * Highest win percentage talents, individually
+1247   | 72.8 % | [242-1-111](http://www.heroesfire.com/hots/talent-calculator/tyrande#lOVt) | 
+3056   | 70.6 % | [232-1-111](http://www.heroesfire.com/hots/talent-calculator/tyrande#l05N) | * Highest popularity talents, individually
+841    | 70.5 % | [413-1-131](http://www.heroesfire.com/hots/talent-calculator/tyrande#rv-x) | 
+1690   | 70.4 % | [233-1-111](http://www.heroesfire.com/hots/talent-calculator/tyrande#l2Xd) | * Highest win percentage talents, individually
+890    | 70.3 % | [222-1-111](http://www.heroesfire.com/hots/talent-calculator/tyrande#kdgt) | 
+1104   | 69.9 % | [233-1-114](http://www.heroesfire.com/hots/talent-calculator/tyrande#l2Xg) | 
+985    | 69.3 % | [223-1-111](http://www.heroesfire.com/hots/talent-calculator/tyrande#kg77) | 
+938    | 69.2 % | [242-1-114](http://www.heroesfire.com/hots/talent-calculator/tyrande#lOVw) | 
+2268   | 68.8 % | [232-1-114](http://www.heroesfire.com/hots/talent-calculator/tyrande#l05Q) | 
+874    | 68.4 % | [412-1-131](http://www.heroesfire.com/hots/talent-calculator/tyrande#rtYh) | 

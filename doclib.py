@@ -1,6 +1,8 @@
 NEWS = [
     '''#### Updates
-**Update 2015/09/25 - Kharazim added thanks to PR by Anubis Black**
+**Update 2016/01/08 - Updated all stats, Added Artanis, Cho'Gall, Lunara, by Trust
+
+Update 2015/09/25 - Kharazim added thanks to PR by Anubis Black
 
 Update 2015/09/17 - First post Rexxar patch numbers, resetting the total games, potentially shifting builds around a lot.
 
