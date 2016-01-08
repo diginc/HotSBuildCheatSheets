@@ -13,14 +13,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Li 
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-649    | 68.6 % | [324-1-441](http://www.heroesfire.com/hots/talent-calculator/li-li#oWnX) | 
-1217   | 67.1 % | [324-1-443](http://www.heroesfire.com/hots/talent-calculator/li-li#oWnZ) | 
-447    | 66.4 % | [324-1-241](http://www.heroesfire.com/hots/talent-calculator/li-li#oWkP) | 
-396    | 65.2 % | [113-1-423](http://www.heroesfire.com/hots/talent-calculator/li-li#gTeV) | 
-372    | 65.1 % | [324-1-243](http://www.heroesfire.com/hots/talent-calculator/li-li#oWkR) | 
-413    | 64.9 % | [124-1-443](http://www.heroesfire.com/hots/talent-calculator/li-li#guVZ) | 
-881    | 64.8 % | [133-1-323](http://www.heroesfire.com/hots/talent-calculator/li-li#hERx) | 
-687    | 62.5 % | [133-1-423](http://www.heroesfire.com/hots/talent-calculator/li-li#hETV) | 
-432    | 60.9 % | [123-1-423](http://www.heroesfire.com/hots/talent-calculator/li-li#gs2_) | * Highest popularity talents, individually
-474    | 59.9 % | [133-1-223](http://www.heroesfire.com/hots/talent-calculator/li-li#hEQN) | 
-N/A    | N/A    | [324-1-342](http://www.heroesfire.com/hots/talent-calculator/li-li#oWl-) | * Highest win percentage talents, individually
+650    | 67.4 % | [324-1-441](http://www.heroesfire.com/hots/talent-calculator/li-li#oWnX) | 
+1216   | 67.0 % | [324-1-443](http://www.heroesfire.com/hots/talent-calculator/li-li#oWnZ) | 
+464    | 66.2 % | [324-1-241](http://www.heroesfire.com/hots/talent-calculator/li-li#oWkP) | 
+416    | 65.1 % | [124-1-443](http://www.heroesfire.com/hots/talent-calculator/li-li#guVZ) | 
+394    | 65.0 % | [113-1-423](http://www.heroesfire.com/hots/talent-calculator/li-li#gTeV) | 
+866    | 63.7 % | [133-1-323](http://www.heroesfire.com/hots/talent-calculator/li-li#hERx) | 
+392    | 63.5 % | [324-1-243](http://www.heroesfire.com/hots/talent-calculator/li-li#oWkR) | 
+686    | 62.1 % | [133-1-423](http://www.heroesfire.com/hots/talent-calculator/li-li#hETV) | 
+452    | 61.7 % | [123-1-423](http://www.heroesfire.com/hots/talent-calculator/li-li#gs2_) | * Highest popularity talents, individually
+453    | 60.9 % | [133-1-223](http://www.heroesfire.com/hots/talent-calculator/li-li#hEQN) | 
+N/A    | N/A    | [324-1-343](http://www.heroesfire.com/hots/talent-calculator/li-li#oWl_) | * Highest win percentage talents, individually

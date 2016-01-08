@@ -13,14 +13,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Rex
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-181    | 58.6 % | [213-1-143](http://www.heroesfire.com/hots/talent-calculator/rexxar#kHj7) | * Highest popularity talents, individually
-75     | ??.? % | [244-1-141](http://www.heroesfire.com/hots/talent-calculator/rexxar#lTOr) | 
-39     | ??.? % | [213-1-144](http://www.heroesfire.com/hots/talent-calculator/rexxar#kHj8) | 
-87     | ??.? % | [244-1-143](http://www.heroesfire.com/hots/talent-calculator/rexxar#lTOt) | 
+100    | 64.0 % | [244-1-143](http://www.heroesfire.com/hots/talent-calculator/rexxar#lTOt) | 
+178    | 59.6 % | [213-1-143](http://www.heroesfire.com/hots/talent-calculator/rexxar#kHj7) | * Highest popularity talents, individually
 65     | ??.? % | [243-1-143](http://www.heroesfire.com/hots/talent-calculator/rexxar#lQyd) | 
-41     | ??.? % | [244-1-131](http://www.heroesfire.com/hots/talent-calculator/rexxar#lTOh) | 
-48     | ??.? % | [213-1-131](http://www.heroesfire.com/hots/talent-calculator/rexxar#kHix) | 
-68     | ??.? % | [213-1-133](http://www.heroesfire.com/hots/talent-calculator/rexxar#kHiz) | 
-54     | ??.? % | [244-1-133](http://www.heroesfire.com/hots/talent-calculator/rexxar#lTOj) | 
-58     | ??.? % | [213-1-141](http://www.heroesfire.com/hots/talent-calculator/rexxar#kHj5) | 
-N/A    | N/A    | [244-2-122](http://www.heroesfire.com/hots/talent-calculator/rexxar#lTeA) | * Highest win percentage talents, individually
+40     | ??.? % | [213-1-144](http://www.heroesfire.com/hots/talent-calculator/rexxar#kHj8) | 
+76     | ??.? % | [244-1-141](http://www.heroesfire.com/hots/talent-calculator/rexxar#lTOr) | 
+44     | ??.? % | [244-1-131](http://www.heroesfire.com/hots/talent-calculator/rexxar#lTOh) | 
+53     | ??.? % | [213-1-131](http://www.heroesfire.com/hots/talent-calculator/rexxar#kHix) | 
+67     | ??.? % | [213-1-133](http://www.heroesfire.com/hots/talent-calculator/rexxar#kHiz) | 
+53     | ??.? % | [244-1-133](http://www.heroesfire.com/hots/talent-calculator/rexxar#lTOj) | 
+57     | ??.? % | [213-1-141](http://www.heroesfire.com/hots/talent-calculator/rexxar#kHj5) | 
+N/A    | N/A    | [244-1-123](http://www.heroesfire.com/hots/talent-calculator/rexxar#lTOZ) | * Highest win percentage talents, individually

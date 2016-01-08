@@ -13,13 +13,13 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Che
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-383    | 71.0 % | [133-2-432](http://www.heroesfire.com/hots/talent-calculator/chen#hEjG) | 
-175    | 67.4 % | [133-2-332](http://www.heroesfire.com/hots/talent-calculator/chen#hEhi) | * Highest popularity talents, individually
-113    | 61.1 % | [133-2-322](http://www.heroesfire.com/hots/talent-calculator/chen#hEhY) | 
-127    | 57.5 % | [133-1-433](http://www.heroesfire.com/hots/talent-calculator/chen#hETf) | 
-167    | 55.7 % | [133-2-433](http://www.heroesfire.com/hots/talent-calculator/chen#hEjH) | 
-80     | ??.? % | [133-2-232](http://www.heroesfire.com/hots/talent-calculator/chen#hEg8) | * Highest win percentage talents, individually
-84     | ??.? % | [133-2-333](http://www.heroesfire.com/hots/talent-calculator/chen#hEhj) | 
-82     | ??.? % | [133-1-333](http://www.heroesfire.com/hots/talent-calculator/chen#hES5) | 
-83     | ??.? % | [133-1-323](http://www.heroesfire.com/hots/talent-calculator/chen#hERx) | 
-81     | ??.? % | [133-2-323](http://www.heroesfire.com/hots/talent-calculator/chen#hEhZ) | 
+390    | 71.0 % | [133-2-432](http://www.heroesfire.com/hots/talent-calculator/chen#hEjG) | 
+174    | 66.7 % | [133-2-332](http://www.heroesfire.com/hots/talent-calculator/chen#hEhi) | * Highest popularity talents, individually
+132    | 60.6 % | [133-1-433](http://www.heroesfire.com/hots/talent-calculator/chen#hETf) | 
+117    | 59.8 % | [133-2-322](http://www.heroesfire.com/hots/talent-calculator/chen#hEhY) | 
+169    | 58.6 % | [133-2-433](http://www.heroesfire.com/hots/talent-calculator/chen#hEjH) | 
+87     | ??.? % | [133-2-232](http://www.heroesfire.com/hots/talent-calculator/chen#hEg8) | * Highest win percentage talents, individually
+80     | ??.? % | [133-1-434](http://www.heroesfire.com/hots/talent-calculator/chen#hETg) | 
+83     | ??.? % | [133-1-333](http://www.heroesfire.com/hots/talent-calculator/chen#hES5) | 
+79     | ??.? % | [133-1-323](http://www.heroesfire.com/hots/talent-calculator/chen#hERx) | 
+78     | ??.? % | [133-2-323](http://www.heroesfire.com/hots/talent-calculator/chen#hEhZ) | 

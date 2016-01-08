@@ -13,13 +13,13 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Ray
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-3535   | 69.9 % | [212-1-114](http://www.heroesfire.com/hots/talent-calculator/raynor#kFGQ) | * Highest win percentage talents, individually
-3346   | 68.5 % | [212-1-144](http://www.heroesfire.com/hots/talent-calculator/raynor#kFGu) | 
-18188  | 68.2 % | [212-1-134](http://www.heroesfire.com/hots/talent-calculator/raynor#kFGk) | * Highest popularity talents, individually
-4288   | 68.2 % | [212-1-234](http://www.heroesfire.com/hots/talent-calculator/raynor#kFII) | 
-1238   | 67.3 % | [222-1-134](http://www.heroesfire.com/hots/talent-calculator/raynor#kdhE) | 
-2531   | 66.9 % | [212-2-134](http://www.heroesfire.com/hots/talent-calculator/raynor#kFWM) | 
-3771   | 66.4 % | [112-1-134](http://www.heroesfire.com/hots/talent-calculator/raynor#gR7k) | 
-1888   | 66.2 % | [213-1-134](http://www.heroesfire.com/hots/talent-calculator/raynor#kHi-) | 
-1130   | 65.8 % | [112-2-134](http://www.heroesfire.com/hots/talent-calculator/raynor#gRNM) | 
-1084   | 61.1 % | [212-1-135](http://www.heroesfire.com/hots/talent-calculator/raynor#kFGl) | 
+3568   | 70.0 % | [212-1-114](http://www.heroesfire.com/hots/talent-calculator/raynor#kFGQ) | * Highest win percentage talents, individually
+18356  | 68.5 % | [212-1-134](http://www.heroesfire.com/hots/talent-calculator/raynor#kFGk) | * Highest popularity talents, individually
+3388   | 68.4 % | [212-1-144](http://www.heroesfire.com/hots/talent-calculator/raynor#kFGu) | 
+4347   | 68.2 % | [212-1-234](http://www.heroesfire.com/hots/talent-calculator/raynor#kFII) | 
+2564   | 67.1 % | [212-2-134](http://www.heroesfire.com/hots/talent-calculator/raynor#kFWM) | 
+1246   | 66.8 % | [222-1-134](http://www.heroesfire.com/hots/talent-calculator/raynor#kdhE) | 
+3830   | 66.3 % | [112-1-134](http://www.heroesfire.com/hots/talent-calculator/raynor#gR7k) | 
+1886   | 66.2 % | [213-1-134](http://www.heroesfire.com/hots/talent-calculator/raynor#kHi-) | 
+1152   | 65.4 % | [112-2-134](http://www.heroesfire.com/hots/talent-calculator/raynor#gRNM) | 
+1107   | 65.0 % | [112-1-234](http://www.heroesfire.com/hots/talent-calculator/raynor#gR9I) | 

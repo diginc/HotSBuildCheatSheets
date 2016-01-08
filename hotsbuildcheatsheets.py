@@ -23,7 +23,6 @@ TALENT_TABLE = '{:<6} | {:<6} | {:<9} | {}\n'
 if DEBUG:
     HEROES = ["Chen"]
 
-
 def update_flat_files():
     """ Human readable/consumable data """
     wiki_file = open('wiki/Home.md', 'w')

@@ -13,14 +13,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=E.T
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-491    | 68.4 % | [111-1-321](http://www.heroesfire.com/hots/talent-calculator/elite-tauren-chieftain#gOkP) | 
-518    | 67.8 % | [111-1-221](http://www.heroesfire.com/hots/talent-calculator/elite-tauren-chieftain#gOir) | 
-315    | 65.1 % | [111-1-211](http://www.heroesfire.com/hots/talent-calculator/elite-tauren-chieftain#gOih) | 
-304    | 63.5 % | [111-1-323](http://www.heroesfire.com/hots/talent-calculator/elite-tauren-chieftain#gOkR) | 
-345    | 62.0 % | [111-1-341](http://www.heroesfire.com/hots/talent-calculator/elite-tauren-chieftain#gOkj) | * Highest popularity talents, individually
-330    | 60.9 % | [213-1-341](http://www.heroesfire.com/hots/talent-calculator/elite-tauren-chieftain#kHmD) | 
-357    | 56.3 % | [111-1-223](http://www.heroesfire.com/hots/talent-calculator/elite-tauren-chieftain#gOit) | 
-271    | 56.1 % | [111-1-241](http://www.heroesfire.com/hots/talent-calculator/elite-tauren-chieftain#gOj9) | 
-349    | 53.3 % | [111-1-343](http://www.heroesfire.com/hots/talent-calculator/elite-tauren-chieftain#gOkl) | 
-298    | 52.0 % | [111-1-243](http://www.heroesfire.com/hots/talent-calculator/elite-tauren-chieftain#gOjB) | 
-N/A    | N/A    | [414-1-125](http://www.heroesfire.com/hots/talent-calculator/elite-tauren-chieftain#ryR5) | * Highest win percentage talents, individually
+494    | 67.2 % | [111-1-321](http://www.heroesfire.com/hots/talent-calculator/elite-tauren-chieftain#gOkP) | 
+533    | 67.0 % | [111-1-221](http://www.heroesfire.com/hots/talent-calculator/elite-tauren-chieftain#gOir) | 
+331    | 64.4 % | [111-1-211](http://www.heroesfire.com/hots/talent-calculator/elite-tauren-chieftain#gOih) | 
+315    | 63.5 % | [111-1-323](http://www.heroesfire.com/hots/talent-calculator/elite-tauren-chieftain#gOkR) | 
+350    | 62.9 % | [111-1-341](http://www.heroesfire.com/hots/talent-calculator/elite-tauren-chieftain#gOkj) | * Highest popularity talents, individually
+327    | 60.6 % | [213-1-341](http://www.heroesfire.com/hots/talent-calculator/elite-tauren-chieftain#kHmD) | 
+353    | 57.2 % | [111-1-223](http://www.heroesfire.com/hots/talent-calculator/elite-tauren-chieftain#gOit) | 
+274    | 56.9 % | [111-1-241](http://www.heroesfire.com/hots/talent-calculator/elite-tauren-chieftain#gOj9) | 
+294    | 53.4 % | [111-1-243](http://www.heroesfire.com/hots/talent-calculator/elite-tauren-chieftain#gOjB) | 
+357    | 53.2 % | [111-1-343](http://www.heroesfire.com/hots/talent-calculator/elite-tauren-chieftain#gOkl) | 
+N/A    | N/A    | [114-1-125](http://www.heroesfire.com/hots/talent-calculator/elite-tauren-chieftain#gW05) | * Highest win percentage talents, individually
