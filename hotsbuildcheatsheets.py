@@ -8,14 +8,14 @@ DEBUG = False
 # DEBUG = True
 
 HEROES = [
-         "Abathur", "Anub'arak", "Artanis", "Arthas", "Azmodan", "Brightwing",
-         "Chen", "Cho", "Diablo", "E.T.C.", "Falstad", "Gall", "Gazlowe",
-         "Illidan", "Jaina", "Johanna", "Kael'Thas", "Kerrigan", "Kharazim",
-         "Leoric", "Li Li", "Lt. Morales", "Lunara", "Malfurion", "Muradin",
-         "Murky", "Nazeebo", "Nova", "Raynor", "Rehgar", "Rexxar",
-         "Sgt. Hammer", "Sonya", "Stitches", "Sylvanas", "Tassadar",
-         "The Butcher", "The Lost Vikings", "Thrall", "Tychus", "Tyrael",
-         "Tyrande", "Uther", "Sonya", "Valla", "Zagara", "Zeratul"
+    "Abathur", "Anub'arak", "Artanis", "Arthas", "Azmodan", "Brightwing",
+    "Chen", "Cho", "Diablo", "E.T.C.", "Falstad", "Gall", "Gazlowe",
+    "Illidan", "Jaina", "Johanna", "Kael'Thas", "Kerrigan", "Kharazim",
+    "Leoric", "Li Li", "Lt. Morales", "Lunara", "Malfurion", "Muradin",
+    "Murky", "Nazeebo", "Nova", "Raynor", "Rehgar", "Rexxar",
+    "Sgt. Hammer", "Sonya", "Stitches", "Sylvanas", "Tassadar",
+    "The Butcher", "The Lost Vikings", "Thrall", "Tychus", "Tyrael",
+    "Tyrande", "Uther", "Sonya", "Valla", "Zagara", "Zeratul"
 ]
 HERO_BASE_URL = 'https://www.hotslogs.com/Sitewide/HeroDetails?Hero='
 TALENT_TABLE = '{:<6} | {:<6} | {:<9} | {}\n'
