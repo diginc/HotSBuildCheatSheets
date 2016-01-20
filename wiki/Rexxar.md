@@ -1,5 +1,7 @@
 #### Updates
-**Update 2016/01/08 - Updated all stats, Added Artanis, Cho'Gall, Lunara, by Trust**
+**Update 2016/01/13 - Added Greymane, by Trust**
+
+Update 2016/01/08 - Updated all stats, Added Artanis, Cho'Gall, Lunara, by Trust
 
 Update 2015/09/25 - Kharazim added thanks to PR by Anubis Black
 
@@ -13,14 +15,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Rex
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-181    | 58.6 % | [213-1-143](http://www.heroesfire.com/hots/talent-calculator/rexxar#kHj7) | * Highest popularity talents, individually
-75     | ??.? % | [244-1-141](http://www.heroesfire.com/hots/talent-calculator/rexxar#lTOr) | 
-39     | ??.? % | [213-1-144](http://www.heroesfire.com/hots/talent-calculator/rexxar#kHj8) | 
-87     | ??.? % | [244-1-143](http://www.heroesfire.com/hots/talent-calculator/rexxar#lTOt) | 
-65     | ??.? % | [243-1-143](http://www.heroesfire.com/hots/talent-calculator/rexxar#lQyd) | 
-41     | ??.? % | [244-1-131](http://www.heroesfire.com/hots/talent-calculator/rexxar#lTOh) | 
-48     | ??.? % | [213-1-131](http://www.heroesfire.com/hots/talent-calculator/rexxar#kHix) | 
-68     | ??.? % | [213-1-133](http://www.heroesfire.com/hots/talent-calculator/rexxar#kHiz) | 
-54     | ??.? % | [244-1-133](http://www.heroesfire.com/hots/talent-calculator/rexxar#lTOj) | 
-58     | ??.? % | [213-1-141](http://www.heroesfire.com/hots/talent-calculator/rexxar#kHj5) | 
+120    | 65.0 % | [213-1-143](http://www.heroesfire.com/hots/talent-calculator/rexxar#kHj7) | 
+65     | ??.? % | [244-1-143](http://www.heroesfire.com/hots/talent-calculator/rexxar#lTOt) | 
+24     | ??.? % | [244-1-131](http://www.heroesfire.com/hots/talent-calculator/rexxar#lTOh) | 
+38     | ??.? % | [213-1-141](http://www.heroesfire.com/hots/talent-calculator/rexxar#kHj5) | 
+53     | ??.? % | [244-1-141](http://www.heroesfire.com/hots/talent-calculator/rexxar#lTOr) | 
+32     | ??.? % | [243-1-141](http://www.heroesfire.com/hots/talent-calculator/rexxar#lQyb) | 
+45     | ??.? % | [213-1-133](http://www.heroesfire.com/hots/talent-calculator/rexxar#kHiz) | 
+40     | ??.? % | [244-1-133](http://www.heroesfire.com/hots/talent-calculator/rexxar#lTOj) | 
+63     | ??.? % | [243-1-143](http://www.heroesfire.com/hots/talent-calculator/rexxar#lQyd) | * Highest popularity talents, individually
+27     | ??.? % | [244-1-144](http://www.heroesfire.com/hots/talent-calculator/rexxar#lTOu) | 
 N/A    | N/A    | [244-2-122](http://www.heroesfire.com/hots/talent-calculator/rexxar#lTeA) | * Highest win percentage talents, individually
