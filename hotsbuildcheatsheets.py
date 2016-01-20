@@ -9,7 +9,7 @@ DEBUG = False
 
 HEROES = [
     "Abathur", "Anub'arak", "Artanis", "Arthas", "Azmodan", "Brightwing",
-    "Chen", "Cho", "Diablo", "E.T.C.", "Falstad", "Gall", "Gazlowe",
+    "Chen", "Cho", "Diablo", "E.T.C.", "Falstad", "Gall", "Gazlowe", "Greymane",
     "Illidan", "Jaina", "Johanna", "Kael'Thas", "Kerrigan", "Kharazim",
     "Leoric", "Li Li", "Lt. Morales", "Lunara", "Malfurion", "Muradin",
     "Murky", "Nazeebo", "Nova", "Raynor", "Rehgar", "Rexxar",

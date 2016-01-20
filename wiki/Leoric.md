@@ -1,5 +1,7 @@
 #### Updates
-**Update 2016/01/08 - Updated all stats, Added Artanis, Cho'Gall, Lunara, by Trust**
+**Update 2016/01/13 - Added Greymane, by Trust**
+
+Update 2016/01/08 - Updated all stats, Added Artanis, Cho'Gall, Lunara, by Trust
 
 Update 2015/09/25 - Kharazim added thanks to PR by Anubis Black
 
@@ -13,14 +15,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Leo
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-370    | 66.0 % | [434-2-123](http://www.heroesfire.com/hots/talent-calculator/leoric#sjVh) | 
-456    | 63.8 % | [434-1-123](http://www.heroesfire.com/hots/talent-calculator/leoric#sjG3) | * Highest popularity talents, individually
-102    | 63.7 % | [434-1-143](http://www.heroesfire.com/hots/talent-calculator/leoric#sjGN) | 
-123    | 63.4 % | [424-1-123](http://www.heroesfire.com/hots/talent-calculator/leoric#sKrZ) | 
-103    | 63.1 % | [434-1-223](http://www.heroesfire.com/hots/talent-calculator/leoric#sjHd) | 
-270    | 61.9 % | [414-1-123](http://www.heroesfire.com/hots/talent-calculator/leoric#ryR3) | 
-206    | 61.7 % | [414-2-123](http://www.heroesfire.com/hots/talent-calculator/leoric#rygh) | 
-94     | ??.? % | [424-2-123](http://www.heroesfire.com/hots/talent-calculator/leoric#sL5B) | 
-89     | ??.? % | [424-1-223](http://www.heroesfire.com/hots/talent-calculator/leoric#sKt7) | 
-88     | ??.? % | [434-1-124](http://www.heroesfire.com/hots/talent-calculator/leoric#sjG4) | 
-N/A    | N/A    | [411-2-113](http://www.heroesfire.com/hots/talent-calculator/leoric#rrLn) | * Highest win percentage talents, individually
+412    | 67.7 % | [434-1-123](http://www.heroesfire.com/hots/talent-calculator/leoric#sjG3) | * Highest popularity talents, individually
+151    | 65.6 % | [414-2-123](http://www.heroesfire.com/hots/talent-calculator/leoric#rygh) | 
+260    | 62.3 % | [434-2-123](http://www.heroesfire.com/hots/talent-calculator/leoric#sjVh) | 
+194    | 60.3 % | [414-1-123](http://www.heroesfire.com/hots/talent-calculator/leoric#ryR3) | 
+83     | ??.? % | [433-1-233](http://www.heroesfire.com/hots/talent-calculator/leoric#sgrX) | 
+71     | ??.? % | [434-1-143](http://www.heroesfire.com/hots/talent-calculator/leoric#sjGN) | 
+92     | ??.? % | [424-1-123](http://www.heroesfire.com/hots/talent-calculator/leoric#sKrZ) | 
+67     | ??.? % | [434-2-122](http://www.heroesfire.com/hots/talent-calculator/leoric#sjVg) | 
+72     | ??.? % | [424-2-123](http://www.heroesfire.com/hots/talent-calculator/leoric#sL5B) | 
+72     | ??.? % | [433-1-243](http://www.heroesfire.com/hots/talent-calculator/leoric#sgrh) | 
+N/A    | N/A    | [413-1-133](http://www.heroesfire.com/hots/talent-calculator/leoric#rv-z) | * Highest win percentage talents, individually
