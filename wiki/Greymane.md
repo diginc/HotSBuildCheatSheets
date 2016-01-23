@@ -15,14 +15,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Gre
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-154    | 60.4 % | [112-1-313](http://www.heroesfire.com/hots/talent-calculator/greymane#gRAX) | 
-482    | 60.4 % | [442-1-313](http://www.heroesfire.com/hots/talent-calculator/greymane#t0r1) | 
-258    | 57.8 % | [112-1-344](http://www.heroesfire.com/hots/talent-calculator/greymane#gRB0) | * Highest popularity talents, individually
-444    | 56.8 % | [242-1-313](http://www.heroesfire.com/hots/talent-calculator/greymane#lOZ1) | 
-214    | 56.1 % | [113-1-244](http://www.heroesfire.com/hots/talent-calculator/greymane#gTbi) | 
-282    | 55.3 % | [242-1-113](http://www.heroesfire.com/hots/talent-calculator/greymane#lOVv) | 
-142    | 53.5 % | [123-1-344](http://www.heroesfire.com/hots/talent-calculator/greymane#gs1m) | 
-159    | 53.5 % | [413-1-344](http://www.heroesfire.com/hots/talent-calculator/greymane#rw2G) | 
-487    | 53.4 % | [142-1-313](http://www.heroesfire.com/hots/talent-calculator/greymane#haQ1) | 
-364    | 53.3 % | [113-1-344](http://www.heroesfire.com/hots/talent-calculator/greymane#gTdG) | 
-N/A    | N/A    | [342-1-231](http://www.heroesfire.com/hots/talent-calculator/greymane#pCgl) | * Highest win percentage talents, individually
+119    | 63.0 % | [142-1-313](http://www.heroesfire.com/hots/talent-calculator/greymane#haQ1) | 
+127    | 54.3 % | [442-1-313](http://www.heroesfire.com/hots/talent-calculator/greymane#t0r1) | 
+65     | ??.? % | [242-1-113](http://www.heroesfire.com/hots/talent-calculator/greymane#lOVv) | 
+59     | ??.? % | [113-1-344](http://www.heroesfire.com/hots/talent-calculator/greymane#gTdG) | 
+35     | ??.? % | [412-1-344](http://www.heroesfire.com/hots/talent-calculator/greymane#rtc0) | 
+78     | ??.? % | [242-1-313](http://www.heroesfire.com/hots/talent-calculator/greymane#lOZ1) | 
+64     | ??.? % | [413-1-344](http://www.heroesfire.com/hots/talent-calculator/greymane#rw2G) | 
+32     | ??.? % | [111-1-323](http://www.heroesfire.com/hots/talent-calculator/greymane#gOkR) | 
+36     | ??.? % | [112-1-313](http://www.heroesfire.com/hots/talent-calculator/greymane#gRAX) | 
+54     | ??.? % | [112-1-344](http://www.heroesfire.com/hots/talent-calculator/greymane#gRB0) | * Highest popularity talents, individually
+N/A    | N/A    | [242-1-114](http://www.heroesfire.com/hots/talent-calculator/greymane#lOVw) | * Highest win percentage talents, individually

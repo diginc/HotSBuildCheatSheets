@@ -15,14 +15,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Ker
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-153    | 69.3 % | [121-1-214](http://www.heroesfire.com/hots/talent-calculator/kerrigan#gn7E) | 
-131    | 63.4 % | [114-1-111](http://www.heroesfire.com/hots/talent-calculator/kerrigan#gV_t) | 
-376    | 62.8 % | [121-1-111](http://www.heroesfire.com/hots/talent-calculator/kerrigan#gn5d) | 
-105    | 61.9 % | [124-1-113](http://www.heroesfire.com/hots/talent-calculator/kerrigan#guQP) | 
-411    | 61.1 % | [124-1-111](http://www.heroesfire.com/hots/talent-calculator/kerrigan#guQN) | * Highest popularity talents, individually
-278    | 60.4 % | [234-1-111](http://www.heroesfire.com/hots/talent-calculator/kerrigan#l4zt) | 
-187    | 59.4 % | [124-1-114](http://www.heroesfire.com/hots/talent-calculator/kerrigan#guQQ) | 
-214    | 59.4 % | [121-1-114](http://www.heroesfire.com/hots/talent-calculator/kerrigan#gn5g) | 
-94     | ??.? % | [121-1-311](http://www.heroesfire.com/hots/talent-calculator/kerrigan#gn8l) | 
-94     | ??.? % | [121-1-211](http://www.heroesfire.com/hots/talent-calculator/kerrigan#gn7B) | 
-N/A    | N/A    | [111-1-312](http://www.heroesfire.com/hots/talent-calculator/kerrigan#gOkG) | * Highest win percentage talents, individually
+102    | 58.8 % | [124-1-111](http://www.heroesfire.com/hots/talent-calculator/kerrigan#guQN) | * Highest popularity talents, individually
+27     | ??.? % | [121-1-234](http://www.heroesfire.com/hots/talent-calculator/kerrigan#gn7Y) | 
+59     | ??.? % | [121-1-114](http://www.heroesfire.com/hots/talent-calculator/kerrigan#gn5g) | 
+26     | ??.? % | [121-1-211](http://www.heroesfire.com/hots/talent-calculator/kerrigan#gn7B) | 
+46     | ??.? % | [124-1-114](http://www.heroesfire.com/hots/talent-calculator/kerrigan#guQQ) | 
+67     | ??.? % | [234-1-111](http://www.heroesfire.com/hots/talent-calculator/kerrigan#l4zt) | 
+25     | ??.? % | [121-1-311](http://www.heroesfire.com/hots/talent-calculator/kerrigan#gn8l) | 
+97     | ??.? % | [121-1-111](http://www.heroesfire.com/hots/talent-calculator/kerrigan#gn5d) | 
+27     | ??.? % | [144-1-111](http://www.heroesfire.com/hots/talent-calculator/kerrigan#hfFN) | 
+31     | ??.? % | [114-1-111](http://www.heroesfire.com/hots/talent-calculator/kerrigan#gV_t) | 
+N/A    | N/A    | [111-1-313](http://www.heroesfire.com/hots/talent-calculator/kerrigan#gOkH) | * Highest win percentage talents, individually

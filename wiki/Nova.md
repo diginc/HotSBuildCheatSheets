@@ -15,14 +15,13 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Nov
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-574    | 70.6 % | [333-1-133](http://www.heroesfire.com/hots/talent-calculator/nova#osgz) | 
-804    | 68.7 % | [332-2-133](http://www.heroesfire.com/hots/talent-calculator/nova#oqUL) | 
-3219   | 68.5 % | [333-2-133](http://www.heroesfire.com/hots/talent-calculator/nova#oswb) | * Highest popularity talents, individually
-1748   | 68.4 % | [333-2-132](http://www.heroesfire.com/hots/talent-calculator/nova#oswa) | 
-1591   | 67.7 % | [333-1-131](http://www.heroesfire.com/hots/talent-calculator/nova#osgx) | 
-961    | 67.1 % | [333-2-123](http://www.heroesfire.com/hots/talent-calculator/nova#oswR) | 
-602    | 64.8 % | [332-1-131](http://www.heroesfire.com/hots/talent-calculator/nova#oqEh) | 
-685    | 64.5 % | [333-2-122](http://www.heroesfire.com/hots/talent-calculator/nova#oswQ) | 
-679    | 63.3 % | [332-2-132](http://www.heroesfire.com/hots/talent-calculator/nova#oqUK) | 
-603    | 62.7 % | [333-1-121](http://www.heroesfire.com/hots/talent-calculator/nova#osgn) | 
-N/A    | N/A    | [333-2-134](http://www.heroesfire.com/hots/talent-calculator/nova#oswc) | * Highest win percentage talents, individually
+162    | 74.7 % | [333-2-134](http://www.heroesfire.com/hots/talent-calculator/nova#oswc) | * Highest win percentage talents, individually
+154    | 74.0 % | [333-2-124](http://www.heroesfire.com/hots/talent-calculator/nova#oswS) | 
+171    | 69.0 % | [333-2-122](http://www.heroesfire.com/hots/talent-calculator/nova#oswQ) | 
+161    | 68.9 % | [333-1-133](http://www.heroesfire.com/hots/talent-calculator/nova#osgz) | 
+152    | 67.8 % | [332-2-132](http://www.heroesfire.com/hots/talent-calculator/nova#oqUK) | 
+385    | 67.5 % | [333-2-132](http://www.heroesfire.com/hots/talent-calculator/nova#oswa) | 
+810    | 66.9 % | [333-2-133](http://www.heroesfire.com/hots/talent-calculator/nova#oswb) | * Highest popularity talents, individually
+354    | 63.6 % | [333-1-131](http://www.heroesfire.com/hots/talent-calculator/nova#osgx) | 
+270    | 63.0 % | [333-2-123](http://www.heroesfire.com/hots/talent-calculator/nova#oswR) | 
+199    | 62.8 % | [332-2-133](http://www.heroesfire.com/hots/talent-calculator/nova#oqUL) | 

@@ -15,14 +15,13 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Aba
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-923    | 63.5 % | [412-1-234](http://www.heroesfire.com/hots/talent-calculator/abathur#rtaI) | * Highest popularity talents, individually
-214    | 63.1 % | [222-1-234](http://www.heroesfire.com/hots/talent-calculator/abathur#kdio) | 
-159    | 62.9 % | [422-1-234](http://www.heroesfire.com/hots/talent-calculator/abathur#sF-o) | 
-141    | 61.0 % | [412-1-231](http://www.heroesfire.com/hots/talent-calculator/abathur#rtaF) | 
-442    | 60.2 % | [212-1-234](http://www.heroesfire.com/hots/talent-calculator/abathur#kFII) | 
-237    | 59.1 % | [141-1-413](http://www.heroesfire.com/hots/talent-calculator/abathur#hX_L) | 
-150    | 58.7 % | [412-1-233](http://www.heroesfire.com/hots/talent-calculator/abathur#rtaH) | 
-133    | 58.7 % | [241-1-234](http://www.heroesfire.com/hots/talent-calculator/abathur#lM5Y) | 
-177    | 56.5 % | [224-1-234](http://www.heroesfire.com/hots/talent-calculator/abathur#kibI) | 
-147    | 56.5 % | [141-2-413](http://www.heroesfire.com/hots/talent-calculator/abathur#hYEz) | 
-N/A    | N/A    | [412-1-134](http://www.heroesfire.com/hots/talent-calculator/abathur#rtYk) | * Highest win percentage talents, individually
+253    | 64.4 % | [412-1-234](http://www.heroesfire.com/hots/talent-calculator/abathur#rtaI) | * Highest popularity talents, individually <br/>** Highest win percentage talents, individually
+146    | 63.7 % | [212-1-234](http://www.heroesfire.com/hots/talent-calculator/abathur#kFII) | 
+26     | ??.? % | [241-1-234](http://www.heroesfire.com/hots/talent-calculator/abathur#lM5Y) | 
+54     | ??.? % | [222-1-234](http://www.heroesfire.com/hots/talent-calculator/abathur#kdio) | 
+63     | ??.? % | [412-1-233](http://www.heroesfire.com/hots/talent-calculator/abathur#rtaH) | 
+46     | ??.? % | [422-1-234](http://www.heroesfire.com/hots/talent-calculator/abathur#sF-o) | 
+41     | ??.? % | [412-1-231](http://www.heroesfire.com/hots/talent-calculator/abathur#rtaF) | 
+39     | ??.? % | [141-2-413](http://www.heroesfire.com/hots/talent-calculator/abathur#hYEz) | 
+43     | ??.? % | [224-1-234](http://www.heroesfire.com/hots/talent-calculator/abathur#kibI) | 
+66     | ??.? % | [141-1-413](http://www.heroesfire.com/hots/talent-calculator/abathur#hX_L) | 

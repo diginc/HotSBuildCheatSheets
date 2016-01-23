@@ -15,14 +15,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Dia
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-616    | 71.9 % | [331-1-211](http://www.heroesfire.com/hots/talent-calculator/diablo#onph) | 
-2514   | 70.2 % | [232-1-211](http://www.heroesfire.com/hots/talent-calculator/diablo#l06x) | 
-1575   | 70.2 % | [231-1-211](http://www.heroesfire.com/hots/talent-calculator/diablo#kzgh) | 
-1850   | 70.0 % | [231-1-213](http://www.heroesfire.com/hots/talent-calculator/diablo#kzgj) | 
-1085   | 69.7 % | [232-1-241](http://www.heroesfire.com/hots/talent-calculator/diablo#l07P) | 
-1208   | 69.5 % | [232-2-212](http://www.heroesfire.com/hots/talent-calculator/diablo#l0Ma) | 
-3085   | 69.4 % | [232-1-213](http://www.heroesfire.com/hots/talent-calculator/diablo#l06z) | * Highest popularity talents, individually
-1383   | 68.7 % | [232-1-243](http://www.heroesfire.com/hots/talent-calculator/diablo#l07R) | 
-596    | 68.5 % | [231-1-243](http://www.heroesfire.com/hots/talent-calculator/diablo#kzhB) | 
-1177   | 67.5 % | [231-2-212](http://www.heroesfire.com/hots/talent-calculator/diablo#kzwK) | 
+377    | 77.7 % | [231-1-213](http://www.heroesfire.com/hots/talent-calculator/diablo#kzgj) | 
+141    | 73.8 % | [332-1-211](http://www.heroesfire.com/hots/talent-calculator/diablo#oqFx) | 
+135    | 71.9 % | [331-1-211](http://www.heroesfire.com/hots/talent-calculator/diablo#onph) | 
+677    | 70.9 % | [232-1-213](http://www.heroesfire.com/hots/talent-calculator/diablo#l06z) | 
+337    | 70.6 % | [232-1-243](http://www.heroesfire.com/hots/talent-calculator/diablo#l07R) | 
+246    | 70.3 % | [232-2-212](http://www.heroesfire.com/hots/talent-calculator/diablo#l0Ma) | 
+637    | 69.7 % | [232-1-211](http://www.heroesfire.com/hots/talent-calculator/diablo#l06x) | * Highest popularity talents, individually
+392    | 68.4 % | [231-1-211](http://www.heroesfire.com/hots/talent-calculator/diablo#kzgh) | 
+253    | 68.0 % | [232-1-241](http://www.heroesfire.com/hots/talent-calculator/diablo#l07P) | 
+258    | 67.8 % | [231-2-212](http://www.heroesfire.com/hots/talent-calculator/diablo#kzwK) | 
 N/A    | N/A    | [231-1-214](http://www.heroesfire.com/hots/talent-calculator/diablo#kzgk) | * Highest win percentage talents, individually

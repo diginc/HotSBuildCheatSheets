@@ -15,14 +15,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Uth
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-725    | 60.6 % | [111-1-443](http://www.heroesfire.com/hots/talent-calculator/uther#gOmJ) | 
-307    | 59.6 % | [143-1-443](http://www.heroesfire.com/hots/talent-calculator/uther#hcuJ) | 
-681    | 59.5 % | [141-1-443](http://www.heroesfire.com/hots/talent-calculator/uther#hX_p) | 
-552    | 58.9 % | [114-1-443](http://www.heroesfire.com/hots/talent-calculator/uther#gW53) | 
-328    | 58.8 % | [111-1-423](http://www.heroesfire.com/hots/talent-calculator/uther#gOl_) | 
-346    | 58.1 % | [142-1-443](http://www.heroesfire.com/hots/talent-calculator/uther#haS3) | 
-408    | 56.6 % | [144-1-423](http://www.heroesfire.com/hots/talent-calculator/uther#hfKF) | 
-526    | 56.1 % | [145-1-443](http://www.heroesfire.com/hots/talent-calculator/uther#hhmp) | 
-3868   | 55.5 % | [144-1-443](http://www.heroesfire.com/hots/talent-calculator/uther#hfKZ) | * Highest popularity talents, individually
-422    | 55.2 % | [144-1-444](http://www.heroesfire.com/hots/talent-calculator/uther#hfKa) | 
-N/A    | N/A    | [313-1-324](http://www.heroesfire.com/hots/talent-calculator/uther#o5uy) | * Highest win percentage talents, individually
+116    | 68.1 % | [111-1-443](http://www.heroesfire.com/hots/talent-calculator/uther#gOmJ) | 
+144    | 61.8 % | [144-1-423](http://www.heroesfire.com/hots/talent-calculator/uther#hfKF) | 
+112    | 61.6 % | [141-1-443](http://www.heroesfire.com/hots/talent-calculator/uther#hX_p) | 
+210    | 60.0 % | [114-1-443](http://www.heroesfire.com/hots/talent-calculator/uther#gW53) | 
+141    | 59.6 % | [144-1-444](http://www.heroesfire.com/hots/talent-calculator/uther#hfKa) | 
+1314   | 57.9 % | [144-1-443](http://www.heroesfire.com/hots/talent-calculator/uther#hfKZ) | * Highest popularity talents, individually
+95     | ??.? % | [145-1-443](http://www.heroesfire.com/hots/talent-calculator/uther#hhmp) | 
+47     | ??.? % | [114-1-423](http://www.heroesfire.com/hots/talent-calculator/uther#gW4l) | 
+55     | ??.? % | [144-1-441](http://www.heroesfire.com/hots/talent-calculator/uther#hfKX) | 
+62     | ??.? % | [144-1-243](http://www.heroesfire.com/hots/talent-calculator/uther#hfHR) | 
+N/A    | N/A    | [321-2-124](http://www.heroesfire.com/hots/talent-calculator/uther#oPdS) | * Highest win percentage talents, individually

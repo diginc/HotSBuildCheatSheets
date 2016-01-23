@@ -15,14 +15,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Bri
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-201    | 60.2 % | [111-1-323](http://www.heroesfire.com/hots/talent-calculator/brightwing#gOkR) | 
-123    | 58.5 % | [232-1-324](http://www.heroesfire.com/hots/talent-calculator/brightwing#l08i) | 
-112    | 54.5 % | [212-1-324](http://www.heroesfire.com/hots/talent-calculator/brightwing#kFJi) | 
-84     | ??.? % | [212-1-323](http://www.heroesfire.com/hots/talent-calculator/brightwing#kFJh) | * Highest popularity talents, individually
-57     | ??.? % | [232-1-314](http://www.heroesfire.com/hots/talent-calculator/brightwing#l08Y) | 
-74     | ??.? % | [232-1-321](http://www.heroesfire.com/hots/talent-calculator/brightwing#l08f) | 
-78     | ??.? % | [212-1-321](http://www.heroesfire.com/hots/talent-calculator/brightwing#kFJf) | 
-74     | ??.? % | [212-1-334](http://www.heroesfire.com/hots/talent-calculator/brightwing#kFJs) | 
-74     | ??.? % | [111-1-333](http://www.heroesfire.com/hots/talent-calculator/brightwing#gOkb) | 
-85     | ??.? % | [232-1-334](http://www.heroesfire.com/hots/talent-calculator/brightwing#l08s) | 
-N/A    | N/A    | [242-1-321](http://www.heroesfire.com/hots/talent-calculator/brightwing#lOZ9) | * Highest win percentage talents, individually
+69     | ??.? % | [111-1-323](http://www.heroesfire.com/hots/talent-calculator/brightwing#gOkR) | 
+41     | ??.? % | [212-1-323](http://www.heroesfire.com/hots/talent-calculator/brightwing#kFJh) | * Highest popularity talents, individually
+27     | ??.? % | [212-1-331](http://www.heroesfire.com/hots/talent-calculator/brightwing#kFJp) | 
+28     | ??.? % | [232-1-321](http://www.heroesfire.com/hots/talent-calculator/brightwing#l08f) | 
+38     | ??.? % | [212-1-334](http://www.heroesfire.com/hots/talent-calculator/brightwing#kFJs) | 
+35     | ??.? % | [232-1-334](http://www.heroesfire.com/hots/talent-calculator/brightwing#l08s) | 
+26     | ??.? % | [232-1-314](http://www.heroesfire.com/hots/talent-calculator/brightwing#l08Y) | 
+88     | ??.? % | [232-1-324](http://www.heroesfire.com/hots/talent-calculator/brightwing#l08i) | 
+28     | ??.? % | [232-1-323](http://www.heroesfire.com/hots/talent-calculator/brightwing#l08h) | 
+64     | ??.? % | [212-1-324](http://www.heroesfire.com/hots/talent-calculator/brightwing#kFJi) | 
+N/A    | N/A    | [111-1-322](http://www.heroesfire.com/hots/talent-calculator/brightwing#gOkQ) | * Highest win percentage talents, individually
