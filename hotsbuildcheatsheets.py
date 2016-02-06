@@ -11,9 +11,9 @@ HEROES = [
     "Abathur", "Anub'arak", "Artanis", "Arthas", "Azmodan", "Brightwing",
     "Chen", "Cho", "Diablo", "E.T.C.", "Falstad", "Gall", "Gazlowe",
     "Greymane", "Illidan", "Jaina", "Johanna", "Kael'Thas", "Kerrigan",
-    "Kharazim", "Leoric", "Li Li", "Lt. Morales", "Lunara", "Malfurion",
-    "Muradin", "Murky", "Nazeebo", "Nova", "Raynor", "Rehgar", "Rexxar",
-    "Sgt. Hammer", "Sonya", "Stitches", "Sylvanas", "Tassadar",
+    "Kharazim", "Leoric", "Li-Ming", "Li Li", "Lt. Morales", "Lunara",
+    "Malfurion", "Muradin", "Murky", "Nazeebo", "Nova", "Raynor", "Rehgar",
+    "Rexxar", "Sgt. Hammer", "Sonya", "Stitches", "Sylvanas", "Tassadar",
     "The Butcher", "The Lost Vikings", "Thrall", "Tychus", "Tyrael",
     "Tyrande", "Uther", "Sonya", "Valla", "Zagara", "Zeratul"
 ]

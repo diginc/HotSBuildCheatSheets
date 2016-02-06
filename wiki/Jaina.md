@@ -1,7 +1,9 @@
 #### Updates
-**Update 2016/01/13 - Added Greymane, by Trust**
+**Update 2016/02/07 - Added Li-Ming, updated all stats, by Trust**
 
-Update 2016/01/08 - Updated all stats, Added Artanis, Cho'Gall, Lunara, by Trust
+Update 2016/01/13 - Added Greymane, by Trust
+
+Update 2016/01/08 - Added Artanis, Cho'Gall, Lunara, by Trust
 
 Update 2015/09/25 - Kharazim added thanks to PR by Anubis Black
 
@@ -15,14 +17,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Jai
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-222    | 61.7 % | [422-2-224](http://www.heroesfire.com/hots/talent-calculator/jaina#sGEG) | 
-448    | 60.3 % | [322-1-224](http://www.heroesfire.com/hots/talent-calculator/jaina#oRre) | * Highest popularity talents, individually
-170    | 59.4 % | [222-2-224](http://www.heroesfire.com/hots/talent-calculator/jaina#kdyG) | 
-370    | 57.6 % | [322-2-224](http://www.heroesfire.com/hots/talent-calculator/jaina#oS5G) | 
-192    | 57.3 % | [322-2-234](http://www.heroesfire.com/hots/talent-calculator/jaina#oS5Q) | 
-251    | 56.2 % | [222-1-224](http://www.heroesfire.com/hots/talent-calculator/jaina#kdie) | 
-293    | 56.0 % | [422-1-224](http://www.heroesfire.com/hots/talent-calculator/jaina#sF-e) | 
-120    | 55.8 % | [422-1-234](http://www.heroesfire.com/hots/talent-calculator/jaina#sF-o) | 
-128    | 55.5 % | [322-1-124](http://www.heroesfire.com/hots/talent-calculator/jaina#oRq4) | 
-130    | 55.4 % | [322-1-234](http://www.heroesfire.com/hots/talent-calculator/jaina#oRro) | 
-N/A    | N/A    | [223-2-322](http://www.heroesfire.com/hots/talent-calculator/jaina#kgQ2) | * Highest win percentage talents, individually
+513    | 63.2 % | [322-2-224](http://www.heroesfire.com/hots/talent-calculator/jaina#oS5G) | 
+241    | 60.2 % | [222-2-224](http://www.heroesfire.com/hots/talent-calculator/jaina#kdyG) | 
+198    | 57.6 % | [222-1-111](http://www.heroesfire.com/hots/talent-calculator/jaina#kdgt) | 
+232    | 57.3 % | [322-2-234](http://www.heroesfire.com/hots/talent-calculator/jaina#oS5Q) | 
+201    | 56.7 % | [322-1-234](http://www.heroesfire.com/hots/talent-calculator/jaina#oRro) | 
+282    | 56.4 % | [422-2-224](http://www.heroesfire.com/hots/talent-calculator/jaina#sGEG) | 
+714    | 55.7 % | [322-1-224](http://www.heroesfire.com/hots/talent-calculator/jaina#oRre) | * Highest popularity talents, individually
+452    | 54.9 % | [422-1-224](http://www.heroesfire.com/hots/talent-calculator/jaina#sF-e) | 
+434    | 54.6 % | [222-1-224](http://www.heroesfire.com/hots/talent-calculator/jaina#kdie) | 
+187    | 53.5 % | [322-1-124](http://www.heroesfire.com/hots/talent-calculator/jaina#oRq4) | 
+N/A    | N/A    | [213-2-313](http://www.heroesfire.com/hots/talent-calculator/jaina#kH_P) | * Highest win percentage talents, individually

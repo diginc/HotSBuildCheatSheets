@@ -1,7 +1,9 @@
 #### Updates
-**Update 2016/01/13 - Added Greymane, by Trust**
+**Update 2016/02/07 - Added Li-Ming, updated all stats, by Trust**
 
-Update 2016/01/08 - Updated all stats, Added Artanis, Cho'Gall, Lunara, by Trust
+Update 2016/01/13 - Added Greymane, by Trust
+
+Update 2016/01/08 - Added Artanis, Cho'Gall, Lunara, by Trust
 
 Update 2015/09/25 - Kharazim added thanks to PR by Anubis Black
 
@@ -15,15 +17,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Ill
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-100    | 50.0 % | [235-1-531](http://www.heroesfire.com/hots/talent-calculator/illidan#l7Wh) | 
-22     | ??.? % | [235-2-543](http://www.heroesfire.com/hots/talent-calculator/illidan#l7mV) | 
-35     | ??.? % | [235-2-533](http://www.heroesfire.com/hots/talent-calculator/illidan#l7mL) | 
-29     | ??.? % | [235-1-533](http://www.heroesfire.com/hots/talent-calculator/illidan#l7Wj) | 
-20     | ??.? % | [235-2-123](http://www.heroesfire.com/hots/talent-calculator/illidan#l7fx) | 
-77     | ??.? % | [235-1-541](http://www.heroesfire.com/hots/talent-calculator/illidan#l7Wr) | 
-46     | ??.? % | [235-2-133](http://www.heroesfire.com/hots/talent-calculator/illidan#l7g5) | 
-34     | ??.? % | [235-1-141](http://www.heroesfire.com/hots/talent-calculator/illidan#l7Qb) | 
-24     | ??.? % | [235-2-532](http://www.heroesfire.com/hots/talent-calculator/illidan#l7mK) | 
-46     | ??.? % | [235-1-131](http://www.heroesfire.com/hots/talent-calculator/illidan#l7QR) | 
-N/A    | N/A    | [235-1-133](http://www.heroesfire.com/hots/talent-calculator/illidan#l7QT) | * Highest popularity talents, individually
-N/A    | N/A    | [235-2-142](http://www.heroesfire.com/hots/talent-calculator/illidan#l7gE) | * Highest win percentage talents, individually
+405    | 69.1 % | [235-1-541](http://www.heroesfire.com/hots/talent-calculator/illidan#l7Wr) | 
+131    | 67.9 % | [235-2-533](http://www.heroesfire.com/hots/talent-calculator/illidan#l7mL) | 
+185    | 67.6 % | [235-2-133](http://www.heroesfire.com/hots/talent-calculator/illidan#l7g5) | 
+505    | 63.2 % | [235-1-531](http://www.heroesfire.com/hots/talent-calculator/illidan#l7Wh) | 
+195    | 62.1 % | [235-1-131](http://www.heroesfire.com/hots/talent-calculator/illidan#l7QR) | 
+105    | 51.4 % | [235-1-533](http://www.heroesfire.com/hots/talent-calculator/illidan#l7Wj) | * Highest popularity talents, individually
+63     | ??.? % | [235-2-123](http://www.heroesfire.com/hots/talent-calculator/illidan#l7fx) | 
+69     | ??.? % | [235-1-141](http://www.heroesfire.com/hots/talent-calculator/illidan#l7Qb) | 
+92     | ??.? % | [235-2-543](http://www.heroesfire.com/hots/talent-calculator/illidan#l7mV) | 
+62     | ??.? % | [235-1-133](http://www.heroesfire.com/hots/talent-calculator/illidan#l7QT) | 
+N/A    | N/A    | [334-2-143](http://www.heroesfire.com/hots/talent-calculator/illidan#ovM_) | * Highest win percentage talents, individually

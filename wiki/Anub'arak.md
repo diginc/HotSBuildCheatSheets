@@ -1,7 +1,9 @@
 #### Updates
-**Update 2016/01/13 - Added Greymane, by Trust**
+**Update 2016/02/07 - Added Li-Ming, updated all stats, by Trust**
 
-Update 2016/01/08 - Updated all stats, Added Artanis, Cho'Gall, Lunara, by Trust
+Update 2016/01/13 - Added Greymane, by Trust
+
+Update 2016/01/08 - Added Artanis, Cho'Gall, Lunara, by Trust
 
 Update 2015/09/25 - Kharazim added thanks to PR by Anubis Black
 
@@ -15,15 +17,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Anu
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-9      | ??.? % | [444-1-141](http://www.heroesfire.com/hots/talent-calculator/anubarak#t5gr) | 
-25     | ??.? % | [344-1-141](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHXr) | 
-22     | ??.? % | [444-1-131](http://www.heroesfire.com/hots/talent-calculator/anubarak#t5gh) | 
-24     | ??.? % | [344-1-121](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHXX) | 
-9      | ??.? % | [444-2-133](http://www.heroesfire.com/hots/talent-calculator/anubarak#t5wL) | 
-11     | ??.? % | [444-2-143](http://www.heroesfire.com/hots/talent-calculator/anubarak#t5wV) | 
-32     | ??.? % | [344-1-131](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHXh) | 
-9      | ??.? % | [344-2-133](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHnL) | 
-15     | ??.? % | [344-2-143](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHnV) | 
-9      | ??.? % | [344-1-143](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHXt) | 
-N/A    | N/A    | [444-1-143](http://www.heroesfire.com/hots/talent-calculator/anubarak#t5gt) | * Highest popularity talents, individually
-N/A    | N/A    | [442-1-121](http://www.heroesfire.com/hots/talent-calculator/anubarak#t0o1) | * Highest win percentage talents, individually
+37     | ??.? % | [344-1-131](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHXh) | 
+60     | ??.? % | [344-1-141](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHXr) | 
+35     | ??.? % | [444-1-131](http://www.heroesfire.com/hots/talent-calculator/anubarak#t5gh) | 
+42     | ??.? % | [344-1-121](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHXX) | 
+27     | ??.? % | [444-1-141](http://www.heroesfire.com/hots/talent-calculator/anubarak#t5gr) | 
+23     | ??.? % | [444-2-133](http://www.heroesfire.com/hots/talent-calculator/anubarak#t5wL) | 
+26     | ??.? % | [442-2-143](http://www.heroesfire.com/hots/talent-calculator/anubarak#t11_) | 
+42     | ??.? % | [344-2-143](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHnV) | 
+25     | ??.? % | [344-2-144](http://www.heroesfire.com/hots/talent-calculator/anubarak#pHnW) | 
+29     | ??.? % | [444-2-143](http://www.heroesfire.com/hots/talent-calculator/anubarak#t5wV) | * Highest popularity talents, individually
+N/A    | N/A    | [443-1-111](http://www.heroesfire.com/hots/talent-calculator/anubarak#t3E7) | * Highest win percentage talents, individually
