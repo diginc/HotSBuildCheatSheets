@@ -17,14 +17,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Lt.
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-198    | 65.2 % | [223-1-113](http://www.heroesfire.com/hots/talent-calculator/lt-morales#kg79) | 
-185    | 64.9 % | [212-1-213](http://www.heroesfire.com/hots/talent-calculator/lt-morales#kFHz) | 
-184    | 60.9 % | [212-1-223](http://www.heroesfire.com/hots/talent-calculator/lt-morales#kFI7) | 
-425    | 60.5 % | [223-1-213](http://www.heroesfire.com/hots/talent-calculator/lt-morales#kg8j) | 
-768    | 60.2 % | [222-1-213](http://www.heroesfire.com/hots/talent-calculator/lt-morales#kdiT) | * Highest popularity talents, individually
-194    | 59.8 % | [223-1-223](http://www.heroesfire.com/hots/talent-calculator/lt-morales#kg8t) | 
-303    | 57.8 % | [222-1-223](http://www.heroesfire.com/hots/talent-calculator/lt-morales#kdid) | 
-250    | 56.4 % | [222-1-113](http://www.heroesfire.com/hots/talent-calculator/lt-morales#kdgv) | 
-243    | 55.1 % | [221-1-213](http://www.heroesfire.com/hots/talent-calculator/lt-morales#kbGD) | 
-393    | 54.5 % | [224-1-213](http://www.heroesfire.com/hots/talent-calculator/lt-morales#kiaz) | 
+205    | 65.4 % | [223-1-113](http://www.heroesfire.com/hots/talent-calculator/lt-morales#kg79) | 
+191    | 63.4 % | [212-1-213](http://www.heroesfire.com/hots/talent-calculator/lt-morales#kFHz) | 
+188    | 61.7 % | [224-1-113](http://www.heroesfire.com/hots/talent-calculator/lt-morales#kiZP) | 
+435    | 60.9 % | [223-1-213](http://www.heroesfire.com/hots/talent-calculator/lt-morales#kg8j) | 
+198    | 60.1 % | [223-1-223](http://www.heroesfire.com/hots/talent-calculator/lt-morales#kg8t) | 
+785    | 60.0 % | [222-1-213](http://www.heroesfire.com/hots/talent-calculator/lt-morales#kdiT) | * Highest popularity talents, individually
+310    | 57.4 % | [222-1-223](http://www.heroesfire.com/hots/talent-calculator/lt-morales#kdid) | 
+255    | 56.5 % | [222-1-113](http://www.heroesfire.com/hots/talent-calculator/lt-morales#kdgv) | 
+248    | 55.7 % | [221-1-213](http://www.heroesfire.com/hots/talent-calculator/lt-morales#kbGD) | 
+401    | 53.9 % | [224-1-213](http://www.heroesfire.com/hots/talent-calculator/lt-morales#kiaz) | 
 N/A    | N/A    | [342-1-333](http://www.heroesfire.com/hots/talent-calculator/lt-morales#pCiL) | * Highest win percentage talents, individually

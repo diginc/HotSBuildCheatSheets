@@ -17,13 +17,13 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Naz
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-465    | 69.3 % | [211-1-321](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kCtP) | 
-327    | 68.8 % | [211-1-221](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kCrr) | 
-950    | 66.1 % | [211-1-121](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kCqH) | * Highest popularity talents, individually <br/>** Highest win percentage talents, individually
-279    | 66.0 % | [211-2-122](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kD3w) | 
-202    | 65.4 % | [211-1-131](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kCqR) | 
-126    | 62.7 % | [211-2-222](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kD5U) | 
-346    | 60.1 % | [211-2-322](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kD72) | 
-133    | 58.7 % | [211-1-124](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kCqK) | 
-130    | 58.5 % | [211-2-324](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kD74) | 
-134    | 54.5 % | [211-1-324](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kCtS) | 
+488    | 69.5 % | [211-1-321](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kCtP) | 
+351    | 68.1 % | [211-1-221](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kCrr) | 
+980    | 66.2 % | [211-1-121](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kCqH) | * Highest popularity talents, individually <br/>** Highest win percentage talents, individually
+288    | 65.6 % | [211-2-122](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kD3w) | 
+213    | 65.3 % | [211-1-131](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kCqR) | 
+139    | 62.6 % | [211-2-222](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kD5U) | 
+373    | 59.0 % | [211-2-322](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kD72) | 
+145    | 58.6 % | [211-1-124](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kCqK) | 
+133    | 57.9 % | [211-2-324](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kD74) | 
+137    | 55.5 % | [211-1-324](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kCtS) | 

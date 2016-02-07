@@ -17,15 +17,15 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Zer
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-103    | 68.0 % | [451-2-314](http://www.heroesfire.com/hots/talent-calculator/zeratul#tN2w) | 
-180    | 65.6 % | [415-1-443](http://www.heroesfire.com/hots/talent-calculator/zeratul#r-yJ) | 
-111    | 64.9 % | [411-2-314](http://www.heroesfire.com/hots/talent-calculator/zeratul#rrOw) | 
-720    | 64.6 % | [515-1-443](http://www.heroesfire.com/hots/talent-calculator/zeratul#vp5J) | 
-107    | 61.7 % | [415-1-441](http://www.heroesfire.com/hots/talent-calculator/zeratul#r-yH) | 
-101    | 60.4 % | [515-1-143](http://www.heroesfire.com/hots/talent-calculator/zeratul#vp0d) | 
-336    | 58.3 % | [515-1-441](http://www.heroesfire.com/hots/talent-calculator/zeratul#vp5H) | 
-87     | ??.? % | [511-1-443](http://www.heroesfire.com/hots/talent-calculator/zeratul#vfKJ) | 
-93     | ??.? % | [515-1-433](http://www.heroesfire.com/hots/talent-calculator/zeratul#vp59) | 
-91     | ??.? % | [232-2-314](http://www.heroesfire.com/hots/talent-calculator/zeratul#l0OA) | 
+110    | 67.3 % | [451-2-314](http://www.heroesfire.com/hots/talent-calculator/zeratul#tN2w) | 
+121    | 66.1 % | [411-2-314](http://www.heroesfire.com/hots/talent-calculator/zeratul#rrOw) | 
+192    | 65.6 % | [415-1-443](http://www.heroesfire.com/hots/talent-calculator/zeratul#r-yJ) | 
+763    | 65.0 % | [515-1-443](http://www.heroesfire.com/hots/talent-calculator/zeratul#vp5J) | 
+113    | 62.0 % | [415-1-441](http://www.heroesfire.com/hots/talent-calculator/zeratul#r-yH) | 
+107    | 60.8 % | [515-1-143](http://www.heroesfire.com/hots/talent-calculator/zeratul#vp0d) | 
+351    | 58.1 % | [515-1-441](http://www.heroesfire.com/hots/talent-calculator/zeratul#vp5H) | 
+94     | ??.? % | [511-1-443](http://www.heroesfire.com/hots/talent-calculator/zeratul#vfKJ) | 
+98     | ??.? % | [515-1-433](http://www.heroesfire.com/hots/talent-calculator/zeratul#vp59) | 
+99     | ??.? % | [232-2-314](http://www.heroesfire.com/hots/talent-calculator/zeratul#l0OA) | 
 N/A    | N/A    | [511-2-413](http://www.heroesfire.com/hots/talent-calculator/zeratul#vfZT) | * Highest popularity talents, individually
 N/A    | N/A    | [425-1-443](http://www.heroesfire.com/hots/talent-calculator/zeratul#sNMp) | * Highest win percentage talents, individually

@@ -17,14 +17,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Lun
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-113    | 61.1 % | [312-1-421](http://www.heroesfire.com/hots/talent-calculator/lunara#o3UD) | 
-172    | 58.7 % | [312-1-221](http://www.heroesfire.com/hots/talent-calculator/lunara#o3R5) | 
-65     | ??.? % | [312-1-331](http://www.heroesfire.com/hots/talent-calculator/lunara#o3Sp) | 
-65     | ??.? % | [112-1-431](http://www.heroesfire.com/hots/talent-calculator/lunara#gRCN) | 
-65     | ??.? % | [412-1-331](http://www.heroesfire.com/hots/talent-calculator/lunara#rtbp) | 
-76     | ??.? % | [112-1-331](http://www.heroesfire.com/hots/talent-calculator/lunara#gRAp) | 
-74     | ??.? % | [412-1-431](http://www.heroesfire.com/hots/talent-calculator/lunara#rtdN) | 
-67     | ??.? % | [112-1-221](http://www.heroesfire.com/hots/talent-calculator/lunara#gR95) | 
-64     | ??.? % | [312-1-423](http://www.heroesfire.com/hots/talent-calculator/lunara#o3UF) | 
-87     | ??.? % | [312-1-231](http://www.heroesfire.com/hots/talent-calculator/lunara#o3RF) | * Highest popularity talents, individually
-N/A    | N/A    | [331-1-243](http://www.heroesfire.com/hots/talent-calculator/lunara#onqB) | * Highest win percentage talents, individually
+120    | 60.8 % | [312-1-421](http://www.heroesfire.com/hots/talent-calculator/lunara#o3UD) | 
+185    | 58.9 % | [312-1-221](http://www.heroesfire.com/hots/talent-calculator/lunara#o3R5) | 
+67     | ??.? % | [112-1-431](http://www.heroesfire.com/hots/talent-calculator/lunara#gRCN) | 
+84     | ??.? % | [112-1-331](http://www.heroesfire.com/hots/talent-calculator/lunara#gRAp) | 
+71     | ??.? % | [312-1-331](http://www.heroesfire.com/hots/talent-calculator/lunara#o3Sp) | 
+74     | ??.? % | [412-1-331](http://www.heroesfire.com/hots/talent-calculator/lunara#rtbp) | 
+84     | ??.? % | [412-1-431](http://www.heroesfire.com/hots/talent-calculator/lunara#rtdN) | 
+73     | ??.? % | [112-1-221](http://www.heroesfire.com/hots/talent-calculator/lunara#gR95) | 
+69     | ??.? % | [312-1-423](http://www.heroesfire.com/hots/talent-calculator/lunara#o3UF) | 
+90     | ??.? % | [312-1-231](http://www.heroesfire.com/hots/talent-calculator/lunara#o3RF) | * Highest popularity talents, individually
+N/A    | N/A    | [331-1-241](http://www.heroesfire.com/hots/talent-calculator/lunara#onq9) | * Highest win percentage talents, individually
