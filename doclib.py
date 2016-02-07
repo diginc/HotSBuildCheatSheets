@@ -1,8 +1,10 @@
 NEWS = [
     '''#### Updates
-**Update 2016/01/13 - Added Greymane, by Trust**
+**Update 2016/02/07 - Added Li-Ming, updated all stats, by Trust**
 
-Update 2016/01/08 - Updated all stats, Added Artanis, Cho'Gall, Lunara, by Trust
+Update 2016/01/13 - Added Greymane, by Trust
+
+Update 2016/01/08 - Added Artanis, Cho'Gall, Lunara, by Trust
 
 Update 2015/09/25 - Kharazim added thanks to PR by Anubis Black
 
