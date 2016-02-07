@@ -1,7 +1,9 @@
 #### Updates
-**Update 2016/01/13 - Added Greymane, by Trust**
+**Update 2016/02/07 - Added Li-Ming, updated all stats, by Trust**
 
-Update 2016/01/08 - Updated all stats, Added Artanis, Cho'Gall, Lunara, by Trust
+Update 2016/01/13 - Added Greymane, by Trust
+
+Update 2016/01/08 - Added Artanis, Cho'Gall, Lunara, by Trust
 
 Update 2015/09/25 - Kharazim added thanks to PR by Anubis Black
 
@@ -15,15 +17,15 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Gal
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-47     | ??.? % | [141-1-131](http://www.heroesfire.com/hots/talent-calculator/gall#hXwx) | 
+46     | ??.? % | [141-1-131](http://www.heroesfire.com/hots/talent-calculator/gall#hXwx) | 
+32     | ??.? % | [111-1-341](http://www.heroesfire.com/hots/talent-calculator/gall#gOkj) | 
 31     | ??.? % | [141-1-331](http://www.heroesfire.com/hots/talent-calculator/gall#hX-3) | 
-33     | ??.? % | [111-1-341](http://www.heroesfire.com/hots/talent-calculator/gall#gOkj) | 
-24     | ??.? % | [113-1-141](http://www.heroesfire.com/hots/talent-calculator/gall#gTa5) | 
 21     | ??.? % | [121-1-331](http://www.heroesfire.com/hots/talent-calculator/gall#gn93) | 
 26     | ??.? % | [121-1-341](http://www.heroesfire.com/hots/talent-calculator/gall#gn9D) | 
-27     | ??.? % | [123-1-341](http://www.heroesfire.com/hots/talent-calculator/gall#gs1j) | 
-55     | ??.? % | [113-1-341](http://www.heroesfire.com/hots/talent-calculator/gall#gTdD) | 
-26     | ??.? % | [113-1-131](http://www.heroesfire.com/hots/talent-calculator/gall#gTZx) | 
+22     | ??.? % | [113-1-141](http://www.heroesfire.com/hots/talent-calculator/gall#gTa5) | 
+24     | ??.? % | [123-1-341](http://www.heroesfire.com/hots/talent-calculator/gall#gs1j) | 
+51     | ??.? % | [113-1-341](http://www.heroesfire.com/hots/talent-calculator/gall#gTdD) | 
+23     | ??.? % | [113-1-131](http://www.heroesfire.com/hots/talent-calculator/gall#gTZx) | 
 21     | ??.? % | [113-1-311](http://www.heroesfire.com/hots/talent-calculator/gall#gTcl) | 
 N/A    | N/A    | [133-1-311](http://www.heroesfire.com/hots/talent-calculator/gall#hERl) | * Highest popularity talents, individually
-N/A    | N/A    | [233-1-233](http://www.heroesfire.com/hots/talent-calculator/gall#l2ZX) | * Highest win percentage talents, individually
+N/A    | N/A    | [233-1-231](http://www.heroesfire.com/hots/talent-calculator/gall#l2ZV) | * Highest win percentage talents, individually
