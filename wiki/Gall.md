@@ -15,13 +15,15 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Gal
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-155    | 72.3 % | [121-1-321](http://www.heroesfire.com/hots/talent-calculator/gall#gn8v) | 
-173    | 63.6 % | [123-1-321](http://www.heroesfire.com/hots/talent-calculator/gall#gs1P) | * Highest win percentage talents, individually
-92     | ??.? % | [123-1-311](http://www.heroesfire.com/hots/talent-calculator/gall#gs1F) | * Highest popularity talents, individually
-42     | ??.? % | [121-1-121](http://www.heroesfire.com/hots/talent-calculator/gall#gn5n) | 
-75     | ??.? % | [121-1-311](http://www.heroesfire.com/hots/talent-calculator/gall#gn8l) | 
-60     | ??.? % | [122-1-321](http://www.heroesfire.com/hots/talent-calculator/gall#gpb9) | 
-48     | ??.? % | [121-1-111](http://www.heroesfire.com/hots/talent-calculator/gall#gn5d) | 
-71     | ??.? % | [123-1-111](http://www.heroesfire.com/hots/talent-calculator/gall#gr-7) | 
-75     | ??.? % | [123-1-121](http://www.heroesfire.com/hots/talent-calculator/gall#gr-H) | 
-53     | ??.? % | [132-1-311](http://www.heroesfire.com/hots/talent-calculator/gall#hB_V) | 
+47     | ??.? % | [141-1-131](http://www.heroesfire.com/hots/talent-calculator/gall#hXwx) | 
+31     | ??.? % | [141-1-331](http://www.heroesfire.com/hots/talent-calculator/gall#hX-3) | 
+33     | ??.? % | [111-1-341](http://www.heroesfire.com/hots/talent-calculator/gall#gOkj) | 
+24     | ??.? % | [113-1-141](http://www.heroesfire.com/hots/talent-calculator/gall#gTa5) | 
+21     | ??.? % | [121-1-331](http://www.heroesfire.com/hots/talent-calculator/gall#gn93) | 
+26     | ??.? % | [121-1-341](http://www.heroesfire.com/hots/talent-calculator/gall#gn9D) | 
+27     | ??.? % | [123-1-341](http://www.heroesfire.com/hots/talent-calculator/gall#gs1j) | 
+55     | ??.? % | [113-1-341](http://www.heroesfire.com/hots/talent-calculator/gall#gTdD) | 
+26     | ??.? % | [113-1-131](http://www.heroesfire.com/hots/talent-calculator/gall#gTZx) | 
+21     | ??.? % | [113-1-311](http://www.heroesfire.com/hots/talent-calculator/gall#gTcl) | 
+N/A    | N/A    | [133-1-311](http://www.heroesfire.com/hots/talent-calculator/gall#hERl) | * Highest popularity talents, individually
+N/A    | N/A    | [233-1-233](http://www.heroesfire.com/hots/talent-calculator/gall#l2ZX) | * Highest win percentage talents, individually

@@ -15,15 +15,15 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Val
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-507    | 65.7 % | [233-1-133](http://www.heroesfire.com/hots/talent-calculator/valla#l2Xz) | 
-448    | 64.3 % | [233-1-234](http://www.heroesfire.com/hots/talent-calculator/valla#l2ZY) | 
-294    | 63.3 % | [344-1-231](http://www.heroesfire.com/hots/talent-calculator/valla#pHZF) | 
-396    | 62.6 % | [233-1-233](http://www.heroesfire.com/hots/talent-calculator/valla#l2ZX) | 
-720    | 59.7 % | [424-1-133](http://www.heroesfire.com/hots/talent-calculator/valla#sKrj) | 
-574    | 59.2 % | [344-1-233](http://www.heroesfire.com/hots/talent-calculator/valla#pHZH) | 
-311    | 58.5 % | [424-2-113](http://www.heroesfire.com/hots/talent-calculator/valla#sL51) | 
-442    | 58.4 % | [233-1-123](http://www.heroesfire.com/hots/talent-calculator/valla#l2Xp) | 
-597    | 58.1 % | [344-1-234](http://www.heroesfire.com/hots/talent-calculator/valla#pHZI) | 
-780    | 57.8 % | [424-2-133](http://www.heroesfire.com/hots/talent-calculator/valla#sL5L) | 
+168    | 66.7 % | [233-1-233](http://www.heroesfire.com/hots/talent-calculator/valla#l2ZX) | 
+201    | 65.2 % | [233-1-133](http://www.heroesfire.com/hots/talent-calculator/valla#l2Xz) | 
+140    | 62.9 % | [233-1-234](http://www.heroesfire.com/hots/talent-calculator/valla#l2ZY) | 
+125    | 62.4 % | [344-1-231](http://www.heroesfire.com/hots/talent-calculator/valla#pHZF) | 
+200    | 62.0 % | [233-1-123](http://www.heroesfire.com/hots/talent-calculator/valla#l2Xp) | 
+125    | 61.6 % | [414-2-133](http://www.heroesfire.com/hots/talent-calculator/valla#rygr) | 
+245    | 60.4 % | [344-1-234](http://www.heroesfire.com/hots/talent-calculator/valla#pHZI) | 
+207    | 58.5 % | [344-1-233](http://www.heroesfire.com/hots/talent-calculator/valla#pHZH) | 
+281    | 56.9 % | [424-2-133](http://www.heroesfire.com/hots/talent-calculator/valla#sL5L) | 
+247    | 55.9 % | [424-1-133](http://www.heroesfire.com/hots/talent-calculator/valla#sKrj) | 
 N/A    | N/A    | [433-1-133](http://www.heroesfire.com/hots/talent-calculator/valla#sgpz) | * Highest popularity talents, individually
-N/A    | N/A    | [243-1-231](http://www.heroesfire.com/hots/talent-calculator/valla#lQz_) | * Highest win percentage talents, individually
+N/A    | N/A    | [543-1-241](http://www.heroesfire.com/hots/talent-calculator/valla#wtP9) | * Highest win percentage talents, individually

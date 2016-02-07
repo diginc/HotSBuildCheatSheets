@@ -15,13 +15,15 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Tyr
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-1013   | 73.0 % | [223-1-111](http://www.heroesfire.com/hots/talent-calculator/tyrande#kg77) | 
-2043   | 72.6 % | [233-1-111](http://www.heroesfire.com/hots/talent-calculator/tyrande#l2Xd) | * Highest win percentage talents, individually
-1281   | 71.0 % | [242-1-111](http://www.heroesfire.com/hots/talent-calculator/tyrande#lOVt) | 
-3057   | 70.6 % | [232-1-111](http://www.heroesfire.com/hots/talent-calculator/tyrande#l05N) | * Highest popularity talents, individually
-2244   | 69.6 % | [232-1-114](http://www.heroesfire.com/hots/talent-calculator/tyrande#l05Q) | 
-1392   | 69.3 % | [233-1-114](http://www.heroesfire.com/hots/talent-calculator/tyrande#l2Xg) | 
-979    | 69.3 % | [413-1-131](http://www.heroesfire.com/hots/talent-calculator/tyrande#rv-x) | 
-1041   | 68.8 % | [242-1-114](http://www.heroesfire.com/hots/talent-calculator/tyrande#lOVw) | 
-926    | 68.6 % | [412-1-131](http://www.heroesfire.com/hots/talent-calculator/tyrande#rtYh) | 
-852    | 67.4 % | [412-1-135](http://www.heroesfire.com/hots/talent-calculator/tyrande#rtYl) | 
+296    | 65.2 % | [413-1-135](http://www.heroesfire.com/hots/talent-calculator/tyrande#rv-_) | 
+301    | 63.5 % | [412-1-131](http://www.heroesfire.com/hots/talent-calculator/tyrande#rtYh) | 
+294    | 61.9 % | [413-1-131](http://www.heroesfire.com/hots/talent-calculator/tyrande#rv-x) | 
+253    | 61.7 % | [232-1-111](http://www.heroesfire.com/hots/talent-calculator/tyrande#l05N) | 
+201    | 60.2 % | [413-1-134](http://www.heroesfire.com/hots/talent-calculator/tyrande#rv--) | 
+201    | 59.2 % | [233-1-111](http://www.heroesfire.com/hots/talent-calculator/tyrande#l2Xd) | 
+253    | 58.5 % | [233-1-114](http://www.heroesfire.com/hots/talent-calculator/tyrande#l2Xg) | 
+241    | 58.1 % | [412-1-135](http://www.heroesfire.com/hots/talent-calculator/tyrande#rtYl) | 
+328    | 56.1 % | [232-1-114](http://www.heroesfire.com/hots/talent-calculator/tyrande#l05Q) | 
+236    | 54.7 % | [412-1-134](http://www.heroesfire.com/hots/talent-calculator/tyrande#rtYk) | 
+N/A    | N/A    | [212-1-114](http://www.heroesfire.com/hots/talent-calculator/tyrande#kFGQ) | * Highest popularity talents, individually
+N/A    | N/A    | [433-1-111](http://www.heroesfire.com/hots/talent-calculator/tyrande#sgpd) | * Highest win percentage talents, individually

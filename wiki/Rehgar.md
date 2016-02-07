@@ -15,14 +15,13 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Reh
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-189    | 69.8 % | [111-1-114](http://www.heroesfire.com/hots/talent-calculator/rehgar#gOhA) | 
-134    | 62.7 % | [112-1-314](http://www.heroesfire.com/hots/talent-calculator/rehgar#gRAY) | 
-120    | 62.5 % | [412-1-114](http://www.heroesfire.com/hots/talent-calculator/rehgar#rtYQ) | 
-1169   | 60.2 % | [112-1-114](http://www.heroesfire.com/hots/talent-calculator/rehgar#gR7Q) | * Highest popularity talents, individually
-447    | 58.2 % | [112-1-111](http://www.heroesfire.com/hots/talent-calculator/rehgar#gR7N) | 
-171    | 57.9 % | [122-1-111](http://www.heroesfire.com/hots/talent-calculator/rehgar#gpXt) | 
-140    | 57.1 % | [114-1-114](http://www.heroesfire.com/hots/talent-calculator/rehgar#gV_w) | 
-311    | 56.6 % | [112-1-113](http://www.heroesfire.com/hots/talent-calculator/rehgar#gR7P) | 
-169    | 54.4 % | [112-1-124](http://www.heroesfire.com/hots/talent-calculator/rehgar#gR7a) | 
-140    | 51.4 % | [122-1-114](http://www.heroesfire.com/hots/talent-calculator/rehgar#gpXw) | 
-N/A    | N/A    | [332-1-324](http://www.heroesfire.com/hots/talent-calculator/rehgar#oqHi) | * Highest win percentage talents, individually
+384    | 76.8 % | [252-2-152](http://www.heroesfire.com/hots/talent-calculator/rehgar#lnAe) | 
+778    | 76.2 % | [252-1-151](http://www.heroesfire.com/hots/talent-calculator/rehgar#lmw_) | 
+4240   | 75.1 % | [252-1-154](http://www.heroesfire.com/hots/talent-calculator/rehgar#lmx2) | * Highest popularity talents, individually
+1262   | 74.7 % | [252-1-153](http://www.heroesfire.com/hots/talent-calculator/rehgar#lmx1) | * Highest win percentage talents, individually
+685    | 74.6 % | [254-1-153](http://www.heroesfire.com/hots/talent-calculator/rehgar#lrpX) | 
+457    | 73.5 % | [232-1-154](http://www.heroesfire.com/hots/talent-calculator/rehgar#l062) | 
+1504   | 72.9 % | [254-1-154](http://www.heroesfire.com/hots/talent-calculator/rehgar#lrpY) | 
+409    | 71.9 % | [](http://www.heroesfire.com/hots/talent-calculator/rehgar#1) | 
+251    | 71.7 % | [253-1-154](http://www.heroesfire.com/hots/talent-calculator/rehgar#lpNI) | 
+301    | 70.8 % | [252-1-554](http://www.heroesfire.com/hots/talent-calculator/rehgar#ln1I) | 

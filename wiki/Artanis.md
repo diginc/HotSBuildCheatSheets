@@ -15,14 +15,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Art
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-170    | 70.0 % | [443-2-224](http://www.heroesfire.com/hots/talent-calculator/artanis#t3VW) | 
-485    | 67.6 % | [222-2-224](http://www.heroesfire.com/hots/talent-calculator/artanis#kdyG) | * Highest popularity talents, individually
-216    | 67.1 % | [424-2-224](http://www.heroesfire.com/hots/talent-calculator/artanis#sL6m) | 
-620    | 62.7 % | [422-2-224](http://www.heroesfire.com/hots/talent-calculator/artanis#sGEG) | 
-298    | 62.4 % | [222-2-222](http://www.heroesfire.com/hots/talent-calculator/artanis#kdyE) | 
-233    | 62.2 % | [422-1-224](http://www.heroesfire.com/hots/talent-calculator/artanis#sF-e) | 
-329    | 61.7 % | [422-2-222](http://www.heroesfire.com/hots/talent-calculator/artanis#sGEE) | 
-190    | 60.0 % | [243-2-224](http://www.heroesfire.com/hots/talent-calculator/artanis#lRDW) | 
-224    | 58.0 % | [222-2-223](http://www.heroesfire.com/hots/talent-calculator/artanis#kdyF) | 
-167    | 53.9 % | [243-2-222](http://www.heroesfire.com/hots/talent-calculator/artanis#lRDU) | 
-N/A    | N/A    | [322-1-324](http://www.heroesfire.com/hots/talent-calculator/artanis#oRtC) | * Highest win percentage talents, individually
+153    | 68.0 % | [222-2-222](http://www.heroesfire.com/hots/talent-calculator/artanis#kdyE) | 
+320    | 67.2 % | [422-2-224](http://www.heroesfire.com/hots/talent-calculator/artanis#sGEG) | 
+167    | 65.9 % | [422-2-222](http://www.heroesfire.com/hots/talent-calculator/artanis#sGEE) | 
+251    | 65.7 % | [222-2-224](http://www.heroesfire.com/hots/talent-calculator/artanis#kdyG) | * Highest popularity talents, individually
+115    | 61.7 % | [424-2-224](http://www.heroesfire.com/hots/talent-calculator/artanis#sL6m) | 
+101    | 47.5 % | [243-2-223](http://www.heroesfire.com/hots/talent-calculator/artanis#lRDV) | 
+86     | ??.? % | [222-1-224](http://www.heroesfire.com/hots/talent-calculator/artanis#kdie) | 
+93     | ??.? % | [422-1-224](http://www.heroesfire.com/hots/talent-calculator/artanis#sF-e) | 
+80     | ??.? % | [243-2-224](http://www.heroesfire.com/hots/talent-calculator/artanis#lRDW) | 
+80     | ??.? % | [222-2-223](http://www.heroesfire.com/hots/talent-calculator/artanis#kdyF) | 
+N/A    | N/A    | [322-1-224](http://www.heroesfire.com/hots/talent-calculator/artanis#oRre) | * Highest win percentage talents, individually
