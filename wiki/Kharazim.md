@@ -17,14 +17,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Kha
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-213    | 61.0 % | [141-1-423](http://www.heroesfire.com/hots/talent-calculator/kharazim#hX_V) | * Highest popularity talents, individually
-193    | 58.0 % | [131-1-223](http://www.heroesfire.com/hots/talent-calculator/kharazim#h9Xt) | 
-158    | 57.6 % | [131-1-423](http://www.heroesfire.com/hots/talent-calculator/kharazim#h9a_) | 
-146    | 54.8 % | [131-1-323](http://www.heroesfire.com/hots/talent-calculator/kharazim#h9ZR) | 
-248    | 53.6 % | [141-1-123](http://www.heroesfire.com/hots/talent-calculator/kharazim#hXwp) | 
-324    | 52.8 % | [141-1-323](http://www.heroesfire.com/hots/talent-calculator/kharazim#hXzx) | 
-132    | 52.3 % | [131-1-123](http://www.heroesfire.com/hots/talent-calculator/kharazim#h9WJ) | 
-251    | 51.8 % | [141-1-223](http://www.heroesfire.com/hots/talent-calculator/kharazim#hXyN) | 
-128    | 46.1 % | [141-1-321](http://www.heroesfire.com/hots/talent-calculator/kharazim#hXzv) | 
-94     | ??.? % | [131-2-422](http://www.heroesfire.com/hots/talent-calculator/kharazim#h9qc) | 
-N/A    | N/A    | [311-2-124](http://www.heroesfire.com/hots/talent-calculator/kharazim#o1Cy) | * Highest win percentage talents, individually
+158    | 64.6 % | [141-1-323](http://www.heroesfire.com/hots/talent-calculator/kharazim#hXzx) | 
+139    | 55.4 % | [141-1-123](http://www.heroesfire.com/hots/talent-calculator/kharazim#hXwp) | 
+126    | 51.6 % | [141-1-223](http://www.heroesfire.com/hots/talent-calculator/kharazim#hXyN) | 
+42     | ??.? % | [131-2-422](http://www.heroesfire.com/hots/talent-calculator/kharazim#h9qc) | 
+58     | ??.? % | [131-1-123](http://www.heroesfire.com/hots/talent-calculator/kharazim#h9WJ) | 
+63     | ??.? % | [131-1-423](http://www.heroesfire.com/hots/talent-calculator/kharazim#h9a_) | 
+81     | ??.? % | [131-1-323](http://www.heroesfire.com/hots/talent-calculator/kharazim#h9ZR) | 
+98     | ??.? % | [141-1-423](http://www.heroesfire.com/hots/talent-calculator/kharazim#hX_V) | * Highest popularity talents, individually
+82     | ??.? % | [131-1-223](http://www.heroesfire.com/hots/talent-calculator/kharazim#h9Xt) | 
+51     | ??.? % | [141-1-321](http://www.heroesfire.com/hots/talent-calculator/kharazim#hXzv) | 
+N/A    | N/A    | [311-2-434](http://www.heroesfire.com/hots/talent-calculator/kharazim#o1Ho) | * Highest win percentage talents, individually

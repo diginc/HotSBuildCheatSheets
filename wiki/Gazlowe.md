@@ -17,14 +17,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Gaz
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-119    | 60.5 % | [321-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#oPeq) | 
-115    | 60.0 % | [431-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#scCK) | * Highest popularity talents, individually
-54     | ??.? % | [332-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#oqVa) | 
-87     | ??.? % | [322-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#oS54) | 
-51     | ??.? % | [421-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#sDnq) | 
-60     | ??.? % | [431-2-222](http://www.heroesfire.com/hots/talent-calculator/gazlowe#scCU) | 
-59     | ??.? % | [431-1-211](http://www.heroesfire.com/hots/talent-calculator/gazlowe#sbyh) | 
-61     | ??.? % | [422-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#sGE4) | 
-67     | ??.? % | [432-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#seea) | 
-48     | ??.? % | [432-2-222](http://www.heroesfire.com/hots/talent-calculator/gazlowe#seek) | 
-N/A    | N/A    | [122-2-332](http://www.heroesfire.com/hots/talent-calculator/gazlowe#gpqy) | * Highest win percentage talents, individually
+19     | ??.? % | [442-2-232](http://www.heroesfire.com/hots/talent-calculator/gazlowe#t13O) | 
+29     | ??.? % | [442-2-332](http://www.heroesfire.com/hots/talent-calculator/gazlowe#t14y) | 
+21     | ??.? % | [432-2-222](http://www.heroesfire.com/hots/talent-calculator/gazlowe#seek) | 
+18     | ??.? % | [432-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#seea) | 
+52     | ??.? % | [322-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#oS54) | 
+54     | ??.? % | [321-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#oPeq) | 
+26     | ??.? % | [422-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#sGE4) | 
+20     | ??.? % | [431-2-222](http://www.heroesfire.com/hots/talent-calculator/gazlowe#scCU) | 
+21     | ??.? % | [431-1-211](http://www.heroesfire.com/hots/talent-calculator/gazlowe#sbyh) | 
+29     | ??.? % | [431-2-212](http://www.heroesfire.com/hots/talent-calculator/gazlowe#scCK) | * Highest popularity talents, individually
+N/A    | N/A    | [112-1-342](http://www.heroesfire.com/hots/talent-calculator/gazlowe#gRA-) | * Highest win percentage talents, individually

@@ -17,13 +17,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Mur
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-934    | 66.3 % | [441-1-354](http://www.heroesfire.com/hots/talent-calculator/muradin#s-PQ) | 
-827    | 65.5 % | [441-1-153](http://www.heroesfire.com/hots/talent-calculator/muradin#s-MH) | 
-1613   | 63.4 % | [441-1-353](http://www.heroesfire.com/hots/talent-calculator/muradin#s-PP) | * Highest popularity talents, individually
-326    | 62.9 % | [441-1-154](http://www.heroesfire.com/hots/talent-calculator/muradin#s-MI) | * Highest win percentage talents, individually
-355    | 62.0 % | [444-1-353](http://www.heroesfire.com/hots/talent-calculator/muradin#t5k9) | 
-181    | 60.8 % | [444-1-354](http://www.heroesfire.com/hots/talent-calculator/muradin#t5kA) | 
-176    | 60.2 % | [441-1-454](http://www.heroesfire.com/hots/talent-calculator/muradin#s-Q-) | 
-213    | 60.1 % | [441-1-351](http://www.heroesfire.com/hots/talent-calculator/muradin#s-PN) | 
-182    | 59.3 % | [321-1-354](http://www.heroesfire.com/hots/talent-calculator/muradin#oPRQ) | 
-632    | 56.0 % | [441-1-453](http://www.heroesfire.com/hots/talent-calculator/muradin#s-Qz) | 
+133    | 64.7 % | [441-1-154](http://www.heroesfire.com/hots/talent-calculator/muradin#s-MI) | 
+423    | 64.3 % | [441-1-153](http://www.heroesfire.com/hots/talent-calculator/muradin#s-MH) | 
+780    | 63.2 % | [441-1-353](http://www.heroesfire.com/hots/talent-calculator/muradin#s-PP) | * Highest popularity talents, individually
+401    | 62.1 % | [441-1-354](http://www.heroesfire.com/hots/talent-calculator/muradin#s-PQ) | 
+100    | 62.0 % | [441-1-351](http://www.heroesfire.com/hots/talent-calculator/muradin#s-PN) | 
+170    | 60.6 % | [444-1-353](http://www.heroesfire.com/hots/talent-calculator/muradin#t5k9) | 
+106    | 59.4 % | [444-1-153](http://www.heroesfire.com/hots/talent-calculator/muradin#t5h1) | 
+307    | 53.4 % | [441-1-453](http://www.heroesfire.com/hots/talent-calculator/muradin#s-Qz) | 
+98     | ??.? % | [441-1-253](http://www.heroesfire.com/hots/talent-calculator/muradin#s-Nr) | 
+85     | ??.? % | [341-1-353](http://www.heroesfire.com/hots/talent-calculator/muradin#pAGP) | 
+N/A    | N/A    | [444-1-154](http://www.heroesfire.com/hots/talent-calculator/muradin#t5h2) | * Highest win percentage talents, individually

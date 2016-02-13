@@ -17,14 +17,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Joh
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-165    | 67.9 % | [444-2-123](http://www.heroesfire.com/hots/talent-calculator/johanna#t5wB) | 
-975    | 67.6 % | [441-2-123](http://www.heroesfire.com/hots/talent-calculator/johanna#s-bR) | 
-166    | 66.3 % | [241-2-123](http://www.heroesfire.com/hots/talent-calculator/johanna#lMJR) | 
-303    | 66.0 % | [442-2-143](http://www.heroesfire.com/hots/talent-calculator/johanna#t11_) | 
-838    | 64.9 % | [441-2-143](http://www.heroesfire.com/hots/talent-calculator/johanna#s-bl) | * Highest popularity talents, individually
-603    | 64.0 % | [441-2-113](http://www.heroesfire.com/hots/talent-calculator/johanna#s-bH) | 
-137    | 63.5 % | [241-2-143](http://www.heroesfire.com/hots/talent-calculator/johanna#lMJl) | 
-191    | 62.8 % | [441-2-443](http://www.heroesfire.com/hots/talent-calculator/johanna#s-gR) | 
-146    | 62.3 % | [442-2-113](http://www.heroesfire.com/hots/talent-calculator/johanna#t11X) | 
-250    | 61.2 % | [442-2-123](http://www.heroesfire.com/hots/talent-calculator/johanna#t11h) | 
+222    | 71.2 % | [442-2-143](http://www.heroesfire.com/hots/talent-calculator/johanna#t11_) | 
+151    | 68.9 % | [442-2-123](http://www.heroesfire.com/hots/talent-calculator/johanna#t11h) | 
+557    | 66.4 % | [441-2-123](http://www.heroesfire.com/hots/talent-calculator/johanna#s-bR) | 
+452    | 65.0 % | [441-2-143](http://www.heroesfire.com/hots/talent-calculator/johanna#s-bl) | * Highest popularity talents, individually
+317    | 61.2 % | [441-2-113](http://www.heroesfire.com/hots/talent-calculator/johanna#s-bH) | 
+120    | 60.0 % | [442-2-113](http://www.heroesfire.com/hots/talent-calculator/johanna#t11X) | 
+114    | 48.3 % | [441-2-443](http://www.heroesfire.com/hots/talent-calculator/johanna#s-gR) | 
+84     | ??.? % | [241-2-123](http://www.heroesfire.com/hots/talent-calculator/johanna#lMJR) | 
+90     | ??.? % | [444-2-123](http://www.heroesfire.com/hots/talent-calculator/johanna#t5wB) | 
+80     | ??.? % | [442-2-443](http://www.heroesfire.com/hots/talent-calculator/johanna#t16h) | 
 N/A    | N/A    | [441-2-124](http://www.heroesfire.com/hots/talent-calculator/johanna#s-bS) | * Highest win percentage talents, individually

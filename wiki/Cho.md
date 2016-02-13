@@ -17,14 +17,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Cho
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-118    | 64.4 % | [212-1-331](http://www.heroesfire.com/hots/talent-calculator/cho#kFJp) | 
-39     | ??.? % | [212-1-231](http://www.heroesfire.com/hots/talent-calculator/cho#kFIF) | 
-46     | ??.? % | [221-2-332](http://www.heroesfire.com/hots/talent-calculator/cho#kbXi) | 
-61     | ??.? % | [232-1-331](http://www.heroesfire.com/hots/talent-calculator/cho#l08p) | 
-21     | ??.? % | [232-1-311](http://www.heroesfire.com/hots/talent-calculator/cho#l08V) | 
-76     | ??.? % | [222-2-332](http://www.heroesfire.com/hots/talent-calculator/cho#kdzy) | 
-31     | ??.? % | [232-2-332](http://www.heroesfire.com/hots/talent-calculator/cho#l0OS) | 
-51     | ??.? % | [212-2-332](http://www.heroesfire.com/hots/talent-calculator/cho#kFZS) | 
-85     | ??.? % | [222-1-331](http://www.heroesfire.com/hots/talent-calculator/cho#kdkJ) | * Highest popularity talents, individually
-22     | ??.? % | [222-1-231](http://www.heroesfire.com/hots/talent-calculator/cho#kdil) | 
-N/A    | N/A    | [211-1-141](http://www.heroesfire.com/hots/talent-calculator/cho#kCqb) | * Highest win percentage talents, individually
+21     | ??.? % | [221-2-312](http://www.heroesfire.com/hots/talent-calculator/cho#kbXO) | 
+70     | ??.? % | [212-1-311](http://www.heroesfire.com/hots/talent-calculator/cho#kFJV) | 
+23     | ??.? % | [212-2-312](http://www.heroesfire.com/hots/talent-calculator/cho#kFZ8) | 
+16     | ??.? % | [212-2-112](http://www.heroesfire.com/hots/talent-calculator/cho#kFW0) | 
+21     | ??.? % | [223-1-311](http://www.heroesfire.com/hots/talent-calculator/cho#kgAF) | 
+18     | ??.? % | [212-1-111](http://www.heroesfire.com/hots/talent-calculator/cho#kFGN) | 
+49     | ??.? % | [222-2-312](http://www.heroesfire.com/hots/talent-calculator/cho#kdze) | 
+30     | ??.? % | [232-1-311](http://www.heroesfire.com/hots/talent-calculator/cho#l08V) | 
+32     | ??.? % | [222-1-311](http://www.heroesfire.com/hots/talent-calculator/cho#kdj_) | * Highest popularity talents, individually
+12     | ??.? % | [212-1-313](http://www.heroesfire.com/hots/talent-calculator/cho#kFJX) | 
+N/A    | N/A    | [313-1-131](http://www.heroesfire.com/hots/talent-calculator/cho#o5rx) | * Highest win percentage talents, individually

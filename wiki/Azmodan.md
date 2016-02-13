@@ -17,15 +17,15 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Azm
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-34     | ??.? % | [121-2-112](http://www.heroesfire.com/hots/talent-calculator/azmodan#gnLG) | 
-46     | ??.? % | [121-2-312](http://www.heroesfire.com/hots/talent-calculator/azmodan#gnOO) | 
-48     | ??.? % | [221-1-111](http://www.heroesfire.com/hots/talent-calculator/azmodan#kbEd) | 
-34     | ??.? % | [211-1-311](http://www.heroesfire.com/hots/talent-calculator/azmodan#kCtF) | 
-36     | ??.? % | [121-2-324](http://www.heroesfire.com/hots/talent-calculator/azmodan#gnOa) | 
-50     | ??.? % | [314-1-324](http://www.heroesfire.com/hots/talent-calculator/azmodan#o8LC) | 
-37     | ??.? % | [314-1-321](http://www.heroesfire.com/hots/talent-calculator/azmodan#o8L9) | 
-51     | ??.? % | [314-1-331](http://www.heroesfire.com/hots/talent-calculator/azmodan#o8LJ) | 
-34     | ??.? % | [111-2-343](http://www.heroesfire.com/hots/talent-calculator/azmodan#gO-N) | 
-63     | ??.? % | [314-1-311](http://www.heroesfire.com/hots/talent-calculator/azmodan#o8K_) | 
+22     | ??.? % | [322-1-124](http://www.heroesfire.com/hots/talent-calculator/azmodan#oRq4) | 
+21     | ??.? % | [121-2-112](http://www.heroesfire.com/hots/talent-calculator/azmodan#gnLG) | 
+18     | ??.? % | [121-2-114](http://www.heroesfire.com/hots/talent-calculator/azmodan#gnLI) | 
+23     | ??.? % | [211-1-311](http://www.heroesfire.com/hots/talent-calculator/azmodan#kCtF) | 
+17     | ??.? % | [121-2-313](http://www.heroesfire.com/hots/talent-calculator/azmodan#gnOP) | 
+25     | ??.? % | [221-1-111](http://www.heroesfire.com/hots/talent-calculator/azmodan#kbEd) | 
+23     | ??.? % | [314-1-331](http://www.heroesfire.com/hots/talent-calculator/azmodan#o8LJ) | 
+19     | ??.? % | [141-2-343](http://www.heroesfire.com/hots/talent-calculator/azmodan#hYDt) | 
+27     | ??.? % | [314-1-311](http://www.heroesfire.com/hots/talent-calculator/azmodan#o8K_) | 
+17     | ??.? % | [111-2-333](http://www.heroesfire.com/hots/talent-calculator/azmodan#gO-D) | 
 N/A    | N/A    | [121-1-314](http://www.heroesfire.com/hots/talent-calculator/azmodan#gn8o) | * Highest popularity talents, individually
-N/A    | N/A    | [221-1-112](http://www.heroesfire.com/hots/talent-calculator/azmodan#kbEe) | * Highest win percentage talents, individually
+N/A    | N/A    | [423-1-112](http://www.heroesfire.com/hots/talent-calculator/azmodan#sIP8) | * Highest win percentage talents, individually
