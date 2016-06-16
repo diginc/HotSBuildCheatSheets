@@ -17,14 +17,9 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Kae
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-112    | 66.1 % | [141-1-413](http://www.heroesfire.com/hots/talent-calculator/kaelthas#hX_L) | 
-150    | 66.0 % | [212-1-234](http://www.heroesfire.com/hots/talent-calculator/kaelthas#kFII) | 
-346    | 65.0 % | [412-1-234](http://www.heroesfire.com/hots/talent-calculator/kaelthas#rtaI) | * Highest popularity talents, individually
-37     | ??.? % | [241-1-234](http://www.heroesfire.com/hots/talent-calculator/kaelthas#lM5Y) | 
-29     | ??.? % | [412-1-231](http://www.heroesfire.com/hots/talent-calculator/kaelthas#rtaF) | 
-74     | ??.? % | [224-1-234](http://www.heroesfire.com/hots/talent-calculator/kaelthas#kibI) | 
-62     | ??.? % | [222-1-234](http://www.heroesfire.com/hots/talent-calculator/kaelthas#kdio) | 
-42     | ??.? % | [422-1-234](http://www.heroesfire.com/hots/talent-calculator/kaelthas#sF-o) | 
-28     | ??.? % | [141-2-413](http://www.heroesfire.com/hots/talent-calculator/kaelthas#hYEz) | 
-38     | ??.? % | [412-1-233](http://www.heroesfire.com/hots/talent-calculator/kaelthas#rtaH) | 
-N/A    | N/A    | [112-1-214](http://www.heroesfire.com/hots/talent-calculator/kaelthas#gR8-) | * Highest win percentage talents, individually
+144    | 66.7 % | [141-1-413](http://www.heroesfire.com/hots/talent-calculator/kaelthas#hX_L) | 
+158    | 65.8 % | [412-1-234](http://www.heroesfire.com/hots/talent-calculator/kaelthas#rtaI) | 
+115    | 62.6 % | [22](http://www.heroesfire.com/hots/talent-calculator/kaelthas#1w) | 
+106    | 62.3 % | [24](http://www.heroesfire.com/hots/talent-calculator/kaelthas#1y) | 
+N/A    | N/A    | [141-1-234](http://www.heroesfire.com/hots/talent-calculator/kaelthas#hXyY) | * Highest popularity talents, individually
+N/A    | N/A    | [112-1-413](http://www.heroesfire.com/hots/talent-calculator/kaelthas#gRC5) | * Highest win percentage talents, individually

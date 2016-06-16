@@ -17,14 +17,13 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Syl
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-169    | 60.4 % | [341-1-224](http://www.heroesfire.com/hots/talent-calculator/sylvanas#pAEO) | 
-194    | 59.3 % | [141-1-224](http://www.heroesfire.com/hots/talent-calculator/sylvanas#hXyO) | 
-69     | ??.? % | [212-1-121](http://www.heroesfire.com/hots/talent-calculator/sylvanas#kFGX) | 
-64     | ??.? % | [341-1-323](http://www.heroesfire.com/hots/talent-calculator/sylvanas#pAFx) | 
-84     | ??.? % | [341-1-223](http://www.heroesfire.com/hots/talent-calculator/sylvanas#pAEN) | 
-59     | ??.? % | [341-1-221](http://www.heroesfire.com/hots/talent-calculator/sylvanas#pAEL) | * Highest popularity talents, individually
-53     | ??.? % | [241-1-224](http://www.heroesfire.com/hots/talent-calculator/sylvanas#lM5O) | 
-79     | ??.? % | [141-1-223](http://www.heroesfire.com/hots/talent-calculator/sylvanas#hXyN) | 
-60     | ??.? % | [341-1-321](http://www.heroesfire.com/hots/talent-calculator/sylvanas#pAFv) | 
-86     | ??.? % | [141-1-221](http://www.heroesfire.com/hots/talent-calculator/sylvanas#hXyL) | 
-N/A    | N/A    | [331-1-123](http://www.heroesfire.com/hots/talent-calculator/sylvanas#onoJ) | * Highest win percentage talents, individually
+205    | 64.4 % | [111-1-224](http://www.heroesfire.com/hots/talent-calculator/sylvanas#gOiu) | 
+106    | 62.3 % | [111-1-11](http://www.heroesfire.com/hots/talent-calculator/sylvanas#4FH7) | 
+113    | 61.9 % | [211-1-22](http://www.heroesfire.com/hots/talent-calculator/sylvanas#4dho) | 
+158    | 61.4 % | [2](http://www.heroesfire.com/hots/talent-calculator/sylvanas#C) | 
+176    | 60.8 % | [231-1-](http://www.heroesfire.com/hots/talent-calculator/sylvanas#30N) | 
+243    | 59.3 % | [232-1-12](http://www.heroesfire.com/hots/talent-calculator/sylvanas#4ipm) | 
+110    | 59.1 % | [1](http://www.heroesfire.com/hots/talent-calculator/sylvanas#B) | 
+129    | 55.8 % | [](http://www.heroesfire.com/hots/talent-calculator/sylvanas#1) | 
+N/A    | N/A    | [211-1-124](http://www.heroesfire.com/hots/talent-calculator/sylvanas#kCqK) | * Highest popularity talents, individually
+N/A    | N/A    | [131-1-233](http://www.heroesfire.com/hots/talent-calculator/sylvanas#h9Y1) | * Highest win percentage talents, individually

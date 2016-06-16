@@ -17,14 +17,6 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Ill
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-277    | 65.0 % | [235-1-541](http://www.heroesfire.com/hots/talent-calculator/illidan#l7Wr) | 
-330    | 63.6 % | [235-1-531](http://www.heroesfire.com/hots/talent-calculator/illidan#l7Wh) | * Highest popularity talents, individually
-57     | ??.? % | [235-2-143](http://www.heroesfire.com/hots/talent-calculator/illidan#l7gF) | 
-97     | ??.? % | [235-2-533](http://www.heroesfire.com/hots/talent-calculator/illidan#l7mL) | 
-77     | ??.? % | [235-2-133](http://www.heroesfire.com/hots/talent-calculator/illidan#l7g5) | 
-61     | ??.? % | [235-2-543](http://www.heroesfire.com/hots/talent-calculator/illidan#l7mV) | 
-93     | ??.? % | [235-1-131](http://www.heroesfire.com/hots/talent-calculator/illidan#l7QR) | 
-44     | ??.? % | [235-1-543](http://www.heroesfire.com/hots/talent-calculator/illidan#l7Wt) | 
-60     | ??.? % | [235-1-533](http://www.heroesfire.com/hots/talent-calculator/illidan#l7Wj) | 
-45     | ??.? % | [235-2-532](http://www.heroesfire.com/hots/talent-calculator/illidan#l7mK) | 
-N/A    | N/A    | [235-1-141](http://www.heroesfire.com/hots/talent-calculator/illidan#l7Qb) | * Highest win percentage talents, individually
+150    | 69.3 % | [121-2-113](http://www.heroesfire.com/hots/talent-calculator/illidan#gnLH) | * Highest popularity talents, individually
+538    | 62.8 % | [121-1-111](http://www.heroesfire.com/hots/talent-calculator/illidan#gn5d) | 
+N/A    | N/A    | [123-2-113](http://www.heroesfire.com/hots/talent-calculator/illidan#gsDn) | * Highest win percentage talents, individually

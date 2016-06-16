@@ -56,10 +56,8 @@ class HeroParser:
     def parse_top_builds(self, talents):
         """ Scrape the top winning build table and
         return a usable set of data by combining it with the talent table """
-        raw_builds = []
-        for i in range(0, 10):
-            search = 'ctl00_MainContent_RadGridPopularTalentBuilds_ctl00__' + str(i)
-            raw_builds.append(self.html.find(id=search))
+        search = re.compile('ctl00_MainContent_RadGridPopularTalentBuilds_ctl00__\d\d?')
+        raw_builds = self.html.findAll(id=search)
 
         top_builds = []
 

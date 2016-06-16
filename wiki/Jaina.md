@@ -17,14 +17,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Jai
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-146    | 66.4 % | [322-1-124](http://www.heroesfire.com/hots/talent-calculator/jaina#oRq4) | 
-307    | 60.9 % | [422-1-224](http://www.heroesfire.com/hots/talent-calculator/jaina#sF-e) | 
-277    | 60.7 % | [322-2-224](http://www.heroesfire.com/hots/talent-calculator/jaina#oS5G) | 
-327    | 60.6 % | [222-1-224](http://www.heroesfire.com/hots/talent-calculator/jaina#kdie) | 
-186    | 60.2 % | [422-2-224](http://www.heroesfire.com/hots/talent-calculator/jaina#sGEG) | 
-128    | 60.2 % | [222-2-224](http://www.heroesfire.com/hots/talent-calculator/jaina#kdyG) | 
-132    | 58.3 % | [322-2-234](http://www.heroesfire.com/hots/talent-calculator/jaina#oS5Q) | 
-125    | 55.2 % | [322-1-234](http://www.heroesfire.com/hots/talent-calculator/jaina#oRro) | 
-144    | 54.9 % | [122-1-224](http://www.heroesfire.com/hots/talent-calculator/jaina#gpZe) | 
-420    | 53.3 % | [322-1-224](http://www.heroesfire.com/hots/talent-calculator/jaina#oRre) | * Highest popularity talents, individually
-N/A    | N/A    | [222-2-323](http://www.heroesfire.com/hots/talent-calculator/jaina#kdzp) | * Highest win percentage talents, individually
+120    | 64.2 % | [322-1-12](http://www.heroesfire.com/hots/talent-calculator/jaina#52o0) | 
+127    | 63.8 % | [](http://www.heroesfire.com/hots/talent-calculator/jaina#1) | 
+140    | 63.6 % | [](http://www.heroesfire.com/hots/talent-calculator/jaina#1) | 
+344    | 62.2 % | [222-1-123](http://www.heroesfire.com/hots/talent-calculator/jaina#kdh3) | * Highest popularity talents, individually
+180    | 60.6 % | [322-1-323](http://www.heroesfire.com/hots/talent-calculator/jaina#oRtB) | 
+167    | 60.5 % | [222-1-2](http://www.heroesfire.com/hots/talent-calculator/jaina#Tra) | 
+209    | 60.3 % | [422-1-223](http://www.heroesfire.com/hots/talent-calculator/jaina#sF-d) | 
+200    | 59.0 % | [222-1-111](http://www.heroesfire.com/hots/talent-calculator/jaina#kdgt) | 
+119    | 57.1 % | [322-1-](http://www.heroesfire.com/hots/talent-calculator/jaina#3Eb) | 
+126    | 56.4 % | [422-1-113](http://www.heroesfire.com/hots/talent-calculator/jaina#sFyv) | 
+N/A    | N/A    | [222-1-324](http://www.heroesfire.com/hots/talent-calculator/jaina#kdkC) | * Highest win percentage talents, individually
