@@ -1,13 +1,6 @@
 #### Updates
-**Update 2016/02/07 - Added Li-Ming, updated all stats, by Trust**
 
-Update 2016/01/13 - Added Greymane, by Trust
-
-Update 2016/01/08 - Added Artanis, Cho'Gall, Lunara, by Trust
-
-Update 2015/09/25 - Kharazim added thanks to PR by Anubis Black
-
-Update 2015/09/17 - First post Rexxar patch numbers, resetting the total games, potentially shifting builds around a lot.
+**Update 2016/06/15 - Added new heroes since Feb.**
 
 ***
 
@@ -17,8 +10,8 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Kha
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-262    | 64.9 % | [141-1-323](http://www.heroesfire.com/hots/talent-calculator/kharazim#hXzx) | * Highest popularity talents, individually
-115    | 55.6 % | [141-1-](http://www.heroesfire.com/hots/talent-calculator/kharazim#2oJ) | 
-114    | 54.4 % | [131-1-223](http://www.heroesfire.com/hots/talent-calculator/kharazim#h9Xt) | 
-101    | 53.5 % | [131-1-](http://www.heroesfire.com/hots/talent-calculator/kharazim#2ml) | 
+267    | 64.8 % | [141-1-323](http://www.heroesfire.com/hots/talent-calculator/kharazim#hXzx) | * Highest popularity talents, individually
+120    | 55.0 % | [141-1-](http://www.heroesfire.com/hots/talent-calculator/kharazim#2oJ) | 
+102    | 53.9 % | [131-1-](http://www.heroesfire.com/hots/talent-calculator/kharazim#2ml) | 
+117    | 53.9 % | [131-1-223](http://www.heroesfire.com/hots/talent-calculator/kharazim#h9Xt) | 
 N/A    | N/A    | [111-1-424](http://www.heroesfire.com/hots/talent-calculator/kharazim#gOm0) | * Highest win percentage talents, individually

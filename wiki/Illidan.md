@@ -1,13 +1,6 @@
 #### Updates
-**Update 2016/02/07 - Added Li-Ming, updated all stats, by Trust**
 
-Update 2016/01/13 - Added Greymane, by Trust
-
-Update 2016/01/08 - Added Artanis, Cho'Gall, Lunara, by Trust
-
-Update 2015/09/25 - Kharazim added thanks to PR by Anubis Black
-
-Update 2015/09/17 - First post Rexxar patch numbers, resetting the total games, potentially shifting builds around a lot.
+**Update 2016/06/15 - Added new heroes since Feb.**
 
 ***
 
@@ -17,6 +10,6 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Ill
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-150    | 69.3 % | [121-2-113](http://www.heroesfire.com/hots/talent-calculator/illidan#gnLH) | * Highest popularity talents, individually
-538    | 62.8 % | [121-1-111](http://www.heroesfire.com/hots/talent-calculator/illidan#gn5d) | 
+156    | 68.6 % | [121-2-113](http://www.heroesfire.com/hots/talent-calculator/illidan#gnLH) | * Highest popularity talents, individually
+554    | 62.3 % | [121-1-111](http://www.heroesfire.com/hots/talent-calculator/illidan#gn5d) | 
 N/A    | N/A    | [123-2-113](http://www.heroesfire.com/hots/talent-calculator/illidan#gsDn) | * Highest win percentage talents, individually

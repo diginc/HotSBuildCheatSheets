@@ -1,13 +1,6 @@
 #### Updates
-**Update 2016/02/07 - Added Li-Ming, updated all stats, by Trust**
 
-Update 2016/01/13 - Added Greymane, by Trust
-
-Update 2016/01/08 - Added Artanis, Cho'Gall, Lunara, by Trust
-
-Update 2015/09/25 - Kharazim added thanks to PR by Anubis Black
-
-Update 2015/09/17 - First post Rexxar patch numbers, resetting the total games, potentially shifting builds around a lot.
+**Update 2016/06/15 - Added new heroes since Feb.**
 
 ***
 
@@ -17,11 +10,14 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Joh
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-134    | 76.1 % | [](http://www.heroesfire.com/hots/talent-calculator/johanna#1) | 
-109    | 70.6 % | [111-2-1](http://www.heroesfire.com/hots/talent-calculator/johanna#R8H) | 
-219    | 69.0 % | [442-2-123](http://www.heroesfire.com/hots/talent-calculator/johanna#t11h) | 
-140    | 63.6 % | [442-2-](http://www.heroesfire.com/hots/talent-calculator/johanna#3XM) | 
-860    | 63.0 % | [441-2-143](http://www.heroesfire.com/hots/talent-calculator/johanna#s-bl) | * Highest popularity talents, individually
-125    | 59.2 % | [243-2-2](http://www.heroesfire.com/hots/talent-calculator/johanna#UMY) | 
-154    | 57.1 % | [443-2-2](http://www.heroesfire.com/hots/talent-calculator/johanna#ZF2) | 
+140    | 75.7 % | [](http://www.heroesfire.com/hots/talent-calculator/johanna#1) | 
+112    | 71.4 % | [111-2-1](http://www.heroesfire.com/hots/talent-calculator/johanna#R8H) | 
+227    | 68.7 % | [442-2-113](http://www.heroesfire.com/hots/talent-calculator/johanna#t11X) | 
+123    | 65.9 % | [44](http://www.heroesfire.com/hots/talent-calculator/johanna#2G) | 
+145    | 64.1 % | [442-2-](http://www.heroesfire.com/hots/talent-calculator/johanna#3XM) | 
+897    | 63.1 % | [441-2-143](http://www.heroesfire.com/hots/talent-calculator/johanna#s-bl) | * Highest popularity talents, individually
+106    | 62.3 % | [432-2-1](http://www.heroesfire.com/hots/talent-calculator/johanna#Yzr) | 
+160    | 57.5 % | [443-2-2](http://www.heroesfire.com/hots/talent-calculator/johanna#ZF2) | 
+131    | 57.3 % | [243-2-2](http://www.heroesfire.com/hots/talent-calculator/johanna#UMY) | 
+102    | 53.9 % | [143-2-2](http://www.heroesfire.com/hots/talent-calculator/johanna#RwI) | 
 N/A    | N/A    | [441-2-121](http://www.heroesfire.com/hots/talent-calculator/johanna#s-bP) | * Highest win percentage talents, individually

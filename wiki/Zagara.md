@@ -1,13 +1,6 @@
 #### Updates
-**Update 2016/02/07 - Added Li-Ming, updated all stats, by Trust**
 
-Update 2016/01/13 - Added Greymane, by Trust
-
-Update 2016/01/08 - Added Artanis, Cho'Gall, Lunara, by Trust
-
-Update 2015/09/25 - Kharazim added thanks to PR by Anubis Black
-
-Update 2015/09/17 - First post Rexxar patch numbers, resetting the total games, potentially shifting builds around a lot.
+**Update 2016/06/15 - Added new heroes since Feb.**
 
 ***
 
@@ -17,9 +10,9 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Zag
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-171    | 67.3 % | [314-1-123](http://www.heroesfire.com/hots/talent-calculator/zagara#o8I3) | 
-150    | 65.3 % | [315-1-223](http://www.heroesfire.com/hots/talent-calculator/zagara#oAlt) | 
-269    | 62.5 % | [314-1-224](http://www.heroesfire.com/hots/talent-calculator/zagara#o8Je) | 
-1963   | 62.3 % | [315-1-124](http://www.heroesfire.com/hots/talent-calculator/zagara#oAkK) | * Highest popularity talents, individually
-114    | 52.6 % | [334-1-12](http://www.heroesfire.com/hots/talent-calculator/zagara#55jW) | 
-N/A    | N/A    | [315-1-132](http://www.heroesfire.com/hots/talent-calculator/zagara#oAkS) | * Highest win percentage talents, individually
+183    | 68.9 % | [314-1-123](http://www.heroesfire.com/hots/talent-calculator/zagara#o8I3) | 
+154    | 64.9 % | [315-1-223](http://www.heroesfire.com/hots/talent-calculator/zagara#oAlt) | 
+2023   | 62.5 % | [315-1-124](http://www.heroesfire.com/hots/talent-calculator/zagara#oAkK) | * Highest popularity talents, individually
+280    | 61.8 % | [314-1-224](http://www.heroesfire.com/hots/talent-calculator/zagara#o8Je) | 
+120    | 53.3 % | [334-1-12](http://www.heroesfire.com/hots/talent-calculator/zagara#55jW) | 
+N/A    | N/A    | [314-1-132](http://www.heroesfire.com/hots/talent-calculator/zagara#o8IC) | * Highest win percentage talents, individually
