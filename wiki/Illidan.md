@@ -17,6 +17,6 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Ill
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-149    | 69.1 % | [121-2-113](http://www.heroesfire.com/hots/talent-calculator/illidan#gnLH) | * Highest popularity talents, individually
-526    | 62.9 % | [121-1-111](http://www.heroesfire.com/hots/talent-calculator/illidan#gn5d) | 
+150    | 69.3 % | [121-2-113](http://www.heroesfire.com/hots/talent-calculator/illidan#gnLH) | * Highest popularity talents, individually
+538    | 62.8 % | [121-1-111](http://www.heroesfire.com/hots/talent-calculator/illidan#gn5d) | 
 N/A    | N/A    | [123-2-113](http://www.heroesfire.com/hots/talent-calculator/illidan#gsDn) | * Highest win percentage talents, individually

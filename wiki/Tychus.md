@@ -17,5 +17,5 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Tyc
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-166    | 62.1 % | [111-2-113](http://www.heroesfire.com/hots/talent-calculator/tychus#gOwn) | * Highest popularity talents, individually
+168    | 61.9 % | [111-2-113](http://www.heroesfire.com/hots/talent-calculator/tychus#gOwn) | * Highest popularity talents, individually
 N/A    | N/A    | [113-2-132](http://www.heroesfire.com/hots/talent-calculator/tychus#gTpa) | * Highest win percentage talents, individually

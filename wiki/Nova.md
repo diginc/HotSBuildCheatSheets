@@ -17,7 +17,7 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Nov
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-233    | 63.1 % | [321-2-122](http://www.heroesfire.com/hots/talent-calculator/nova#oPdQ) | 
+235    | 63.4 % | [321-2-122](http://www.heroesfire.com/hots/talent-calculator/nova#oPdQ) | 
 130    | 58.5 % | [321-1-121](http://www.heroesfire.com/hots/talent-calculator/nova#oPNn) | 
 N/A    | N/A    | [321-2-121](http://www.heroesfire.com/hots/talent-calculator/nova#oPdP) | * Highest popularity talents, individually
 N/A    | N/A    | [331-2-133](http://www.heroesfire.com/hots/talent-calculator/nova#oo25) | * Highest win percentage talents, individually

@@ -17,9 +17,9 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Naz
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-848    | 72.2 % | [211-1-221](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kCrr) | * Highest popularity talents, individually <br/>** Highest win percentage talents, individually
-110    | 70.0 % | [213-2-232](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kH-8) | 
-200    | 67.5 % | [213-1-231](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kHkV) | 
-138    | 67.4 % | [211-1-1](http://www.heroesfire.com/hots/talent-calculator/nazeebo#TaN) | 
-320    | 66.6 % | [211-2-222](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kD5U) | 
-154    | 65.6 % | [211-1-](http://www.heroesfire.com/hots/talent-calculator/nazeebo#2zF) | 
+863    | 72.4 % | [211-1-221](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kCrr) | * Highest popularity talents, individually <br/>** Highest win percentage talents, individually
+112    | 68.8 % | [213-2-232](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kH-8) | 
+202    | 67.3 % | [213-1-231](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kHkV) | 
+144    | 66.7 % | [211-1-1](http://www.heroesfire.com/hots/talent-calculator/nazeebo#TaN) | 
+325    | 66.2 % | [211-2-222](http://www.heroesfire.com/hots/talent-calculator/nazeebo#kD5U) | 
+157    | 65.6 % | [211-1-](http://www.heroesfire.com/hots/talent-calculator/nazeebo#2zF) | 

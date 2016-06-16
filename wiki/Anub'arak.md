@@ -17,9 +17,9 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Anu
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-110    | 73.6 % | [333-1-121](http://www.heroesfire.com/hots/talent-calculator/anubarak#osgn) | 
-459    | 72.6 % | [212-1-211](http://www.heroesfire.com/hots/talent-calculator/anubarak#kFHx) | 
+112    | 74.1 % | [333-1-121](http://www.heroesfire.com/hots/talent-calculator/anubarak#osgn) | 
+464    | 72.4 % | [212-1-211](http://www.heroesfire.com/hots/talent-calculator/anubarak#kFHx) | 
 148    | 68.2 % | [233-1-131](http://www.heroesfire.com/hots/talent-calculator/anubarak#l2Xx) | 
-264    | 53.4 % | [212-2-213](http://www.heroesfire.com/hots/talent-calculator/anubarak#kFXb) | 
+266    | 53.4 % | [212-2-213](http://www.heroesfire.com/hots/talent-calculator/anubarak#kFXb) | 
 N/A    | N/A    | [212-1-213](http://www.heroesfire.com/hots/talent-calculator/anubarak#kFHz) | * Highest popularity talents, individually
 N/A    | N/A    | [233-1-311](http://www.heroesfire.com/hots/talent-calculator/anubarak#l2al) | * Highest win percentage talents, individually

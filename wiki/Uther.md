@@ -17,6 +17,6 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Uth
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-201    | 63.2 % | [111-1-4](http://www.heroesfire.com/hots/talent-calculator/uther#R8A) | 
-1096   | 58.8 % | [144-1-443](http://www.heroesfire.com/hots/talent-calculator/uther#hfKZ) | * Highest popularity talents, individually
+205    | 62.9 % | [111-1-4](http://www.heroesfire.com/hots/talent-calculator/uther#R8A) | 
+1125   | 58.8 % | [144-1-443](http://www.heroesfire.com/hots/talent-calculator/uther#hfKZ) | * Highest popularity talents, individually
 N/A    | N/A    | [413-2-121](http://www.heroesfire.com/hots/talent-calculator/uther#rwEP) | * Highest win percentage talents, individually

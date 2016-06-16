@@ -17,6 +17,6 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Rex
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-106    | 62.3 % | [212-1-1](http://www.heroesfire.com/hots/talent-calculator/rexxar#Tbx) | 
+109    | 62.4 % | [212-1-1](http://www.heroesfire.com/hots/talent-calculator/rexxar#Tbx) | 
 N/A    | N/A    | [212-1-133](http://www.heroesfire.com/hots/talent-calculator/rexxar#kFGj) | * Highest popularity talents, individually
 N/A    | N/A    | [243-2-132](http://www.heroesfire.com/hots/talent-calculator/rexxar#lRC4) | * Highest win percentage talents, individually

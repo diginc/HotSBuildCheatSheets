@@ -17,9 +17,9 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Tyr
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-111    | 71.2 % | [412-2-135](http://www.heroesfire.com/hots/talent-calculator/tyrande#rtoN) | 
-103    | 68.9 % | [413-1-135](http://www.heroesfire.com/hots/talent-calculator/tyrande#rv-_) | 
-132    | 67.4 % | [413-2-13](http://www.heroesfire.com/hots/talent-calculator/tyrande#5P1T) | 
+114    | 70.2 % | [412-2-135](http://www.heroesfire.com/hots/talent-calculator/tyrande#rtoN) | 
+104    | 69.2 % | [413-1-135](http://www.heroesfire.com/hots/talent-calculator/tyrande#rv-_) | 
+134    | 67.9 % | [413-2-13](http://www.heroesfire.com/hots/talent-calculator/tyrande#5P1T) | 
+116    | 62.9 % | [23](http://www.heroesfire.com/hots/talent-calculator/tyrande#1x) | 
 158    | 62.7 % | [412-1-134](http://www.heroesfire.com/hots/talent-calculator/tyrande#rtYk) | * Highest popularity talents, individually
-115    | 62.6 % | [23](http://www.heroesfire.com/hots/talent-calculator/tyrande#1x) | 
 N/A    | N/A    | [453-2-112](http://www.heroesfire.com/hots/talent-calculator/tyrande#tRuG) | * Highest win percentage talents, individually

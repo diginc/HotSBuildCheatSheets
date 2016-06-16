@@ -18,5 +18,5 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Tas
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
 106    | 66.0 % | [111-2-4](http://www.heroesfire.com/hots/talent-calculator/tassadar#R8K) | 
-1060   | 61.7 % | [111-2-223](http://www.heroesfire.com/hots/talent-calculator/tassadar#gOyV) | * Highest popularity talents, individually
+1072   | 61.5 % | [111-2-223](http://www.heroesfire.com/hots/talent-calculator/tassadar#gOyV) | * Highest popularity talents, individually
 N/A    | N/A    | [111-2-221](http://www.heroesfire.com/hots/talent-calculator/tassadar#gOyT) | * Highest win percentage talents, individually

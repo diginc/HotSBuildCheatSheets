@@ -17,6 +17,6 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Sgt
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-123    | 69.1 % | [133-2-1](http://www.heroesfire.com/hots/talent-calculator/sergeant-hammer#Rgf) | 
+124    | 68.5 % | [133-2-1](http://www.heroesfire.com/hots/talent-calculator/sergeant-hammer#Rgf) | 
 N/A    | N/A    | [133-2-144](http://www.heroesfire.com/hots/talent-calculator/sergeant-hammer#hEem) | * Highest popularity talents, individually
 N/A    | N/A    | [533-1-211](http://www.heroesfire.com/hots/talent-calculator/sergeant-hammer#wU-B) | * Highest win percentage talents, individually

@@ -17,7 +17,7 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Sti
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-119    | 67.2 % | [444-1-21](http://www.heroesfire.com/hots/talent-calculator/stitches#5WaP) | 
+124    | 68.5 % | [444-1-21](http://www.heroesfire.com/hots/talent-calculator/stitches#5WaP) | 
 100    | 63.0 % | [21](http://www.heroesfire.com/hots/talent-calculator/stitches#1v) | 
-103    | 61.2 % | [313-1-121](http://www.heroesfire.com/hots/talent-calculator/stitches#o5rn) | * Highest popularity talents, individually
+108    | 62.0 % | [313-1-121](http://www.heroesfire.com/hots/talent-calculator/stitches#o5rn) | * Highest popularity talents, individually
 N/A    | N/A    | [212-1-331](http://www.heroesfire.com/hots/talent-calculator/stitches#kFJp) | * Highest win percentage talents, individually

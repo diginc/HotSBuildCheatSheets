@@ -17,9 +17,9 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Ray
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-143    | 75.5 % | [213-1-114](http://www.heroesfire.com/hots/talent-calculator/raynor#kHig) | 
-182    | 68.7 % | [112-1-114](http://www.heroesfire.com/hots/talent-calculator/raynor#gR7Q) | 
+147    | 75.5 % | [213-1-114](http://www.heroesfire.com/hots/talent-calculator/raynor#kHig) | 
+184    | 67.9 % | [112-1-114](http://www.heroesfire.com/hots/talent-calculator/raynor#gR7Q) | 
 101    | 67.3 % | [222-1-114](http://www.heroesfire.com/hots/talent-calculator/raynor#kdgw) | 
-1326   | 63.7 % | [212-1-134](http://www.heroesfire.com/hots/talent-calculator/raynor#kFGk) | * Highest popularity talents, individually
-131    | 58.8 % | [212-2-114](http://www.heroesfire.com/hots/talent-calculator/raynor#kFW2) | 
+1349   | 63.8 % | [212-1-134](http://www.heroesfire.com/hots/talent-calculator/raynor#kFGk) | * Highest popularity talents, individually
+135    | 60.0 % | [212-2-114](http://www.heroesfire.com/hots/talent-calculator/raynor#kFW2) | 
 N/A    | N/A    | [212-1-114](http://www.heroesfire.com/hots/talent-calculator/raynor#kFGQ) | * Highest win percentage talents, individually

@@ -17,6 +17,6 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Tyr
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-111    | 62.2 % | [411-2-323](http://www.heroesfire.com/hots/talent-calculator/tyrael#rrP3) | 
+113    | 62.0 % | [411-2-323](http://www.heroesfire.com/hots/talent-calculator/tyrael#rrP3) | 
 N/A    | N/A    | [411-1-323](http://www.heroesfire.com/hots/talent-calculator/tyrael#rr9R) | * Highest popularity talents, individually
-N/A    | N/A    | [442-2-112](http://www.heroesfire.com/hots/talent-calculator/tyrael#t11W) | * Highest win percentage talents, individually
+N/A    | N/A    | [442-1-112](http://www.heroesfire.com/hots/talent-calculator/tyrael#t0nu) | * Highest win percentage talents, individually
