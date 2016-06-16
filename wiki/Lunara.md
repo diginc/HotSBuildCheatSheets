@@ -17,15 +17,10 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Lun
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-117    | 61.5 % | [312-1-221](http://www.heroesfire.com/hots/talent-calculator/lunara#o3R5) | 
-37     | ??.? % | [112-1-331](http://www.heroesfire.com/hots/talent-calculator/lunara#gRAp) | 
-46     | ??.? % | [412-1-431](http://www.heroesfire.com/hots/talent-calculator/lunara#rtdN) | 
-36     | ??.? % | [412-1-221](http://www.heroesfire.com/hots/talent-calculator/lunara#rta5) | 
-37     | ??.? % | [112-1-231](http://www.heroesfire.com/hots/talent-calculator/lunara#gR9F) | 
-43     | ??.? % | [312-1-331](http://www.heroesfire.com/hots/talent-calculator/lunara#o3Sp) | 
-64     | ??.? % | [312-1-421](http://www.heroesfire.com/hots/talent-calculator/lunara#o3UD) | 
-39     | ??.? % | [312-1-431](http://www.heroesfire.com/hots/talent-calculator/lunara#o3UN) | 
-36     | ??.? % | [314-1-221](http://www.heroesfire.com/hots/talent-calculator/lunara#o8Jb) | 
-36     | ??.? % | [112-1-431](http://www.heroesfire.com/hots/talent-calculator/lunara#gRCN) | 
-N/A    | N/A    | [312-1-231](http://www.heroesfire.com/hots/talent-calculator/lunara#o3RF) | * Highest popularity talents, individually
-N/A    | N/A    | [334-1-243](http://www.heroesfire.com/hots/talent-calculator/lunara#ov8x) | * Highest win percentage talents, individually
+140    | 69.3 % | [312-1-221](http://www.heroesfire.com/hots/talent-calculator/lunara#o3R5) | 
+137    | 67.2 % | [312-1-](http://www.heroesfire.com/hots/talent-calculator/lunara#3D1) | 
+104    | 65.4 % | [314-1-223](http://www.heroesfire.com/hots/talent-calculator/lunara#o8Jd) | 
+110    | 57.3 % | [312-2-](http://www.heroesfire.com/hots/talent-calculator/lunara#3D2) | 
+152    | 53.9 % | [](http://www.heroesfire.com/hots/talent-calculator/lunara#1) | 
+N/A    | N/A    | [312-1-233](http://www.heroesfire.com/hots/talent-calculator/lunara#o3RH) | * Highest popularity talents, individually
+N/A    | N/A    | [334-1-233](http://www.heroesfire.com/hots/talent-calculator/lunara#ov8n) | * Highest win percentage talents, individually

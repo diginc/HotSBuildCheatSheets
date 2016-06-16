@@ -17,14 +17,15 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Li-
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-1731   | 72.0 % | [121-1-223](http://www.heroesfire.com/hots/talent-calculator/li-ming#gn7N) | 
-488    | 70.7 % | [123-1-341](http://www.heroesfire.com/hots/talent-calculator/li-ming#gs1j) | 
-530    | 70.6 % | [143-1-343](http://www.heroesfire.com/hots/talent-calculator/li-ming#hcsl) | 
-2187   | 70.3 % | [123-1-343](http://www.heroesfire.com/hots/talent-calculator/li-ming#gs1l) | 
-683    | 69.3 % | [122-1-223](http://www.heroesfire.com/hots/talent-calculator/li-ming#gpZd) | 
-410    | 67.8 % | [122-1-343](http://www.heroesfire.com/hots/talent-calculator/li-ming#gpbV) | 
-901    | 67.7 % | [121-1-323](http://www.heroesfire.com/hots/talent-calculator/li-ming#gn8x) | 
-319    | 66.1 % | [122-1-323](http://www.heroesfire.com/hots/talent-calculator/li-ming#gpbB) | * Highest popularity talents, individually
-910    | 65.6 % | [122-1-233](http://www.heroesfire.com/hots/talent-calculator/li-ming#gpZn) | 
-447    | 62.9 % | [122-1-333](http://www.heroesfire.com/hots/talent-calculator/li-ming#gpbL) | 
-N/A    | N/A    | [421-1-223](http://www.heroesfire.com/hots/talent-calculator/li-ming#sDYN) | * Highest win percentage talents, individually
+102    | 69.6 % | [131-1-321](http://www.heroesfire.com/hots/talent-calculator/li-ming#h9ZP) | 
+138    | 65.2 % | [231-1-221](http://www.heroesfire.com/hots/talent-calculator/li-ming#kzgr) | 
+714    | 62.6 % | [133-1-341](http://www.heroesfire.com/hots/talent-calculator/li-ming#hESD) | 
+349    | 61.9 % | [233-1-343](http://www.heroesfire.com/hots/talent-calculator/li-ming#l2bF) | 
+210    | 61.0 % | [233-1-321](http://www.heroesfire.com/hots/talent-calculator/li-ming#l2av) | 
+255    | 59.6 % | [122-1-231](http://www.heroesfire.com/hots/talent-calculator/li-ming#gpZl) | 
+122    | 58.2 % | [22](http://www.heroesfire.com/hots/talent-calculator/li-ming#1w) | 
+125    | 56.8 % | [1](http://www.heroesfire.com/hots/talent-calculator/li-ming#B) | 
+160    | 55.6 % | [](http://www.heroesfire.com/hots/talent-calculator/li-ming#1) | 
+135    | 54.8 % | [222-1-233](http://www.heroesfire.com/hots/talent-calculator/li-ming#kdin) | 
+N/A    | N/A    | [233-1-341](http://www.heroesfire.com/hots/talent-calculator/li-ming#l2bD) | * Highest popularity talents, individually
+N/A    | N/A    | [431-2-122](http://www.heroesfire.com/hots/talent-calculator/li-ming#scAw) | * Highest win percentage talents, individually

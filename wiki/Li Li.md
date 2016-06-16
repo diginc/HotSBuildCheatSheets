@@ -17,14 +17,10 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Li 
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-135    | 57.8 % | [133-1-323](http://www.heroesfire.com/hots/talent-calculator/li-li#hERx) | 
-89     | ??.? % | [324-1-441](http://www.heroesfire.com/hots/talent-calculator/li-li#oWnX) | 
-52     | ??.? % | [124-1-443](http://www.heroesfire.com/hots/talent-calculator/li-li#guVZ) | 
-71     | ??.? % | [324-1-241](http://www.heroesfire.com/hots/talent-calculator/li-li#oWkP) | 
-99     | ??.? % | [324-1-443](http://www.heroesfire.com/hots/talent-calculator/li-li#oWnZ) | 
-95     | ??.? % | [133-1-423](http://www.heroesfire.com/hots/talent-calculator/li-li#hETV) | 
-79     | ??.? % | [133-1-223](http://www.heroesfire.com/hots/talent-calculator/li-li#hEQN) | 
-58     | ??.? % | [123-1-423](http://www.heroesfire.com/hots/talent-calculator/li-li#gs2_) | * Highest popularity talents, individually
-46     | ??.? % | [133-1-221](http://www.heroesfire.com/hots/talent-calculator/li-li#hEQL) | 
-51     | ??.? % | [113-1-423](http://www.heroesfire.com/hots/talent-calculator/li-li#gTeV) | 
-N/A    | N/A    | [324-2-242](http://www.heroesfire.com/hots/talent-calculator/li-li#oW-2) | * Highest win percentage talents, individually
+235    | 72.3 % | [323-1-443](http://www.heroesfire.com/hots/talent-calculator/li-li#oULJ) | 
+122    | 69.7 % | [323-1-241](http://www.heroesfire.com/hots/talent-calculator/li-li#oUI9) | 
+115    | 67.0 % | [132-1-231](http://www.heroesfire.com/hots/talent-calculator/li-li#hB-F) | 
+420    | 66.7 % | [132-1-333](http://www.heroesfire.com/hots/talent-calculator/li-li#hB_r) | 
+168    | 62.5 % | [1](http://www.heroesfire.com/hots/talent-calculator/li-li#B) | 
+N/A    | N/A    | [132-1-433](http://www.heroesfire.com/hots/talent-calculator/li-li#hC1P) | * Highest popularity talents, individually
+N/A    | N/A    | [323-2-342](http://www.heroesfire.com/hots/talent-calculator/li-li#oUZM) | * Highest win percentage talents, individually

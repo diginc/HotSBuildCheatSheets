@@ -17,14 +17,5 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=The
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-37     | ??.? % | [422-1-221](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#sF-b) | 
-19     | ??.? % | [422-2-224](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#sGEG) | 
-36     | ??.? % | [442-2-214](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#t136) | 
-50     | ??.? % | [442-2-224](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#t13G) | 
-25     | ??.? % | [412-2-224](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#rtpm) | 
-42     | ??.? % | [442-1-221](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#t0pb) | 
-26     | ??.? % | [422-2-214](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#sGE6) | * Highest popularity talents, individually
-27     | ??.? % | [442-1-211](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#t0pR) | 
-16     | ??.? % | [412-2-214](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#rtpc) | 
-24     | ??.? % | [422-1-211](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#sF-R) | 
-N/A    | N/A    | [122-2-134](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#gpns) | * Highest win percentage talents, individually
+124    | 75.0 % | [442-2-214](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#t136) | * Highest popularity talents, individually
+N/A    | N/A    | [442-2-144](http://www.heroesfire.com/hots/talent-calculator/the-lost-vikings#t120) | * Highest win percentage talents, individually

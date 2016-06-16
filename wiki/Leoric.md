@@ -17,14 +17,5 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Leo
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-34     | ??.? % | [434-1-143](http://www.heroesfire.com/hots/talent-calculator/leoric#sjGN) | 
-25     | ??.? % | [433-1-123](http://www.heroesfire.com/hots/talent-calculator/leoric#sgpp) | 
-25     | ??.? % | [434-1-233](http://www.heroesfire.com/hots/talent-calculator/leoric#sjHn) | 
-30     | ??.? % | [414-2-123](http://www.heroesfire.com/hots/talent-calculator/leoric#rygh) | 
-85     | ??.? % | [434-1-123](http://www.heroesfire.com/hots/talent-calculator/leoric#sjG3) | * Highest popularity talents, individually
-46     | ??.? % | [414-1-123](http://www.heroesfire.com/hots/talent-calculator/leoric#ryR3) | 
-31     | ??.? % | [434-1-223](http://www.heroesfire.com/hots/talent-calculator/leoric#sjHd) | 
-30     | ??.? % | [433-1-233](http://www.heroesfire.com/hots/talent-calculator/leoric#sgrX) | 
-24     | ??.? % | [431-1-233](http://www.heroesfire.com/hots/talent-calculator/leoric#sbz1) | 
-45     | ??.? % | [434-2-123](http://www.heroesfire.com/hots/talent-calculator/leoric#sjVh) | 
-N/A    | N/A    | [413-1-133](http://www.heroesfire.com/hots/talent-calculator/leoric#rv-z) | * Highest win percentage talents, individually
+N/A    | N/A    | [424-1-123](http://www.heroesfire.com/hots/talent-calculator/leoric#sKrZ) | * Highest popularity talents, individually
+N/A    | N/A    | [313-2-112](http://www.heroesfire.com/hots/talent-calculator/leoric#o65G) | * Highest win percentage talents, individually

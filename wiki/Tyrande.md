@@ -17,15 +17,9 @@ Links: [HOTS Logs Source](https://www.hotslogs.com/Sitewide/HeroDetails?Hero=Tyr
 
 Games  | Win %  | Build     | Note
 -----  | -----  | -----     | ----
-101    | 63.4 % | [232-1-114](http://www.heroesfire.com/hots/talent-calculator/tyrande#l05Q) | 
-104    | 53.9 % | [413-1-131](http://www.heroesfire.com/hots/talent-calculator/tyrande#rv-x) | 
-100    | 50.0 % | [412-1-135](http://www.heroesfire.com/hots/talent-calculator/tyrande#rtYl) | 
-72     | ??.? % | [232-1-111](http://www.heroesfire.com/hots/talent-calculator/tyrande#l05N) | 
-50     | ??.? % | [233-1-111](http://www.heroesfire.com/hots/talent-calculator/tyrande#l2Xd) | 
-98     | ??.? % | [413-1-135](http://www.heroesfire.com/hots/talent-calculator/tyrande#rv-_) | 
-89     | ??.? % | [412-1-131](http://www.heroesfire.com/hots/talent-calculator/tyrande#rtYh) | 
-71     | ??.? % | [413-1-134](http://www.heroesfire.com/hots/talent-calculator/tyrande#rv--) | 
-73     | ??.? % | [233-1-114](http://www.heroesfire.com/hots/talent-calculator/tyrande#l2Xg) | 
-90     | ??.? % | [412-1-134](http://www.heroesfire.com/hots/talent-calculator/tyrande#rtYk) | 
-N/A    | N/A    | [212-1-114](http://www.heroesfire.com/hots/talent-calculator/tyrande#kFGQ) | * Highest popularity talents, individually
-N/A    | N/A    | [344-1-113](http://www.heroesfire.com/hots/talent-calculator/tyrande#pHXP) | * Highest win percentage talents, individually
+111    | 71.2 % | [412-2-135](http://www.heroesfire.com/hots/talent-calculator/tyrande#rtoN) | 
+103    | 68.9 % | [413-1-135](http://www.heroesfire.com/hots/talent-calculator/tyrande#rv-_) | 
+132    | 67.4 % | [413-2-13](http://www.heroesfire.com/hots/talent-calculator/tyrande#5P1T) | 
+158    | 62.7 % | [412-1-134](http://www.heroesfire.com/hots/talent-calculator/tyrande#rtYk) | * Highest popularity talents, individually
+115    | 62.6 % | [23](http://www.heroesfire.com/hots/talent-calculator/tyrande#1x) | 
+N/A    | N/A    | [453-2-112](http://www.heroesfire.com/hots/talent-calculator/tyrande#tRuG) | * Highest win percentage talents, individually
