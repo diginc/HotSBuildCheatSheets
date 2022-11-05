@@ -1,5 +1,7 @@
 ![build status](https://travis-ci.org/diginc/HotSBuildCheatSheets.svg?branch=master)
 
+# Archived project
+
 # Builds
 
 Check the wiki out for builds
